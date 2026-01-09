@@ -1,22 +1,16 @@
 import logging
 import os
 import random
-
 import numpy as np
 import tiktoken
 import torch
-
-from model import TransformerEncoderLayer
-
+from model import TransformerEncoder, TransformerEncoderLayer
 import settings
 
 iterations = 500
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-
 encoder = tiktoken.get_encoding("o200k_base")
-
 max_seq_length = 100
-# vocab_size = encoder.n_vocab # this is what we use IRL
 vocab_size = 512
 
 
@@ -36,21 +30,6 @@ batch = [
 pad_token_id = (
     encoder.eot_token % vocab_size
 )  #! add modulo for research purposes like above
-logging.debug(f"encoder.n_vocab: {encoder.n_vocab}")
-print(f"The EOT(I will use as pad) token ID is: {pad_token_id}")
-
-
-model = TransformerEncoderLayer(
-    d_model=100,
-    n_heads=10,
-    d_head=10,
-    vocab_size=vocab_size,
-    max_seq_length=max_seq_length,
-    pad_token=pad_token_id,
-)
-model.to(device)
-criterion = torch.nn.MSELoss()
-optim = torch.optim.AdamW(model.parameters(), lr=1e-3)
 
 
 batch_padded = torch.full(
@@ -66,6 +45,21 @@ logging.info(f"batch_padded: {batch_padded.shape}")
 
 target_seq = torch.randn(3, 100, 100, device=device)  # (batch, seq_len, dim)
 
+
+model = TransformerEncoder(
+    n_blocks=1,
+    d_model=100,
+    n_heads=10,
+    d_head=10,
+    vocab_size=vocab_size,
+    max_seq_length=max_seq_length,
+    pad_token_id=pad_token_id,
+)
+model.to(device)
+criterion = torch.nn.MSELoss()
+optim = torch.optim.AdamW(model.parameters(), lr=1e-3)
+
+
 for _ in range(iterations):
     optim.zero_grad()
     output, input = model(batch_padded)
@@ -74,4 +68,4 @@ for _ in range(iterations):
     optim.step()
 
     logging.info(f"Loss: {loss.item():.4f}")
-    break
+    # break

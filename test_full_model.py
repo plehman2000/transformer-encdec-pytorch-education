@@ -1,5 +1,5 @@
 import logging
-from model import TransformerDecoder, TransformerDecoderLayer, TransformerEncoder, TransformerEncoderLayer
+from model import Transformer, TransformerDecoder, TransformerDecoderLayer, TransformerEncoder, TransformerEncoderLayer
 import torch
 import tiktoken
 import settings
@@ -33,8 +33,8 @@ input_sequences_to_encode = [
 ]
 
 output_sequences_to_encode = [
-    "My nigga",
-    "Nigga this shi crazy",
+    "My wigger",
+    "wigger this shi crazy",
     "Wus poppin?",
 ]
 
@@ -51,21 +51,11 @@ output_ids = encode(output_sequences_to_encode)
 output_ids = output_ids.to(device)
 
 
-temp_encoder_model = TransformerEncoder(
-    n_blocks=1,
-    d_model=100,
-    n_heads=10,
-    d_head=10,
-    vocab_size=vocab_size,
-    max_seq_length=max_seq_length,
-    pad_token_id=pad_token_id,
-)
-
-encoder_embedding, _ = temp_encoder_model(input_ids)
 
 
-model = TransformerDecoder(
-    n_blocks=1,
+model = Transformer(
+    n_enc_blocks=1,
+    n_dec_blocks=1,
     d_model=100,
     n_heads=2,
     d_head=10,
@@ -75,25 +65,28 @@ model = TransformerDecoder(
 )
 
 
+
 model.to(device)
 criterion = torch.nn.CrossEntropyLoss(ignore_index=pad_token_id)
 
 optim = torch.optim.AdamW(model.parameters(), lr=1e-3)
 
-iterations = 10
+iterations = 100
 for _ in range(iterations):
     optim.zero_grad()
-    output = model.forward(
-        encoder_embedding=encoder_embedding, input_ids=input_ids, target_ids=output_ids
+    output = model.forward(input_ids=input_ids, target_ids=output_ids
     )
-    logging.info(f"output: {output.shape}")
-    logging.info(f"output_ids: {output_ids.shape}")
-    loss = criterion(output, output_ids)
+    loss = criterion(output.view(-1, vocab_size), output_ids.view(-1))
     loss.backward()
     optim.step()
 
     logging.info(f"Loss: {loss.item():.4f}")
-    break
+    # break
+
+
+
+
+
 
 
 # # # Would be fruitful to build a vanilla transformer of a small scale, then run it on a small dataset

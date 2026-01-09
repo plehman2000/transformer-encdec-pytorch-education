@@ -1,1 +1,0 @@
-{"_runtime":29,"attention_weight_variance":0.14635805785655975,"layer_output_entropy":4.500500679016113,"output_variance":6.629195213317871,"_step":999,"_wandb":{"runtime":29},"step":999,"output_average":0.08107063174247742,"attention_weight_average":0.32206010818481445,"_timestamp":1.767031757709832e+09,"loss":0.05974763631820679,"layer_gradient_norm":0.0038216914981603622}

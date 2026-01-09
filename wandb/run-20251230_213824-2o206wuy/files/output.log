@@ -1,0 +1,23 @@
+Traceback (most recent call last):
+  File "C:\GH\scratch\main.py", line 130, in <module>
+    output = model(batch)
+             ^^^^^^^^^^^^
+  File "C:\GH\scratch\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GH\scratch\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GH\scratch\model.py", line 176, in forward
+    attention_scores, attn_probs, logits = self.attn_layer(x)
+                                           ^^^^^^^^^^^^^^^^^^
+  File "C:\GH\scratch\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1739, in _wrapped_call_impl
+    return self._call_impl(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GH\scratch\.venv\Lib\site-packages\torch\nn\modules\module.py", line 1750, in _call_impl
+    return forward_call(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\GH\scratch\model.py", line 82, in forward
+    causal_mask = torch.triu(torch.ones(seq_length,seq_length, device="infer device type from x")*float("-inf"), diagonal=1)
+                             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Invalid device string: 'infer device type from x'

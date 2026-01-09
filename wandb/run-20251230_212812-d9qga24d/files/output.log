@@ -1,0 +1,3000 @@
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.8020
+DEBUG:root:Entropy — layer: 4.8392, headwise: [4.838471412658691, 4.839943885803223]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.8000
+DEBUG:root:Entropy — layer: 4.8392, headwise: [4.83845853805542, 4.839938640594482]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7980
+DEBUG:root:Entropy — layer: 4.8392, headwise: [4.838440895080566, 4.839931488037109]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7962
+DEBUG:root:Entropy — layer: 4.8392, headwise: [4.838418960571289, 4.839921474456787]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7944
+DEBUG:root:Entropy — layer: 4.8391, headwise: [4.8383917808532715, 4.839907646179199]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7926
+DEBUG:root:Entropy — layer: 4.8391, headwise: [4.838359832763672, 4.839888095855713]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7909
+DEBUG:root:Entropy — layer: 4.8391, headwise: [4.838323593139648, 4.839862823486328]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7893
+DEBUG:root:Entropy — layer: 4.8391, headwise: [4.838282585144043, 4.839831829071045]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7878
+DEBUG:root:Entropy — layer: 4.8390, headwise: [4.838237762451172, 4.839795112609863]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7863
+DEBUG:root:Entropy — layer: 4.8390, headwise: [4.838189601898193, 4.839751720428467]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7849
+DEBUG:root:Entropy — layer: 4.8389, headwise: [4.838137626647949, 4.839702129364014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7835
+DEBUG:root:Entropy — layer: 4.8389, headwise: [4.838081359863281, 4.839646339416504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7822
+DEBUG:root:Entropy — layer: 4.8388, headwise: [4.838022232055664, 4.839583396911621]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7809
+DEBUG:root:Entropy — layer: 4.8387, headwise: [4.837958812713623, 4.839513778686523]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7797
+DEBUG:root:Entropy — layer: 4.8387, headwise: [4.837891578674316, 4.839437484741211]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7785
+DEBUG:root:Entropy — layer: 4.8386, headwise: [4.8378190994262695, 4.839354038238525]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7774
+DEBUG:root:Entropy — layer: 4.8385, headwise: [4.837741374969482, 4.83926248550415]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7763
+DEBUG:root:Entropy — layer: 4.8384, headwise: [4.837657928466797, 4.839162826538086]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7752
+DEBUG:root:Entropy — layer: 4.8383, headwise: [4.837568759918213, 4.839054584503174]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7742
+DEBUG:root:Entropy — layer: 4.8382, headwise: [4.837471961975098, 4.838935852050781]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7732
+DEBUG:root:Entropy — layer: 4.8381, headwise: [4.837367534637451, 4.838807106018066]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7722
+DEBUG:root:Entropy — layer: 4.8380, headwise: [4.837254524230957, 4.838666915893555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7713
+DEBUG:root:Entropy — layer: 4.8378, headwise: [4.837131500244141, 4.8385138511657715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7703
+DEBUG:root:Entropy — layer: 4.8377, headwise: [4.836997985839844, 4.838347911834717]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7694
+DEBUG:root:Entropy — layer: 4.8375, headwise: [4.836852550506592, 4.838169097900391]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7685
+DEBUG:root:Entropy — layer: 4.8373, headwise: [4.836694240570068, 4.83797550201416]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7677
+DEBUG:root:Entropy — layer: 4.8371, headwise: [4.836521625518799, 4.837766170501709]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7668
+DEBUG:root:Entropy — layer: 4.8369, headwise: [4.836333751678467, 4.837540626525879]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7659
+DEBUG:root:Entropy — layer: 4.8367, headwise: [4.836129188537598, 4.8372979164123535]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7651
+DEBUG:root:Entropy — layer: 4.8365, headwise: [4.835907936096191, 4.837037086486816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7642
+DEBUG:root:Entropy — layer: 4.8362, headwise: [4.835666656494141, 4.836755275726318]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7634
+DEBUG:root:Entropy — layer: 4.8359, headwise: [4.835404872894287, 4.836451530456543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7625
+DEBUG:root:Entropy — layer: 4.8356, headwise: [4.835120677947998, 4.836125373840332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7616
+DEBUG:root:Entropy — layer: 4.8353, headwise: [4.834811687469482, 4.835772514343262]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7607
+DEBUG:root:Entropy — layer: 4.8349, headwise: [4.834475994110107, 4.835392951965332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7598
+DEBUG:root:Entropy — layer: 4.8345, headwise: [4.834110260009766, 4.834982872009277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7589
+DEBUG:root:Entropy — layer: 4.8341, headwise: [4.833713054656982, 4.834539413452148]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7579
+DEBUG:root:Entropy — layer: 4.8337, headwise: [4.833280086517334, 4.834061145782471]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7569
+DEBUG:root:Entropy — layer: 4.8332, headwise: [4.832808494567871, 4.833543300628662]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7559
+DEBUG:root:Entropy — layer: 4.8326, headwise: [4.832294464111328, 4.832983493804932]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7548
+DEBUG:root:Entropy — layer: 4.8321, headwise: [4.831734657287598, 4.832377910614014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7537
+DEBUG:root:Entropy — layer: 4.8314, headwise: [4.831123352050781, 4.831721782684326]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7525
+DEBUG:root:Entropy — layer: 4.8307, headwise: [4.8304572105407715, 4.8310112953186035]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7513
+DEBUG:root:Entropy — layer: 4.8300, headwise: [4.829730987548828, 4.83024263381958]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7500
+DEBUG:root:Entropy — layer: 4.8292, headwise: [4.828940391540527, 4.829410076141357]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7486
+DEBUG:root:Entropy — layer: 4.8283, headwise: [4.828078269958496, 4.828509330749512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7471
+DEBUG:root:Entropy — layer: 4.8273, headwise: [4.8271403312683105, 4.827535629272461]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7455
+DEBUG:root:Entropy — layer: 4.8263, headwise: [4.826119899749756, 4.826482772827148]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7439
+DEBUG:root:Entropy — layer: 4.8252, headwise: [4.825011253356934, 4.825345516204834]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7421
+DEBUG:root:Entropy — layer: 4.8240, headwise: [4.823807716369629, 4.8241190910339355]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7402
+DEBUG:root:Entropy — layer: 4.8226, headwise: [4.822502613067627, 4.822795867919922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7382
+DEBUG:root:Entropy — layer: 4.8212, headwise: [4.821088790893555, 4.821371078491211]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7360
+DEBUG:root:Entropy — layer: 4.8197, headwise: [4.819559097290039, 4.81983757019043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7337
+DEBUG:root:Entropy — layer: 4.8180, headwise: [4.817907333374023, 4.8181891441345215]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7313
+DEBUG:root:Entropy — layer: 4.8163, headwise: [4.816125392913818, 4.81641960144043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7287
+DEBUG:root:Entropy — layer: 4.8144, headwise: [4.814206600189209, 4.814521789550781]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7259
+DEBUG:root:Entropy — layer: 4.8123, headwise: [4.812143325805664, 4.812490463256836]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7230
+DEBUG:root:Entropy — layer: 4.8101, headwise: [4.809928894042969, 4.810318470001221]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7198
+DEBUG:root:Entropy — layer: 4.8078, headwise: [4.80755615234375, 4.808000564575195]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7166
+DEBUG:root:Entropy — layer: 4.8053, headwise: [4.805019378662109, 4.805531978607178]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7131
+DEBUG:root:Entropy — layer: 4.8026, headwise: [4.802312850952148, 4.802907466888428]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7095
+DEBUG:root:Entropy — layer: 4.7998, headwise: [4.799431800842285, 4.80012321472168]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7056
+DEBUG:root:Entropy — layer: 4.7968, headwise: [4.796370983123779, 4.797175884246826]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.7016
+DEBUG:root:Entropy — layer: 4.7936, headwise: [4.79312801361084, 4.794063568115234]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6975
+DEBUG:root:Entropy — layer: 4.7902, headwise: [4.789698600769043, 4.790785789489746]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6932
+DEBUG:root:Entropy — layer: 4.7867, headwise: [4.786081314086914, 4.787341594696045]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6887
+DEBUG:root:Entropy — layer: 4.7830, headwise: [4.78227424621582, 4.783733367919922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6842
+DEBUG:root:Entropy — layer: 4.7791, headwise: [4.778276443481445, 4.779963493347168]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6795
+DEBUG:root:Entropy — layer: 4.7751, headwise: [4.7740888595581055, 4.776036739349365]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6748
+DEBUG:root:Entropy — layer: 4.7708, headwise: [4.769713401794434, 4.771958827972412]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6700
+DEBUG:root:Entropy — layer: 4.7664, headwise: [4.765153884887695, 4.76773738861084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6652
+DEBUG:root:Entropy — layer: 4.7619, headwise: [4.7604169845581055, 4.763381004333496]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6604
+DEBUG:root:Entropy — layer: 4.7572, headwise: [4.755511283874512, 4.758901119232178]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6558
+DEBUG:root:Entropy — layer: 4.7524, headwise: [4.750447750091553, 4.7543110847473145]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6512
+DEBUG:root:Entropy — layer: 4.7474, headwise: [4.745242118835449, 4.749627590179443]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6468
+DEBUG:root:Entropy — layer: 4.7424, headwise: [4.739913463592529, 4.744870185852051]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6426
+DEBUG:root:Entropy — layer: 4.7373, headwise: [4.734482765197754, 4.740062713623047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6386
+DEBUG:root:Entropy — layer: 4.7321, headwise: [4.728978157043457, 4.735235214233398]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6350
+DEBUG:root:Entropy — layer: 4.7269, headwise: [4.723428249359131, 4.730421543121338]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6316
+DEBUG:root:Entropy — layer: 4.7218, headwise: [4.717868328094482, 4.725661277770996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6286
+DEBUG:root:Entropy — layer: 4.7167, headwise: [4.712337017059326, 4.720998764038086]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6258
+DEBUG:root:Entropy — layer: 4.7117, headwise: [4.706873416900635, 4.7164812088012695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6234
+DEBUG:root:Entropy — layer: 4.7068, headwise: [4.701519966125488, 4.712156295776367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6212
+DEBUG:root:Entropy — layer: 4.7022, headwise: [4.696318626403809, 4.708070755004883]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6192
+DEBUG:root:Entropy — layer: 4.6978, headwise: [4.69130802154541, 4.704268932342529]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6174
+DEBUG:root:Entropy — layer: 4.6937, headwise: [4.6865234375, 4.700786590576172]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6157
+DEBUG:root:Entropy — layer: 4.6898, headwise: [4.681994915008545, 4.697652816772461]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6140
+DEBUG:root:Entropy — layer: 4.6863, headwise: [4.677743434906006, 4.694884777069092]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6123
+DEBUG:root:Entropy — layer: 4.6831, headwise: [4.6737823486328125, 4.692490577697754]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6107
+DEBUG:root:Entropy — layer: 4.6803, headwise: [4.670116424560547, 4.690464973449707]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6090
+DEBUG:root:Entropy — layer: 4.6778, headwise: [4.6667399406433105, 4.6887946128845215]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6073
+DEBUG:root:Entropy — layer: 4.6755, headwise: [4.663641929626465, 4.687456130981445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6056
+DEBUG:root:Entropy — layer: 4.6736, headwise: [4.660802841186523, 4.68641996383667]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6039
+DEBUG:root:Entropy — layer: 4.6719, headwise: [4.658200263977051, 4.685649394989014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6022
+DEBUG:root:Entropy — layer: 4.6705, headwise: [4.655805587768555, 4.685105323791504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.6005
+DEBUG:root:Entropy — layer: 4.6692, headwise: [4.653590202331543, 4.684745788574219]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5990
+DEBUG:root:Entropy — layer: 4.6680, headwise: [4.651524543762207, 4.6845316886901855]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5975
+DEBUG:root:Entropy — layer: 4.6670, headwise: [4.6495771408081055, 4.684421539306641]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5960
+DEBUG:root:Entropy — layer: 4.6660, headwise: [4.647721290588379, 4.684378623962402]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5947
+DEBUG:root:Entropy — layer: 4.6651, headwise: [4.645930290222168, 4.684369087219238]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5935
+DEBUG:root:Entropy — layer: 4.6643, headwise: [4.644178867340088, 4.684361934661865]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5923
+DEBUG:root:Entropy — layer: 4.6634, headwise: [4.6424479484558105, 4.684331893920898]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5912
+DEBUG:root:Entropy — layer: 4.6625, headwise: [4.640718460083008, 4.684256553649902]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5901
+DEBUG:root:Entropy — layer: 4.6615, headwise: [4.63897705078125, 4.68411922454834]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5891
+DEBUG:root:Entropy — layer: 4.6606, headwise: [4.637210845947266, 4.683907508850098]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5882
+DEBUG:root:Entropy — layer: 4.6595, headwise: [4.635412216186523, 4.683611869812012]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5872
+DEBUG:root:Entropy — layer: 4.6584, headwise: [4.633575439453125, 4.683228492736816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5863
+DEBUG:root:Entropy — layer: 4.6572, headwise: [4.631696701049805, 4.682754993438721]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5854
+DEBUG:root:Entropy — layer: 4.6560, headwise: [4.629776954650879, 4.682193279266357]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5845
+DEBUG:root:Entropy — layer: 4.6547, headwise: [4.627815246582031, 4.681548118591309]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5837
+DEBUG:root:Entropy — layer: 4.6533, headwise: [4.625816345214844, 4.680826187133789]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5828
+DEBUG:root:Entropy — layer: 4.6519, headwise: [4.623782634735107, 4.680034637451172]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5819
+DEBUG:root:Entropy — layer: 4.6505, headwise: [4.621721267700195, 4.679184913635254]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5811
+DEBUG:root:Entropy — layer: 4.6490, headwise: [4.619637489318848, 4.678286552429199]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5802
+DEBUG:root:Entropy — layer: 4.6474, headwise: [4.617537975311279, 4.677351951599121]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5794
+DEBUG:root:Entropy — layer: 4.6459, headwise: [4.6154303550720215, 4.676392555236816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5786
+DEBUG:root:Entropy — layer: 4.6444, headwise: [4.613321304321289, 4.675420761108398]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5778
+DEBUG:root:Entropy — layer: 4.6428, headwise: [4.611218452453613, 4.674447536468506]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5771
+DEBUG:root:Entropy — layer: 4.6413, headwise: [4.609126567840576, 4.6734843254089355]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5763
+DEBUG:root:Entropy — layer: 4.6398, headwise: [4.607053756713867, 4.672541618347168]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5756
+DEBUG:root:Entropy — layer: 4.6383, headwise: [4.60500431060791, 4.671628952026367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5749
+DEBUG:root:Entropy — layer: 4.6369, headwise: [4.602982997894287, 4.670753479003906]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5742
+DEBUG:root:Entropy — layer: 4.6355, headwise: [4.600992202758789, 4.669921875]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5736
+DEBUG:root:Entropy — layer: 4.6341, headwise: [4.59903621673584, 4.669139862060547]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5729
+DEBUG:root:Entropy — layer: 4.6328, headwise: [4.597114562988281, 4.668410778045654]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5723
+DEBUG:root:Entropy — layer: 4.6315, headwise: [4.595229148864746, 4.667736053466797]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5717
+DEBUG:root:Entropy — layer: 4.6302, headwise: [4.593378067016602, 4.667116165161133]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5711
+DEBUG:root:Entropy — layer: 4.6291, headwise: [4.591561317443848, 4.666550636291504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5705
+DEBUG:root:Entropy — layer: 4.6279, headwise: [4.589774131774902, 4.666036605834961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5699
+DEBUG:root:Entropy — layer: 4.6268, headwise: [4.588015079498291, 4.665571212768555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5694
+DEBUG:root:Entropy — layer: 4.6257, headwise: [4.58627986907959, 4.665148735046387]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5688
+DEBUG:root:Entropy — layer: 4.6247, headwise: [4.584564685821533, 4.664764881134033]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5683
+DEBUG:root:Entropy — layer: 4.6236, headwise: [4.582864284515381, 4.6644134521484375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5678
+DEBUG:root:Entropy — layer: 4.6226, headwise: [4.581174373626709, 4.664088726043701]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5672
+DEBUG:root:Entropy — layer: 4.6216, headwise: [4.579490661621094, 4.663784027099609]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5667
+DEBUG:root:Entropy — layer: 4.6207, headwise: [4.577807903289795, 4.6634931564331055]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5662
+DEBUG:root:Entropy — layer: 4.6197, headwise: [4.576122283935547, 4.663209915161133]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5657
+DEBUG:root:Entropy — layer: 4.6187, headwise: [4.574429035186768, 4.662929058074951]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5652
+DEBUG:root:Entropy — layer: 4.6177, headwise: [4.572726249694824, 4.66264533996582]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5648
+DEBUG:root:Entropy — layer: 4.6167, headwise: [4.571009159088135, 4.662353515625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5643
+DEBUG:root:Entropy — layer: 4.6157, headwise: [4.569276332855225, 4.662051200866699]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5638
+DEBUG:root:Entropy — layer: 4.6146, headwise: [4.567525386810303, 4.661733150482178]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5633
+DEBUG:root:Entropy — layer: 4.6136, headwise: [4.5657548904418945, 4.661397933959961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5628
+DEBUG:root:Entropy — layer: 4.6125, headwise: [4.563964366912842, 4.661044120788574]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5624
+DEBUG:root:Entropy — layer: 4.6114, headwise: [4.562152862548828, 4.660669326782227]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5619
+DEBUG:root:Entropy — layer: 4.6103, headwise: [4.560319900512695, 4.66027307510376]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5614
+DEBUG:root:Entropy — layer: 4.6092, headwise: [4.558466911315918, 4.659855842590332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5610
+DEBUG:root:Entropy — layer: 4.6080, headwise: [4.556593894958496, 4.659417629241943]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5605
+DEBUG:root:Entropy — layer: 4.6068, headwise: [4.554702281951904, 4.65895938873291]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5600
+DEBUG:root:Entropy — layer: 4.6056, headwise: [4.552792549133301, 4.658481597900391]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5595
+DEBUG:root:Entropy — layer: 4.6044, headwise: [4.550866603851318, 4.657987117767334]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5590
+DEBUG:root:Entropy — layer: 4.6032, headwise: [4.548925399780273, 4.657475471496582]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5586
+DEBUG:root:Entropy — layer: 4.6020, headwise: [4.546971321105957, 4.656949996948242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5581
+DEBUG:root:Entropy — layer: 4.6007, headwise: [4.545004844665527, 4.656411170959473]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5576
+DEBUG:root:Entropy — layer: 4.5994, headwise: [4.543027877807617, 4.655860424041748]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5571
+DEBUG:root:Entropy — layer: 4.5982, headwise: [4.541041374206543, 4.655299186706543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5566
+DEBUG:root:Entropy — layer: 4.5969, headwise: [4.539045810699463, 4.654728889465332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5561
+DEBUG:root:Entropy — layer: 4.5956, headwise: [4.537042617797852, 4.654150009155273]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5556
+DEBUG:root:Entropy — layer: 4.5943, headwise: [4.535033226013184, 4.653563976287842]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5550
+DEBUG:root:Entropy — layer: 4.5930, headwise: [4.533017635345459, 4.652970314025879]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5545
+DEBUG:root:Entropy — layer: 4.5917, headwise: [4.530995845794678, 4.652369499206543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5540
+DEBUG:root:Entropy — layer: 4.5904, headwise: [4.528968334197998, 4.651761054992676]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5534
+DEBUG:root:Entropy — layer: 4.5890, headwise: [4.526934623718262, 4.651144027709961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5529
+DEBUG:root:Entropy — layer: 4.5877, headwise: [4.524895191192627, 4.650518417358398]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5523
+DEBUG:root:Entropy — layer: 4.5864, headwise: [4.5228495597839355, 4.649883270263672]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5518
+DEBUG:root:Entropy — layer: 4.5850, headwise: [4.520796775817871, 4.649237632751465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5512
+DEBUG:root:Entropy — layer: 4.5837, headwise: [4.518737316131592, 4.6485795974731445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5506
+DEBUG:root:Entropy — layer: 4.5823, headwise: [4.516669273376465, 4.647907257080078]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5500
+DEBUG:root:Entropy — layer: 4.5809, headwise: [4.514593124389648, 4.647219657897949]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5494
+DEBUG:root:Entropy — layer: 4.5795, headwise: [4.512508392333984, 4.646515369415283]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5488
+DEBUG:root:Entropy — layer: 4.5781, headwise: [4.51041316986084, 4.645792484283447]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5482
+DEBUG:root:Entropy — layer: 4.5767, headwise: [4.508308410644531, 4.645049095153809]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5475
+DEBUG:root:Entropy — layer: 4.5752, headwise: [4.506192684173584, 4.644284248352051]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5469
+DEBUG:root:Entropy — layer: 4.5738, headwise: [4.504066467285156, 4.643495559692383]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5462
+DEBUG:root:Entropy — layer: 4.5723, headwise: [4.501927852630615, 4.642683029174805]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5456
+DEBUG:root:Entropy — layer: 4.5708, headwise: [4.4997782707214355, 4.641843795776367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5449
+DEBUG:root:Entropy — layer: 4.5693, headwise: [4.497616767883301, 4.640977382659912]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5442
+DEBUG:root:Entropy — layer: 4.5678, headwise: [4.495443344116211, 4.640082836151123]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5435
+DEBUG:root:Entropy — layer: 4.5662, headwise: [4.493258476257324, 4.639159202575684]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5428
+DEBUG:root:Entropy — layer: 4.5646, headwise: [4.491061210632324, 4.638204574584961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5421
+DEBUG:root:Entropy — layer: 4.5630, headwise: [4.4888529777526855, 4.6372199058532715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5413
+DEBUG:root:Entropy — layer: 4.5614, headwise: [4.486634254455566, 4.636203289031982]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5406
+DEBUG:root:Entropy — layer: 4.5598, headwise: [4.484404563903809, 4.635154724121094]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5398
+DEBUG:root:Entropy — layer: 4.5581, headwise: [4.48216438293457, 4.634073734283447]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5390
+DEBUG:root:Entropy — layer: 4.5564, headwise: [4.479915142059326, 4.632959365844727]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5382
+DEBUG:root:Entropy — layer: 4.5547, headwise: [4.477657318115234, 4.631812572479248]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5374
+DEBUG:root:Entropy — layer: 4.5530, headwise: [4.475390434265137, 4.630631446838379]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5366
+DEBUG:root:Entropy — layer: 4.5513, headwise: [4.473116874694824, 4.629416465759277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5358
+DEBUG:root:Entropy — layer: 4.5495, headwise: [4.470836162567139, 4.628167629241943]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5349
+DEBUG:root:Entropy — layer: 4.5477, headwise: [4.468549728393555, 4.626884460449219]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5341
+DEBUG:root:Entropy — layer: 4.5459, headwise: [4.4662580490112305, 4.625566482543945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5332
+DEBUG:root:Entropy — layer: 4.5441, headwise: [4.463962078094482, 4.624214172363281]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5323
+DEBUG:root:Entropy — layer: 4.5422, headwise: [4.461662292480469, 4.622827053070068]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5314
+DEBUG:root:Entropy — layer: 4.5404, headwise: [4.459360599517822, 4.621404647827148]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5305
+DEBUG:root:Entropy — layer: 4.5385, headwise: [4.457056999206543, 4.619948387145996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5295
+DEBUG:root:Entropy — layer: 4.5366, headwise: [4.454753398895264, 4.61845588684082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5286
+DEBUG:root:Entropy — layer: 4.5347, headwise: [4.452449798583984, 4.616929531097412]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5276
+DEBUG:root:Entropy — layer: 4.5328, headwise: [4.45014762878418, 4.615367412567139]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5266
+DEBUG:root:Entropy — layer: 4.5308, headwise: [4.447848320007324, 4.613770961761475]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5256
+DEBUG:root:Entropy — layer: 4.5288, headwise: [4.445552349090576, 4.612140655517578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5246
+DEBUG:root:Entropy — layer: 4.5269, headwise: [4.443261623382568, 4.610476493835449]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5236
+DEBUG:root:Entropy — layer: 4.5249, headwise: [4.440977096557617, 4.608778953552246]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5225
+DEBUG:root:Entropy — layer: 4.5229, headwise: [4.438699722290039, 4.607048988342285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5215
+DEBUG:root:Entropy — layer: 4.5209, headwise: [4.436431884765625, 4.605287075042725]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5204
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.434174537658691, 4.603495121002197]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5193
+DEBUG:root:Entropy — layer: 4.5168, headwise: [4.4319281578063965, 4.601673603057861]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5182
+DEBUG:root:Entropy — layer: 4.5148, headwise: [4.429696083068848, 4.59982442855835]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5171
+DEBUG:root:Entropy — layer: 4.5127, headwise: [4.427478313446045, 4.5979485511779785]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5160
+DEBUG:root:Entropy — layer: 4.5107, headwise: [4.4252777099609375, 4.596048831939697]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5148
+DEBUG:root:Entropy — layer: 4.5086, headwise: [4.423095703125, 4.5941267013549805]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5137
+DEBUG:root:Entropy — layer: 4.5066, headwise: [4.420933723449707, 4.592184066772461]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5125
+DEBUG:root:Entropy — layer: 4.5045, headwise: [4.418793678283691, 4.590224266052246]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5113
+DEBUG:root:Entropy — layer: 4.5025, headwise: [4.416677474975586, 4.588249206542969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5102
+DEBUG:root:Entropy — layer: 4.5004, headwise: [4.414587497711182, 4.586261749267578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5090
+DEBUG:root:Entropy — layer: 4.4984, headwise: [4.412525177001953, 4.584264755249023]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5078
+DEBUG:root:Entropy — layer: 4.4964, headwise: [4.410491943359375, 4.5822625160217285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5066
+DEBUG:root:Entropy — layer: 4.4944, headwise: [4.408490180969238, 4.580256938934326]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5053
+DEBUG:root:Entropy — layer: 4.4924, headwise: [4.406520843505859, 4.578251838684082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5041
+DEBUG:root:Entropy — layer: 4.4904, headwise: [4.4045867919921875, 4.576251029968262]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5029
+DEBUG:root:Entropy — layer: 4.4885, headwise: [4.4026899337768555, 4.574256896972656]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5016
+DEBUG:root:Entropy — layer: 4.4866, headwise: [4.400830268859863, 4.572274684906006]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.5004
+DEBUG:root:Entropy — layer: 4.4847, headwise: [4.39901065826416, 4.57030725479126]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4991
+DEBUG:root:Entropy — layer: 4.4828, headwise: [4.397231101989746, 4.568358421325684]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4979
+DEBUG:root:Entropy — layer: 4.4810, headwise: [4.39549446105957, 4.566431045532227]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4966
+DEBUG:root:Entropy — layer: 4.4792, headwise: [4.393801689147949, 4.564529895782471]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4953
+DEBUG:root:Entropy — layer: 4.4774, headwise: [4.392152786254883, 4.562657833099365]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4940
+DEBUG:root:Entropy — layer: 4.4757, headwise: [4.390549182891846, 4.560818195343018]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4928
+DEBUG:root:Entropy — layer: 4.4740, headwise: [4.388991832733154, 4.559014797210693]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4915
+DEBUG:root:Entropy — layer: 4.4724, headwise: [4.387481212615967, 4.557250022888184]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4902
+DEBUG:root:Entropy — layer: 4.4708, headwise: [4.386017322540283, 4.5555267333984375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4889
+DEBUG:root:Entropy — layer: 4.4692, headwise: [4.38460111618042, 4.5538482666015625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4876
+DEBUG:root:Entropy — layer: 4.4677, headwise: [4.3832316398620605, 4.552216529846191]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4863
+DEBUG:root:Entropy — layer: 4.4663, headwise: [4.3819098472595215, 4.550634384155273]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4850
+DEBUG:root:Entropy — layer: 4.4649, headwise: [4.380634784698486, 4.549103736877441]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4837
+DEBUG:root:Entropy — layer: 4.4635, headwise: [4.379405975341797, 4.547625541687012]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4824
+DEBUG:root:Entropy — layer: 4.4622, headwise: [4.378223419189453, 4.546201705932617]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4811
+DEBUG:root:Entropy — layer: 4.4610, headwise: [4.377086162567139, 4.544833660125732]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4798
+DEBUG:root:Entropy — layer: 4.4598, headwise: [4.375993251800537, 4.543521881103516]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4785
+DEBUG:root:Entropy — layer: 4.4586, headwise: [4.374942779541016, 4.542267799377441]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4772
+DEBUG:root:Entropy — layer: 4.4575, headwise: [4.373934745788574, 4.541070461273193]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4759
+DEBUG:root:Entropy — layer: 4.4564, headwise: [4.372966766357422, 4.539931297302246]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4747
+DEBUG:root:Entropy — layer: 4.4554, headwise: [4.372038841247559, 4.538849353790283]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4734
+DEBUG:root:Entropy — layer: 4.4545, headwise: [4.371148109436035, 4.537824630737305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4721
+DEBUG:root:Entropy — layer: 4.4536, headwise: [4.370292663574219, 4.536856651306152]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4708
+DEBUG:root:Entropy — layer: 4.4527, headwise: [4.369472026824951, 4.535944938659668]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4695
+DEBUG:root:Entropy — layer: 4.4519, headwise: [4.368683815002441, 4.535088539123535]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4682
+DEBUG:root:Entropy — layer: 4.4511, headwise: [4.367925643920898, 4.534286022186279]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4670
+DEBUG:root:Entropy — layer: 4.4504, headwise: [4.367196559906006, 4.533536434173584]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4657
+DEBUG:root:Entropy — layer: 4.4497, headwise: [4.366493225097656, 4.532838344573975]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4645
+DEBUG:root:Entropy — layer: 4.4490, headwise: [4.365815162658691, 4.532190322875977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4632
+DEBUG:root:Entropy — layer: 4.4484, headwise: [4.365159511566162, 4.531590938568115]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4620
+DEBUG:root:Entropy — layer: 4.4478, headwise: [4.364523887634277, 4.531039237976074]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4607
+DEBUG:root:Entropy — layer: 4.4472, headwise: [4.363906383514404, 4.530532360076904]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4595
+DEBUG:root:Entropy — layer: 4.4467, headwise: [4.363306045532227, 4.530068874359131]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4583
+DEBUG:root:Entropy — layer: 4.4462, headwise: [4.362719535827637, 4.529647350311279]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4571
+DEBUG:root:Entropy — layer: 4.4457, headwise: [4.36214542388916, 4.529265403747559]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4559
+DEBUG:root:Entropy — layer: 4.4453, headwise: [4.361581802368164, 4.528922080993652]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4547
+DEBUG:root:Entropy — layer: 4.4448, headwise: [4.361026763916016, 4.5286149978637695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4535
+DEBUG:root:Entropy — layer: 4.4444, headwise: [4.360478401184082, 4.528341293334961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4524
+DEBUG:root:Entropy — layer: 4.4440, headwise: [4.359935283660889, 4.528100967407227]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4512
+DEBUG:root:Entropy — layer: 4.4436, headwise: [4.3593950271606445, 4.527890682220459]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4501
+DEBUG:root:Entropy — layer: 4.4433, headwise: [4.358856201171875, 4.527709484100342]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4490
+DEBUG:root:Entropy — layer: 4.4429, headwise: [4.358318328857422, 4.527554988861084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4478
+DEBUG:root:Entropy — layer: 4.4426, headwise: [4.357778549194336, 4.527425765991211]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4468
+DEBUG:root:Entropy — layer: 4.4423, headwise: [4.357235431671143, 4.52731990814209]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4457
+DEBUG:root:Entropy — layer: 4.4420, headwise: [4.356688976287842, 4.527236461639404]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4446
+DEBUG:root:Entropy — layer: 4.4417, headwise: [4.356136322021484, 4.527173042297363]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4435
+DEBUG:root:Entropy — layer: 4.4414, headwise: [4.355576992034912, 4.527128219604492]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4425
+DEBUG:root:Entropy — layer: 4.4411, headwise: [4.35500955581665, 4.527101993560791]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4415
+DEBUG:root:Entropy — layer: 4.4408, headwise: [4.354433059692383, 4.5270915031433105]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4405
+DEBUG:root:Entropy — layer: 4.4405, headwise: [4.353847026824951, 4.527096271514893]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4395
+DEBUG:root:Entropy — layer: 4.4402, headwise: [4.353249549865723, 4.5271148681640625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4385
+DEBUG:root:Entropy — layer: 4.4399, headwise: [4.352640151977539, 4.527146816253662]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4375
+DEBUG:root:Entropy — layer: 4.4396, headwise: [4.352017402648926, 4.527190685272217]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4365
+DEBUG:root:Entropy — layer: 4.4393, headwise: [4.351381301879883, 4.52724552154541]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4356
+DEBUG:root:Entropy — layer: 4.4390, headwise: [4.350730895996094, 4.527311325073242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4347
+DEBUG:root:Entropy — layer: 4.4387, headwise: [4.350065231323242, 4.5273871421813965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4338
+DEBUG:root:Entropy — layer: 4.4384, headwise: [4.349383354187012, 4.527471542358398]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4328
+DEBUG:root:Entropy — layer: 4.4381, headwise: [4.3486857414245605, 4.527565002441406]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4319
+DEBUG:root:Entropy — layer: 4.4378, headwise: [4.347970962524414, 4.527667045593262]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4311
+DEBUG:root:Entropy — layer: 4.4375, headwise: [4.347238540649414, 4.527776718139648]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4302
+DEBUG:root:Entropy — layer: 4.4372, headwise: [4.3464884757995605, 4.527894020080566]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4293
+DEBUG:root:Entropy — layer: 4.4369, headwise: [4.345719814300537, 4.528017997741699]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4285
+DEBUG:root:Entropy — layer: 4.4365, headwise: [4.344932556152344, 4.528149604797363]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4276
+DEBUG:root:Entropy — layer: 4.4362, headwise: [4.344127178192139, 4.528287410736084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4268
+DEBUG:root:Entropy — layer: 4.4359, headwise: [4.3433027267456055, 4.5284318923950195]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4260
+DEBUG:root:Entropy — layer: 4.4355, headwise: [4.342458724975586, 4.528582572937012]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4252
+DEBUG:root:Entropy — layer: 4.4352, headwise: [4.341595649719238, 4.5287394523620605]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4244
+DEBUG:root:Entropy — layer: 4.4348, headwise: [4.340713024139404, 4.528902053833008]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4236
+DEBUG:root:Entropy — layer: 4.4344, headwise: [4.3398118019104, 4.529070854187012]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4228
+DEBUG:root:Entropy — layer: 4.4341, headwise: [4.338891506195068, 4.529244899749756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4220
+DEBUG:root:Entropy — layer: 4.4337, headwise: [4.337952613830566, 4.52942419052124]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4212
+DEBUG:root:Entropy — layer: 4.4333, headwise: [4.3369951248168945, 4.529609680175781]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4205
+DEBUG:root:Entropy — layer: 4.4329, headwise: [4.336019039154053, 4.529799938201904]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4197
+DEBUG:root:Entropy — layer: 4.4325, headwise: [4.335025787353516, 4.529994964599609]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4189
+DEBUG:root:Entropy — layer: 4.4321, headwise: [4.334015846252441, 4.530195236206055]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4182
+DEBUG:root:Entropy — layer: 4.4317, headwise: [4.332988739013672, 4.530400276184082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4175
+DEBUG:root:Entropy — layer: 4.4313, headwise: [4.33194637298584, 4.530610084533691]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4167
+DEBUG:root:Entropy — layer: 4.4309, headwise: [4.330888271331787, 4.530823707580566]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4160
+DEBUG:root:Entropy — layer: 4.4304, headwise: [4.3298163414001465, 4.531041622161865]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4153
+DEBUG:root:Entropy — layer: 4.4300, headwise: [4.328731060028076, 4.531263828277588]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4146
+DEBUG:root:Entropy — layer: 4.4296, headwise: [4.327633380889893, 4.531489849090576]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4139
+DEBUG:root:Entropy — layer: 4.4291, headwise: [4.326524257659912, 4.531719207763672]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4132
+DEBUG:root:Entropy — layer: 4.4287, headwise: [4.325404644012451, 4.531952381134033]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4125
+DEBUG:root:Entropy — layer: 4.4282, headwise: [4.324275970458984, 4.532188415527344]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4118
+DEBUG:root:Entropy — layer: 4.4278, headwise: [4.323139190673828, 4.532427787780762]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4111
+DEBUG:root:Entropy — layer: 4.4273, headwise: [4.321995735168457, 4.532669544219971]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4104
+DEBUG:root:Entropy — layer: 4.4269, headwise: [4.3208465576171875, 4.532914161682129]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4097
+DEBUG:root:Entropy — layer: 4.4264, headwise: [4.319692611694336, 4.533161163330078]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4090
+DEBUG:root:Entropy — layer: 4.4260, headwise: [4.318535804748535, 4.53341007232666]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4084
+DEBUG:root:Entropy — layer: 4.4255, headwise: [4.31737756729126, 4.533660411834717]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4077
+DEBUG:root:Entropy — layer: 4.4251, headwise: [4.316218852996826, 4.533912181854248]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4071
+DEBUG:root:Entropy — layer: 4.4246, headwise: [4.315060615539551, 4.534165859222412]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4064
+DEBUG:root:Entropy — layer: 4.4242, headwise: [4.313904762268066, 4.534420013427734]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4058
+DEBUG:root:Entropy — layer: 4.4237, headwise: [4.312751770019531, 4.534675598144531]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4051
+DEBUG:root:Entropy — layer: 4.4233, headwise: [4.311603546142578, 4.534931182861328]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4045
+DEBUG:root:Entropy — layer: 4.4228, headwise: [4.310461521148682, 4.535187721252441]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4038
+DEBUG:root:Entropy — layer: 4.4224, headwise: [4.309326171875, 4.5354437828063965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4032
+DEBUG:root:Entropy — layer: 4.4219, headwise: [4.308198928833008, 4.535699367523193]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4026
+DEBUG:root:Entropy — layer: 4.4215, headwise: [4.307081699371338, 4.53595495223999]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4019
+DEBUG:root:Entropy — layer: 4.4211, headwise: [4.305974006652832, 4.5362091064453125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4013
+DEBUG:root:Entropy — layer: 4.4207, headwise: [4.304878234863281, 4.536463260650635]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4007
+DEBUG:root:Entropy — layer: 4.4203, headwise: [4.303793907165527, 4.536715507507324]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.4001
+DEBUG:root:Entropy — layer: 4.4198, headwise: [4.302722930908203, 4.536966323852539]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3995
+DEBUG:root:Entropy — layer: 4.4194, headwise: [4.301666259765625, 4.537215232849121]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3989
+DEBUG:root:Entropy — layer: 4.4190, headwise: [4.300623893737793, 4.53746223449707]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3982
+DEBUG:root:Entropy — layer: 4.4187, headwise: [4.299596786499023, 4.537707328796387]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3976
+DEBUG:root:Entropy — layer: 4.4183, headwise: [4.298585414886475, 4.537949562072754]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3970
+DEBUG:root:Entropy — layer: 4.4179, headwise: [4.297590255737305, 4.538188457489014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3964
+DEBUG:root:Entropy — layer: 4.4175, headwise: [4.296611785888672, 4.538424968719482]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3958
+DEBUG:root:Entropy — layer: 4.4172, headwise: [4.295651435852051, 4.538658142089844]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3952
+DEBUG:root:Entropy — layer: 4.4168, headwise: [4.294707775115967, 4.538887977600098]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3946
+DEBUG:root:Entropy — layer: 4.4164, headwise: [4.2937822341918945, 4.539113521575928]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3940
+DEBUG:root:Entropy — layer: 4.4161, headwise: [4.292874336242676, 4.539335250854492]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3934
+DEBUG:root:Entropy — layer: 4.4158, headwise: [4.291984558105469, 4.539553642272949]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3928
+DEBUG:root:Entropy — layer: 4.4154, headwise: [4.291112899780273, 4.539766311645508]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3922
+DEBUG:root:Entropy — layer: 4.4151, headwise: [4.29025936126709, 4.539975166320801]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3916
+DEBUG:root:Entropy — layer: 4.4148, headwise: [4.289423942565918, 4.540179252624512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3910
+DEBUG:root:Entropy — layer: 4.4145, headwise: [4.288606643676758, 4.540377616882324]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3904
+DEBUG:root:Entropy — layer: 4.4142, headwise: [4.287807464599609, 4.5405707359313965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3898
+DEBUG:root:Entropy — layer: 4.4139, headwise: [4.287025451660156, 4.54075813293457]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3892
+DEBUG:root:Entropy — layer: 4.4136, headwise: [4.286262512207031, 4.540940284729004]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3886
+DEBUG:root:Entropy — layer: 4.4133, headwise: [4.285516262054443, 4.541116237640381]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3880
+DEBUG:root:Entropy — layer: 4.4130, headwise: [4.284787654876709, 4.541285991668701]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3874
+DEBUG:root:Entropy — layer: 4.4128, headwise: [4.284075736999512, 4.541449069976807]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3868
+DEBUG:root:Entropy — layer: 4.4125, headwise: [4.283381462097168, 4.5416059494018555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3862
+DEBUG:root:Entropy — layer: 4.4122, headwise: [4.282702922821045, 4.541755199432373]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3856
+DEBUG:root:Entropy — layer: 4.4120, headwise: [4.282041549682617, 4.541897773742676]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3850
+DEBUG:root:Entropy — layer: 4.4117, headwise: [4.28139591217041, 4.542032241821289]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3844
+DEBUG:root:Entropy — layer: 4.4115, headwise: [4.280766487121582, 4.542159557342529]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3838
+DEBUG:root:Entropy — layer: 4.4112, headwise: [4.280152320861816, 4.542279243469238]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3832
+DEBUG:root:Entropy — layer: 4.4110, headwise: [4.2795538902282715, 4.5423903465271]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3826
+DEBUG:root:Entropy — layer: 4.4107, headwise: [4.278970718383789, 4.5424933433532715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3819
+DEBUG:root:Entropy — layer: 4.4105, headwise: [4.278401851654053, 4.5425872802734375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3813
+DEBUG:root:Entropy — layer: 4.4103, headwise: [4.277848243713379, 4.542672634124756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3807
+DEBUG:root:Entropy — layer: 4.4100, headwise: [4.277308464050293, 4.54274845123291]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3801
+DEBUG:root:Entropy — layer: 4.4098, headwise: [4.276783466339111, 4.542815208435059]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3795
+DEBUG:root:Entropy — layer: 4.4096, headwise: [4.276272296905518, 4.542871475219727]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3788
+DEBUG:root:Entropy — layer: 4.4093, headwise: [4.275774955749512, 4.542919158935547]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3782
+DEBUG:root:Entropy — layer: 4.4091, headwise: [4.2752909660339355, 4.54295539855957]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3776
+DEBUG:root:Entropy — layer: 4.4089, headwise: [4.274820327758789, 4.5429816246032715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3770
+DEBUG:root:Entropy — layer: 4.4087, headwise: [4.274363040924072, 4.542997360229492]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3763
+DEBUG:root:Entropy — layer: 4.4085, headwise: [4.273919105529785, 4.543001174926758]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3757
+DEBUG:root:Entropy — layer: 4.4082, headwise: [4.273487567901611, 4.542994499206543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3750
+DEBUG:root:Entropy — layer: 4.4080, headwise: [4.273068904876709, 4.542975902557373]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3744
+DEBUG:root:Entropy — layer: 4.4078, headwise: [4.27266263961792, 4.542945384979248]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3737
+DEBUG:root:Entropy — layer: 4.4076, headwise: [4.272269248962402, 4.542903423309326]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3731
+DEBUG:root:Entropy — layer: 4.4074, headwise: [4.271887302398682, 4.542848587036133]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3724
+DEBUG:root:Entropy — layer: 4.4071, headwise: [4.271518230438232, 4.542780876159668]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3718
+DEBUG:root:Entropy — layer: 4.4069, headwise: [4.271160125732422, 4.54270076751709]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3711
+DEBUG:root:Entropy — layer: 4.4067, headwise: [4.270814418792725, 4.54260778427124]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3705
+DEBUG:root:Entropy — layer: 4.4065, headwise: [4.270480632781982, 4.542501449584961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3698
+DEBUG:root:Entropy — layer: 4.4063, headwise: [4.270157337188721, 4.542381763458252]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3691
+DEBUG:root:Entropy — layer: 4.4060, headwise: [4.269845962524414, 4.542248725891113]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3684
+DEBUG:root:Entropy — layer: 4.4058, headwise: [4.269546031951904, 4.54210090637207]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3678
+DEBUG:root:Entropy — layer: 4.4056, headwise: [4.269256591796875, 4.541940212249756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3671
+DEBUG:root:Entropy — layer: 4.4054, headwise: [4.268977642059326, 4.541765213012695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3664
+DEBUG:root:Entropy — layer: 4.4051, headwise: [4.268710136413574, 4.541576385498047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3657
+DEBUG:root:Entropy — layer: 4.4049, headwise: [4.2684526443481445, 4.541373252868652]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3650
+DEBUG:root:Entropy — layer: 4.4047, headwise: [4.268205165863037, 4.541155815124512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3643
+DEBUG:root:Entropy — layer: 4.4044, headwise: [4.26796817779541, 4.540923595428467]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3636
+DEBUG:root:Entropy — layer: 4.4042, headwise: [4.2677412033081055, 4.540678024291992]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3629
+DEBUG:root:Entropy — layer: 4.4040, headwise: [4.267523288726807, 4.5404181480407715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3622
+DEBUG:root:Entropy — layer: 4.4037, headwise: [4.26731538772583, 4.540143966674805]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3615
+DEBUG:root:Entropy — layer: 4.4035, headwise: [4.267116546630859, 4.53985595703125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3608
+DEBUG:root:Entropy — layer: 4.4032, headwise: [4.266927242279053, 4.539554595947266]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3601
+DEBUG:root:Entropy — layer: 4.4030, headwise: [4.2667460441589355, 4.539239406585693]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3593
+DEBUG:root:Entropy — layer: 4.4027, headwise: [4.266573905944824, 4.538910865783691]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3586
+DEBUG:root:Entropy — layer: 4.4025, headwise: [4.266409873962402, 4.538569450378418]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3579
+DEBUG:root:Entropy — layer: 4.4022, headwise: [4.26625394821167, 4.538215637207031]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3572
+DEBUG:root:Entropy — layer: 4.4020, headwise: [4.266105651855469, 4.537849426269531]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3564
+DEBUG:root:Entropy — layer: 4.4017, headwise: [4.265965461730957, 4.537471771240234]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3557
+DEBUG:root:Entropy — layer: 4.4015, headwise: [4.265832901000977, 4.537083148956299]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3550
+DEBUG:root:Entropy — layer: 4.4012, headwise: [4.265707015991211, 4.536683559417725]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3542
+DEBUG:root:Entropy — layer: 4.4009, headwise: [4.265588283538818, 4.5362749099731445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3535
+DEBUG:root:Entropy — layer: 4.4007, headwise: [4.265475749969482, 4.535856246948242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3528
+DEBUG:root:Entropy — layer: 4.4004, headwise: [4.265369892120361, 4.535429954528809]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3520
+DEBUG:root:Entropy — layer: 4.4001, headwise: [4.265270233154297, 4.5349955558776855]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3513
+DEBUG:root:Entropy — layer: 4.3999, headwise: [4.265175819396973, 4.534555435180664]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3506
+DEBUG:root:Entropy — layer: 4.3996, headwise: [4.265087604522705, 4.534109115600586]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3499
+DEBUG:root:Entropy — layer: 4.3993, headwise: [4.265004634857178, 4.533658981323242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3491
+DEBUG:root:Entropy — layer: 4.3991, headwise: [4.264926910400391, 4.533205032348633]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3484
+DEBUG:root:Entropy — layer: 4.3988, headwise: [4.2648539543151855, 4.532749176025391]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3477
+DEBUG:root:Entropy — layer: 4.3985, headwise: [4.2647857666015625, 4.532293319702148]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3470
+DEBUG:root:Entropy — layer: 4.3983, headwise: [4.2647223472595215, 4.531837463378906]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3463
+DEBUG:root:Entropy — layer: 4.3980, headwise: [4.264662742614746, 4.531383514404297]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3455
+DEBUG:root:Entropy — layer: 4.3978, headwise: [4.2646074295043945, 4.530933380126953]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3448
+DEBUG:root:Entropy — layer: 4.3975, headwise: [4.264554977416992, 4.530488967895508]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3441
+DEBUG:root:Entropy — layer: 4.3973, headwise: [4.264507293701172, 4.530050277709961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3435
+DEBUG:root:Entropy — layer: 4.3970, headwise: [4.264462947845459, 4.52962064743042]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3428
+DEBUG:root:Entropy — layer: 4.3968, headwise: [4.264421463012695, 4.529200553894043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3421
+DEBUG:root:Entropy — layer: 4.3966, headwise: [4.264383792877197, 4.528792381286621]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3414
+DEBUG:root:Entropy — layer: 4.3964, headwise: [4.26434850692749, 4.528397560119629]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3408
+DEBUG:root:Entropy — layer: 4.3962, headwise: [4.264316558837891, 4.528017997741699]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3401
+DEBUG:root:Entropy — layer: 4.3960, headwise: [4.264286994934082, 4.527655601501465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3395
+DEBUG:root:Entropy — layer: 4.3958, headwise: [4.264260292053223, 4.527310848236084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3388
+DEBUG:root:Entropy — layer: 4.3956, headwise: [4.264235973358154, 4.526987075805664]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3382
+DEBUG:root:Entropy — layer: 4.3954, headwise: [4.264214515686035, 4.5266852378845215]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3376
+DEBUG:root:Entropy — layer: 4.3953, headwise: [4.264194488525391, 4.526406288146973]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3370
+DEBUG:root:Entropy — layer: 4.3952, headwise: [4.264177322387695, 4.526153087615967]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3364
+DEBUG:root:Entropy — layer: 4.3950, headwise: [4.264163017272949, 4.525925636291504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3358
+DEBUG:root:Entropy — layer: 4.3949, headwise: [4.264150142669678, 4.525726318359375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3352
+DEBUG:root:Entropy — layer: 4.3948, headwise: [4.264139652252197, 4.525555610656738]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3346
+DEBUG:root:Entropy — layer: 4.3948, headwise: [4.264131546020508, 4.525414943695068]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3341
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.264125823974609, 4.52530574798584]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3335
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.2641215324401855, 4.5252275466918945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3330
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.264119625091553, 4.525182247161865]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3325
+DEBUG:root:Entropy — layer: 4.3946, headwise: [4.264119625091553, 4.525169372558594]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3319
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.264122009277344, 4.525189399719238]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3314
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.264126777648926, 4.525242805480957]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3309
+DEBUG:root:Entropy — layer: 4.3947, headwise: [4.264133453369141, 4.525329113006592]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3304
+DEBUG:root:Entropy — layer: 4.3948, headwise: [4.2641425132751465, 4.525447845458984]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3299
+DEBUG:root:Entropy — layer: 4.3949, headwise: [4.264153480529785, 4.525598526000977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3294
+DEBUG:root:Entropy — layer: 4.3950, headwise: [4.264167308807373, 4.52578067779541]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3290
+DEBUG:root:Entropy — layer: 4.3951, headwise: [4.2641825675964355, 4.525993347167969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3285
+DEBUG:root:Entropy — layer: 4.3952, headwise: [4.264200210571289, 4.526235580444336]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3280
+DEBUG:root:Entropy — layer: 4.3954, headwise: [4.264220237731934, 4.526506423950195]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3276
+DEBUG:root:Entropy — layer: 4.3955, headwise: [4.264242172241211, 4.526803493499756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3271
+DEBUG:root:Entropy — layer: 4.3957, headwise: [4.264266490936279, 4.527126312255859]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3267
+DEBUG:root:Entropy — layer: 4.3959, headwise: [4.264293193817139, 4.527472496032715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3263
+DEBUG:root:Entropy — layer: 4.3961, headwise: [4.264321327209473, 4.527841567993164]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3258
+DEBUG:root:Entropy — layer: 4.3963, headwise: [4.264352321624756, 4.528231143951416]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3254
+DEBUG:root:Entropy — layer: 4.3965, headwise: [4.264385223388672, 4.52863883972168]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3250
+DEBUG:root:Entropy — layer: 4.3967, headwise: [4.2644195556640625, 4.529064178466797]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3246
+DEBUG:root:Entropy — layer: 4.3970, headwise: [4.264455795288086, 4.529504776000977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3242
+DEBUG:root:Entropy — layer: 4.3972, headwise: [4.264493942260742, 4.529958724975586]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3238
+DEBUG:root:Entropy — layer: 4.3975, headwise: [4.264533996582031, 4.530425071716309]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3234
+DEBUG:root:Entropy — layer: 4.3977, headwise: [4.264575481414795, 4.530901908874512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3230
+DEBUG:root:Entropy — layer: 4.3980, headwise: [4.264618873596191, 4.531388759613037]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3226
+DEBUG:root:Entropy — layer: 4.3983, headwise: [4.264663219451904, 4.531883239746094]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3222
+DEBUG:root:Entropy — layer: 4.3985, headwise: [4.264708995819092, 4.53238582611084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3218
+DEBUG:root:Entropy — layer: 4.3988, headwise: [4.2647552490234375, 4.532895088195801]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3214
+DEBUG:root:Entropy — layer: 4.3991, headwise: [4.264803409576416, 4.53341007232666]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3210
+DEBUG:root:Entropy — layer: 4.3994, headwise: [4.264852046966553, 4.533930778503418]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3207
+DEBUG:root:Entropy — layer: 4.3997, headwise: [4.264901161193848, 4.534456253051758]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3203
+DEBUG:root:Entropy — layer: 4.4000, headwise: [4.264951229095459, 4.534987449645996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3199
+DEBUG:root:Entropy — layer: 4.4003, headwise: [4.26500129699707, 4.535523414611816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3195
+DEBUG:root:Entropy — layer: 4.4006, headwise: [4.26505184173584, 4.5360636711120605]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3192
+DEBUG:root:Entropy — layer: 4.4009, headwise: [4.265102863311768, 4.536608695983887]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3188
+DEBUG:root:Entropy — layer: 4.4012, headwise: [4.265153408050537, 4.537158012390137]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3184
+DEBUG:root:Entropy — layer: 4.4015, headwise: [4.265204429626465, 4.5377116203308105]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3181
+DEBUG:root:Entropy — layer: 4.4018, headwise: [4.265254974365234, 4.538269519805908]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3177
+DEBUG:root:Entropy — layer: 4.4021, headwise: [4.265305042266846, 4.53883171081543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3174
+DEBUG:root:Entropy — layer: 4.4024, headwise: [4.265354633331299, 4.539397716522217]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3170
+DEBUG:root:Entropy — layer: 4.4027, headwise: [4.265403747558594, 4.5399675369262695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3166
+DEBUG:root:Entropy — layer: 4.4030, headwise: [4.2654523849487305, 4.54054069519043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3163
+DEBUG:root:Entropy — layer: 4.4033, headwise: [4.265500545501709, 4.5411176681518555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3159
+DEBUG:root:Entropy — layer: 4.4036, headwise: [4.265547752380371, 4.5416975021362305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3156
+DEBUG:root:Entropy — layer: 4.4039, headwise: [4.265593528747559, 4.5422797203063965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3152
+DEBUG:root:Entropy — layer: 4.4043, headwise: [4.26563835144043, 4.542864799499512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3149
+DEBUG:root:Entropy — layer: 4.4046, headwise: [4.265682697296143, 4.543450832366943]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3145
+DEBUG:root:Entropy — layer: 4.4049, headwise: [4.265725612640381, 4.54403829574585]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3142
+DEBUG:root:Entropy — layer: 4.4052, headwise: [4.265767574310303, 4.5446271896362305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3138
+DEBUG:root:Entropy — layer: 4.4055, headwise: [4.265807628631592, 4.545215606689453]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3135
+DEBUG:root:Entropy — layer: 4.4058, headwise: [4.265846252441406, 4.545804500579834]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3132
+DEBUG:root:Entropy — layer: 4.4061, headwise: [4.265883445739746, 4.546392440795898]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3128
+DEBUG:root:Entropy — layer: 4.4064, headwise: [4.2659196853637695, 4.546978950500488]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3125
+DEBUG:root:Entropy — layer: 4.4068, headwise: [4.265953540802002, 4.547563552856445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3121
+DEBUG:root:Entropy — layer: 4.4071, headwise: [4.265985488891602, 4.548146724700928]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3118
+DEBUG:root:Entropy — layer: 4.4074, headwise: [4.266016006469727, 4.548726558685303]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3115
+DEBUG:root:Entropy — layer: 4.4077, headwise: [4.266044616699219, 4.5493035316467285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3111
+DEBUG:root:Entropy — layer: 4.4080, headwise: [4.266071319580078, 4.549877166748047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3108
+DEBUG:root:Entropy — layer: 4.4083, headwise: [4.2660956382751465, 4.550446510314941]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3104
+DEBUG:root:Entropy — layer: 4.4086, headwise: [4.26611852645874, 4.551012992858887]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3101
+DEBUG:root:Entropy — layer: 4.4089, headwise: [4.266139030456543, 4.551574230194092]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3098
+DEBUG:root:Entropy — layer: 4.4091, headwise: [4.266157150268555, 4.552131652832031]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3094
+DEBUG:root:Entropy — layer: 4.4094, headwise: [4.266173839569092, 4.552684307098389]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3091
+DEBUG:root:Entropy — layer: 4.4097, headwise: [4.266188144683838, 4.5532331466674805]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3087
+DEBUG:root:Entropy — layer: 4.4100, headwise: [4.266200542449951, 4.553776741027832]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3084
+DEBUG:root:Entropy — layer: 4.4103, headwise: [4.266210556030273, 4.554315567016602]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3081
+DEBUG:root:Entropy — layer: 4.4105, headwise: [4.266219139099121, 4.5548505783081055]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3077
+DEBUG:root:Entropy — layer: 4.4108, headwise: [4.2662248611450195, 4.555380821228027]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3074
+DEBUG:root:Entropy — layer: 4.4111, headwise: [4.266228675842285, 4.555907249450684]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3071
+DEBUG:root:Entropy — layer: 4.4113, headwise: [4.266231060028076, 4.556428909301758]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3067
+DEBUG:root:Entropy — layer: 4.4116, headwise: [4.266231060028076, 4.556946754455566]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3064
+DEBUG:root:Entropy — layer: 4.4118, headwise: [4.266229152679443, 4.557460308074951]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3061
+DEBUG:root:Entropy — layer: 4.4121, headwise: [4.266225814819336, 4.55797004699707]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3057
+DEBUG:root:Entropy — layer: 4.4123, headwise: [4.2662200927734375, 4.55847692489624]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3054
+DEBUG:root:Entropy — layer: 4.4126, headwise: [4.266213417053223, 4.5589799880981445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3050
+DEBUG:root:Entropy — layer: 4.4128, headwise: [4.266204357147217, 4.559479713439941]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3047
+DEBUG:root:Entropy — layer: 4.4131, headwise: [4.266193866729736, 4.559976100921631]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3044
+DEBUG:root:Entropy — layer: 4.4133, headwise: [4.266181945800781, 4.560469627380371]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3040
+DEBUG:root:Entropy — layer: 4.4136, headwise: [4.266168594360352, 4.560960292816162]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3037
+DEBUG:root:Entropy — layer: 4.4138, headwise: [4.2661542892456055, 4.561448097229004]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3034
+DEBUG:root:Entropy — layer: 4.4140, headwise: [4.266138553619385, 4.5619330406188965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3030
+DEBUG:root:Entropy — layer: 4.4143, headwise: [4.266121864318848, 4.562415599822998]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3027
+DEBUG:root:Entropy — layer: 4.4145, headwise: [4.266103744506836, 4.562895774841309]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3023
+DEBUG:root:Entropy — layer: 4.4147, headwise: [4.266085147857666, 4.56337308883667]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3020
+DEBUG:root:Entropy — layer: 4.4150, headwise: [4.26606559753418, 4.56384801864624]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3016
+DEBUG:root:Entropy — layer: 4.4152, headwise: [4.266045570373535, 4.5643205642700195]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3013
+DEBUG:root:Entropy — layer: 4.4154, headwise: [4.266025066375732, 4.564789772033691]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3010
+DEBUG:root:Entropy — layer: 4.4156, headwise: [4.26600456237793, 4.5652570724487305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3006
+DEBUG:root:Entropy — layer: 4.4159, headwise: [4.265983581542969, 4.565721035003662]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.3003
+DEBUG:root:Entropy — layer: 4.4161, headwise: [4.265963077545166, 4.566182613372803]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2999
+DEBUG:root:Entropy — layer: 4.4163, headwise: [4.265942573547363, 4.566640853881836]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2996
+DEBUG:root:Entropy — layer: 4.4165, headwise: [4.265922546386719, 4.56709623336792]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2992
+DEBUG:root:Entropy — layer: 4.4167, headwise: [4.265902996063232, 4.5675482749938965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2989
+DEBUG:root:Entropy — layer: 4.4169, headwise: [4.265883445739746, 4.567996978759766]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2986
+DEBUG:root:Entropy — layer: 4.4172, headwise: [4.265865325927734, 4.568442344665527]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2982
+DEBUG:root:Entropy — layer: 4.4174, headwise: [4.265848159790039, 4.568883419036865]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2979
+DEBUG:root:Entropy — layer: 4.4176, headwise: [4.26583194732666, 4.5693206787109375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2975
+DEBUG:root:Entropy — layer: 4.4178, headwise: [4.265817165374756, 4.569753646850586]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2972
+DEBUG:root:Entropy — layer: 4.4180, headwise: [4.265804290771484, 4.570182800292969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2968
+DEBUG:root:Entropy — layer: 4.4182, headwise: [4.2657928466796875, 4.5706071853637695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2965
+DEBUG:root:Entropy — layer: 4.4184, headwise: [4.265782833099365, 4.5710272789001465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2961
+DEBUG:root:Entropy — layer: 4.4186, headwise: [4.265775203704834, 4.571442127227783]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2958
+DEBUG:root:Entropy — layer: 4.4188, headwise: [4.2657694816589355, 4.571852684020996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2954
+DEBUG:root:Entropy — layer: 4.4190, headwise: [4.265766143798828, 4.5722575187683105]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2951
+DEBUG:root:Entropy — layer: 4.4192, headwise: [4.26576566696167, 4.572657585144043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2947
+DEBUG:root:Entropy — layer: 4.4194, headwise: [4.265767574310303, 4.573051452636719]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2944
+DEBUG:root:Entropy — layer: 4.4196, headwise: [4.265772819519043, 4.573440074920654]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2940
+DEBUG:root:Entropy — layer: 4.4198, headwise: [4.265779972076416, 4.573822975158691]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2936
+DEBUG:root:Entropy — layer: 4.4200, headwise: [4.265790939331055, 4.574200630187988]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2933
+DEBUG:root:Entropy — layer: 4.4202, headwise: [4.265805244445801, 4.57457160949707]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2929
+DEBUG:root:Entropy — layer: 4.4204, headwise: [4.265822887420654, 4.574936389923096]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2926
+DEBUG:root:Entropy — layer: 4.4206, headwise: [4.265844345092773, 4.5752949714660645]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2922
+DEBUG:root:Entropy — layer: 4.4208, headwise: [4.265869140625, 4.575647354125977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2919
+DEBUG:root:Entropy — layer: 4.4209, headwise: [4.26589822769165, 4.575993537902832]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2915
+DEBUG:root:Entropy — layer: 4.4211, headwise: [4.265931606292725, 4.576332092285156]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2912
+DEBUG:root:Entropy — layer: 4.4213, headwise: [4.2659687995910645, 4.576664924621582]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2908
+DEBUG:root:Entropy — layer: 4.4215, headwise: [4.266010761260986, 4.576990127563477]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2904
+DEBUG:root:Entropy — layer: 4.4217, headwise: [4.26605749130249, 4.577308654785156]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2901
+DEBUG:root:Entropy — layer: 4.4219, headwise: [4.266108512878418, 4.577620506286621]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2897
+DEBUG:root:Entropy — layer: 4.4220, headwise: [4.266164779663086, 4.577924728393555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2894
+DEBUG:root:Entropy — layer: 4.4222, headwise: [4.266226291656494, 4.578221797943115]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2890
+DEBUG:root:Entropy — layer: 4.4224, headwise: [4.266293048858643, 4.5785112380981445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2886
+DEBUG:root:Entropy — layer: 4.4226, headwise: [4.266365051269531, 4.578793525695801]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2883
+DEBUG:root:Entropy — layer: 4.4228, headwise: [4.266443252563477, 4.579068183898926]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2879
+DEBUG:root:Entropy — layer: 4.4229, headwise: [4.266526699066162, 4.579334735870361]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2875
+DEBUG:root:Entropy — layer: 4.4231, headwise: [4.266616344451904, 4.579593658447266]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2872
+DEBUG:root:Entropy — layer: 4.4233, headwise: [4.266712188720703, 4.579844951629639]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2868
+DEBUG:root:Entropy — layer: 4.4235, headwise: [4.266814708709717, 4.5800886154174805]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2865
+DEBUG:root:Entropy — layer: 4.4236, headwise: [4.266923904418945, 4.580323696136475]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2861
+DEBUG:root:Entropy — layer: 4.4238, headwise: [4.267039775848389, 4.5805511474609375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2857
+DEBUG:root:Entropy — layer: 4.4240, headwise: [4.267162799835205, 4.580770492553711]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2854
+DEBUG:root:Entropy — layer: 4.4241, headwise: [4.2672929763793945, 4.580981731414795]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2850
+DEBUG:root:Entropy — layer: 4.4243, headwise: [4.267430305480957, 4.581183910369873]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2846
+DEBUG:root:Entropy — layer: 4.4245, headwise: [4.267575740814209, 4.581378936767578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2843
+DEBUG:root:Entropy — layer: 4.4246, headwise: [4.267728805541992, 4.581564903259277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2839
+DEBUG:root:Entropy — layer: 4.4248, headwise: [4.267890453338623, 4.581742763519287]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2835
+DEBUG:root:Entropy — layer: 4.4250, headwise: [4.268059730529785, 4.581912040710449]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2832
+DEBUG:root:Entropy — layer: 4.4252, headwise: [4.268238067626953, 4.582072734832764]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2828
+DEBUG:root:Entropy — layer: 4.4253, headwise: [4.268424987792969, 4.582225322723389]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2824
+DEBUG:root:Entropy — layer: 4.4255, headwise: [4.26862096786499, 4.582369327545166]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2821
+DEBUG:root:Entropy — layer: 4.4257, headwise: [4.268826484680176, 4.582504749298096]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2817
+DEBUG:root:Entropy — layer: 4.4258, headwise: [4.269041061401367, 4.582631587982178]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2813
+DEBUG:root:Entropy — layer: 4.4260, headwise: [4.269265651702881, 4.582749843597412]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2809
+DEBUG:root:Entropy — layer: 4.4262, headwise: [4.269499778747559, 4.582859516143799]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2806
+DEBUG:root:Entropy — layer: 4.4264, headwise: [4.269744396209717, 4.58296012878418]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2802
+DEBUG:root:Entropy — layer: 4.4265, headwise: [4.2699995040893555, 4.583052635192871]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2798
+DEBUG:root:Entropy — layer: 4.4267, headwise: [4.270264625549316, 4.583136558532715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2795
+DEBUG:root:Entropy — layer: 4.4269, headwise: [4.270541191101074, 4.583211898803711]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2791
+DEBUG:root:Entropy — layer: 4.4271, headwise: [4.270829200744629, 4.583278656005859]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2787
+DEBUG:root:Entropy — layer: 4.4272, headwise: [4.271127223968506, 4.58333683013916]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2784
+DEBUG:root:Entropy — layer: 4.4274, headwise: [4.271438121795654, 4.583386421203613]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2780
+DEBUG:root:Entropy — layer: 4.4276, headwise: [4.271759986877441, 4.583427429199219]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2776
+DEBUG:root:Entropy — layer: 4.4278, headwise: [4.272094249725342, 4.583459854125977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2772
+DEBUG:root:Entropy — layer: 4.4280, headwise: [4.2724409103393555, 4.583483695983887]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2769
+DEBUG:root:Entropy — layer: 4.4281, headwise: [4.272799491882324, 4.583498954772949]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2765
+DEBUG:root:Entropy — layer: 4.4283, headwise: [4.2731709480285645, 4.583505630493164]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2761
+DEBUG:root:Entropy — layer: 4.4285, headwise: [4.273555278778076, 4.5835041999816895]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2758
+DEBUG:root:Entropy — layer: 4.4287, headwise: [4.273953437805176, 4.583494186401367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2754
+DEBUG:root:Entropy — layer: 4.4289, headwise: [4.274363994598389, 4.5834760665893555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2750
+DEBUG:root:Entropy — layer: 4.4291, headwise: [4.274788856506348, 4.583449363708496]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2746
+DEBUG:root:Entropy — layer: 4.4293, headwise: [4.275226593017578, 4.583414077758789]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2743
+DEBUG:root:Entropy — layer: 4.4295, headwise: [4.275679111480713, 4.583371162414551]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2739
+DEBUG:root:Entropy — layer: 4.4297, headwise: [4.276145935058594, 4.583318710327148]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2735
+DEBUG:root:Entropy — layer: 4.4299, headwise: [4.2766265869140625, 4.583259105682373]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2732
+DEBUG:root:Entropy — layer: 4.4302, headwise: [4.2771220207214355, 4.583191394805908]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2728
+DEBUG:root:Entropy — layer: 4.4304, headwise: [4.277632713317871, 4.583115100860596]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2724
+DEBUG:root:Entropy — layer: 4.4306, headwise: [4.278157711029053, 4.583030700683594]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2720
+DEBUG:root:Entropy — layer: 4.4308, headwise: [4.278697967529297, 4.582938194274902]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2717
+DEBUG:root:Entropy — layer: 4.4310, headwise: [4.27925443649292, 4.5828375816345215]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2713
+DEBUG:root:Entropy — layer: 4.4313, headwise: [4.2798261642456055, 4.582728385925293]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2709
+DEBUG:root:Entropy — layer: 4.4315, headwise: [4.280412673950195, 4.582612037658691]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2706
+DEBUG:root:Entropy — layer: 4.4318, headwise: [4.2810163497924805, 4.582487106323242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2702
+DEBUG:root:Entropy — layer: 4.4320, headwise: [4.281635284423828, 4.5823540687561035]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2698
+DEBUG:root:Entropy — layer: 4.4322, headwise: [4.282270908355713, 4.582213401794434]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2694
+DEBUG:root:Entropy — layer: 4.4325, headwise: [4.282922744750977, 4.582064628601074]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2691
+DEBUG:root:Entropy — layer: 4.4327, headwise: [4.283591270446777, 4.581908226013184]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2687
+DEBUG:root:Entropy — layer: 4.4330, headwise: [4.284276485443115, 4.581743240356445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2683
+DEBUG:root:Entropy — layer: 4.4333, headwise: [4.28497838973999, 4.581571102142334]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2680
+DEBUG:root:Entropy — layer: 4.4335, headwise: [4.285696983337402, 4.581390380859375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2676
+DEBUG:root:Entropy — layer: 4.4338, headwise: [4.286433696746826, 4.581202507019043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2672
+DEBUG:root:Entropy — layer: 4.4341, headwise: [4.287187099456787, 4.581006050109863]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2668
+DEBUG:root:Entropy — layer: 4.4344, headwise: [4.287957668304443, 4.580801963806152]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2665
+DEBUG:root:Entropy — layer: 4.4347, headwise: [4.288745880126953, 4.580589771270752]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2661
+DEBUG:root:Entropy — layer: 4.4350, headwise: [4.289551734924316, 4.58036994934082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2657
+DEBUG:root:Entropy — layer: 4.4353, headwise: [4.290375232696533, 4.580142498016357]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2654
+DEBUG:root:Entropy — layer: 4.4356, headwise: [4.291216850280762, 4.579906463623047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2650
+DEBUG:root:Entropy — layer: 4.4359, headwise: [4.292076110839844, 4.579662799835205]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2646
+DEBUG:root:Entropy — layer: 4.4362, headwise: [4.292953014373779, 4.579411506652832]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2642
+DEBUG:root:Entropy — layer: 4.4365, headwise: [4.293848037719727, 4.5791521072387695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2639
+DEBUG:root:Entropy — layer: 4.4368, headwise: [4.2947611808776855, 4.578885078430176]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2635
+DEBUG:root:Entropy — layer: 4.4372, headwise: [4.295692443847656, 4.578609466552734]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2631
+DEBUG:root:Entropy — layer: 4.4375, headwise: [4.296641826629639, 4.578326225280762]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2627
+DEBUG:root:Entropy — layer: 4.4378, headwise: [4.297609329223633, 4.578035354614258]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2624
+DEBUG:root:Entropy — layer: 4.4382, headwise: [4.298595428466797, 4.577735900878906]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2620
+DEBUG:root:Entropy — layer: 4.4385, headwise: [4.2995991706848145, 4.577428817749023]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2616
+DEBUG:root:Entropy — layer: 4.4389, headwise: [4.300621032714844, 4.577114105224609]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2613
+DEBUG:root:Entropy — layer: 4.4392, headwise: [4.301661968231201, 4.576791286468506]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2609
+DEBUG:root:Entropy — layer: 4.4396, headwise: [4.302720069885254, 4.576460838317871]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2605
+DEBUG:root:Entropy — layer: 4.4400, headwise: [4.303796768188477, 4.5761213302612305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2601
+DEBUG:root:Entropy — layer: 4.4403, headwise: [4.304891109466553, 4.575774669647217]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2598
+DEBUG:root:Entropy — layer: 4.4407, headwise: [4.306003570556641, 4.575419902801514]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2594
+DEBUG:root:Entropy — layer: 4.4411, headwise: [4.307134628295898, 4.575057506561279]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2590
+DEBUG:root:Entropy — layer: 4.4415, headwise: [4.308282852172852, 4.5746870040893555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2586
+DEBUG:root:Entropy — layer: 4.4419, headwise: [4.309449195861816, 4.574308395385742]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2583
+DEBUG:root:Entropy — layer: 4.4423, headwise: [4.310632705688477, 4.573922157287598]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2579
+DEBUG:root:Entropy — layer: 4.4427, headwise: [4.31183385848999, 4.573528289794922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2575
+DEBUG:root:Entropy — layer: 4.4431, headwise: [4.313052654266357, 4.573125839233398]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2572
+DEBUG:root:Entropy — layer: 4.4435, headwise: [4.31428861618042, 4.57271671295166]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2568
+DEBUG:root:Entropy — layer: 4.4439, headwise: [4.3155412673950195, 4.572299003601074]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2564
+DEBUG:root:Entropy — layer: 4.4443, headwise: [4.316811561584473, 4.571874141693115]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2560
+DEBUG:root:Entropy — layer: 4.4448, headwise: [4.318097114562988, 4.571441650390625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2557
+DEBUG:root:Entropy — layer: 4.4452, headwise: [4.319400310516357, 4.571002006530762]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2553
+DEBUG:root:Entropy — layer: 4.4456, headwise: [4.320719242095947, 4.570554256439209]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2549
+DEBUG:root:Entropy — layer: 4.4461, headwise: [4.322053909301758, 4.570099830627441]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2545
+DEBUG:root:Entropy — layer: 4.4465, headwise: [4.3234052658081055, 4.569637775421143]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2541
+DEBUG:root:Entropy — layer: 4.4470, headwise: [4.324771404266357, 4.569169044494629]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2538
+DEBUG:root:Entropy — layer: 4.4474, headwise: [4.326152324676514, 4.568693161010742]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2534
+DEBUG:root:Entropy — layer: 4.4479, headwise: [4.327548503875732, 4.568210601806641]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2530
+DEBUG:root:Entropy — layer: 4.4483, headwise: [4.328958988189697, 4.567721366882324]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2526
+DEBUG:root:Entropy — layer: 4.4488, headwise: [4.330383777618408, 4.567225456237793]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2522
+DEBUG:root:Entropy — layer: 4.4493, headwise: [4.331822395324707, 4.566722869873047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2519
+DEBUG:root:Entropy — layer: 4.4497, headwise: [4.3332743644714355, 4.5662150382995605]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2515
+DEBUG:root:Entropy — layer: 4.4502, headwise: [4.334739685058594, 4.565700054168701]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2511
+DEBUG:root:Entropy — layer: 4.4507, headwise: [4.336216926574707, 4.565179824829102]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2507
+DEBUG:root:Entropy — layer: 4.4512, headwise: [4.337706565856934, 4.564654350280762]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2503
+DEBUG:root:Entropy — layer: 4.4517, headwise: [4.339208602905273, 4.564122676849365]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2499
+DEBUG:root:Entropy — layer: 4.4522, headwise: [4.340721130371094, 4.563586711883545]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2496
+DEBUG:root:Entropy — layer: 4.4526, headwise: [4.342245101928711, 4.563045024871826]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2492
+DEBUG:root:Entropy — layer: 4.4531, headwise: [4.343778610229492, 4.562499046325684]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2488
+DEBUG:root:Entropy — layer: 4.4536, headwise: [4.345322608947754, 4.561948776245117]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2484
+DEBUG:root:Entropy — layer: 4.4541, headwise: [4.3468756675720215, 4.561393737792969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2480
+DEBUG:root:Entropy — layer: 4.4546, headwise: [4.348437309265137, 4.560835361480713]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2476
+DEBUG:root:Entropy — layer: 4.4551, headwise: [4.3500075340271, 4.560273170471191]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2472
+DEBUG:root:Entropy — layer: 4.4556, headwise: [4.3515849113464355, 4.5597076416015625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2468
+DEBUG:root:Entropy — layer: 4.4562, headwise: [4.3531694412231445, 4.559138774871826]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2464
+DEBUG:root:Entropy — layer: 4.4567, headwise: [4.354760646820068, 4.558567047119141]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2461
+DEBUG:root:Entropy — layer: 4.4572, headwise: [4.356357574462891, 4.557992935180664]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2457
+DEBUG:root:Entropy — layer: 4.4577, headwise: [4.357959747314453, 4.557416915893555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2453
+DEBUG:root:Entropy — layer: 4.4582, headwise: [4.3595662117004395, 4.5568389892578125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2449
+DEBUG:root:Entropy — layer: 4.4587, headwise: [4.36117696762085, 4.5562591552734375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2445
+DEBUG:root:Entropy — layer: 4.4592, headwise: [4.362790107727051, 4.555678844451904]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2441
+DEBUG:root:Entropy — layer: 4.4598, headwise: [4.364406585693359, 4.5550971031188965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2437
+DEBUG:root:Entropy — layer: 4.4603, headwise: [4.366024971008301, 4.5545148849487305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2433
+DEBUG:root:Entropy — layer: 4.4608, headwise: [4.367644309997559, 4.553932189941406]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2429
+DEBUG:root:Entropy — layer: 4.4613, headwise: [4.369263648986816, 4.55334997177124]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2425
+DEBUG:root:Entropy — layer: 4.4618, headwise: [4.370882987976074, 4.552767753601074]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2421
+DEBUG:root:Entropy — layer: 4.4623, headwise: [4.372501373291016, 4.552186489105225]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2416
+DEBUG:root:Entropy — layer: 4.4629, headwise: [4.374117851257324, 4.55160665512085]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2412
+DEBUG:root:Entropy — layer: 4.4634, headwise: [4.375731468200684, 4.551027774810791]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2408
+DEBUG:root:Entropy — layer: 4.4639, headwise: [4.377342224121094, 4.550450801849365]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2404
+DEBUG:root:Entropy — layer: 4.4644, headwise: [4.378949165344238, 4.5498762130737305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2400
+DEBUG:root:Entropy — layer: 4.4649, headwise: [4.380550861358643, 4.54930305480957]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2396
+DEBUG:root:Entropy — layer: 4.4654, headwise: [4.382147789001465, 4.548733711242676]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2392
+DEBUG:root:Entropy — layer: 4.4660, headwise: [4.383737564086914, 4.5481672286987305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2388
+DEBUG:root:Entropy — layer: 4.4665, headwise: [4.385320663452148, 4.547603607177734]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2383
+DEBUG:root:Entropy — layer: 4.4670, headwise: [4.386896133422852, 4.547043800354004]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2379
+DEBUG:root:Entropy — layer: 4.4675, headwise: [4.388462543487549, 4.5464887619018555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2375
+DEBUG:root:Entropy — layer: 4.4680, headwise: [4.39001989364624, 4.545937538146973]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2371
+DEBUG:root:Entropy — layer: 4.4685, headwise: [4.391566753387451, 4.545390605926514]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2366
+DEBUG:root:Entropy — layer: 4.4690, headwise: [4.39310359954834, 4.544848918914795]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2362
+DEBUG:root:Entropy — layer: 4.4695, headwise: [4.394628047943115, 4.544312477111816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2358
+DEBUG:root:Entropy — layer: 4.4700, headwise: [4.3961405754089355, 4.543781280517578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2354
+DEBUG:root:Entropy — layer: 4.4704, headwise: [4.397639751434326, 4.54325532913208]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2349
+DEBUG:root:Entropy — layer: 4.4709, headwise: [4.399125099182129, 4.542736053466797]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2345
+DEBUG:root:Entropy — layer: 4.4714, headwise: [4.4005961418151855, 4.542222499847412]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2341
+DEBUG:root:Entropy — layer: 4.4719, headwise: [4.40205192565918, 4.541715621948242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2336
+DEBUG:root:Entropy — layer: 4.4724, headwise: [4.403491973876953, 4.541215896606445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2332
+DEBUG:root:Entropy — layer: 4.4728, headwise: [4.4049153327941895, 4.540722370147705]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2327
+DEBUG:root:Entropy — layer: 4.4733, headwise: [4.4063215255737305, 4.54023551940918]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2323
+DEBUG:root:Entropy — layer: 4.4737, headwise: [4.407710075378418, 4.539756774902344]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2318
+DEBUG:root:Entropy — layer: 4.4742, headwise: [4.409079551696777, 4.539285659790039]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2314
+DEBUG:root:Entropy — layer: 4.4746, headwise: [4.410430431365967, 4.538821697235107]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2310
+DEBUG:root:Entropy — layer: 4.4751, headwise: [4.41176176071167, 4.538365364074707]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2305
+DEBUG:root:Entropy — layer: 4.4755, headwise: [4.41307258605957, 4.537917137145996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2301
+DEBUG:root:Entropy — layer: 4.4759, headwise: [4.414363384246826, 4.537476539611816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2296
+DEBUG:root:Entropy — layer: 4.4763, headwise: [4.415632724761963, 4.537044525146484]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2291
+DEBUG:root:Entropy — layer: 4.4768, headwise: [4.4168806076049805, 4.536620616912842]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2287
+DEBUG:root:Entropy — layer: 4.4772, headwise: [4.4181060791015625, 4.536204814910889]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2282
+DEBUG:root:Entropy — layer: 4.4776, headwise: [4.419309616088867, 4.535797595977783]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2278
+DEBUG:root:Entropy — layer: 4.4779, headwise: [4.420490264892578, 4.535398483276367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2273
+DEBUG:root:Entropy — layer: 4.4783, headwise: [4.421647548675537, 4.535008430480957]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2268
+DEBUG:root:Entropy — layer: 4.4787, headwise: [4.422781944274902, 4.534626007080078]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2264
+DEBUG:root:Entropy — layer: 4.4791, headwise: [4.423892021179199, 4.534253120422363]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2259
+DEBUG:root:Entropy — layer: 4.4794, headwise: [4.424978256225586, 4.53388786315918]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2255
+DEBUG:root:Entropy — layer: 4.4798, headwise: [4.4260406494140625, 4.53353214263916]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2250
+DEBUG:root:Entropy — layer: 4.4801, headwise: [4.4270782470703125, 4.533184051513672]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2245
+DEBUG:root:Entropy — layer: 4.4805, headwise: [4.428092002868652, 4.532844543457031]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2241
+DEBUG:root:Entropy — layer: 4.4808, headwise: [4.429080963134766, 4.53251314163208]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2236
+DEBUG:root:Entropy — layer: 4.4811, headwise: [4.4300456047058105, 4.532190322875977]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2231
+DEBUG:root:Entropy — layer: 4.4814, headwise: [4.430985450744629, 4.531876087188721]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2226
+DEBUG:root:Entropy — layer: 4.4817, headwise: [4.431901454925537, 4.531569480895996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2222
+DEBUG:root:Entropy — layer: 4.4820, headwise: [4.432792663574219, 4.531270980834961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2217
+DEBUG:root:Entropy — layer: 4.4823, headwise: [4.433659553527832, 4.530980110168457]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2212
+DEBUG:root:Entropy — layer: 4.4826, headwise: [4.434502601623535, 4.530697345733643]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2208
+DEBUG:root:Entropy — layer: 4.4829, headwise: [4.43532133102417, 4.530422210693359]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2203
+DEBUG:root:Entropy — layer: 4.4831, headwise: [4.436117172241211, 4.530154228210449]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2198
+DEBUG:root:Entropy — layer: 4.4834, headwise: [4.436889171600342, 4.529892921447754]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2194
+DEBUG:root:Entropy — layer: 4.4836, headwise: [4.437638282775879, 4.52963924407959]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2189
+DEBUG:root:Entropy — layer: 4.4839, headwise: [4.4383649826049805, 4.529392719268799]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2184
+DEBUG:root:Entropy — layer: 4.4841, headwise: [4.4390692710876465, 4.529151916503906]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2180
+DEBUG:root:Entropy — layer: 4.4843, headwise: [4.439752101898193, 4.528918266296387]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2175
+DEBUG:root:Entropy — layer: 4.4846, headwise: [4.440413475036621, 4.528690338134766]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2171
+DEBUG:root:Entropy — layer: 4.4848, headwise: [4.44105339050293, 4.528468132019043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2166
+DEBUG:root:Entropy — layer: 4.4850, headwise: [4.44167423248291, 4.528252124786377]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2162
+DEBUG:root:Entropy — layer: 4.4852, headwise: [4.442275047302246, 4.528040885925293]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2157
+DEBUG:root:Entropy — layer: 4.4853, headwise: [4.4428558349609375, 4.527835369110107]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2153
+DEBUG:root:Entropy — layer: 4.4855, headwise: [4.443419456481934, 4.527634620666504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2148
+DEBUG:root:Entropy — layer: 4.4857, headwise: [4.443964004516602, 4.527437686920166]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2144
+DEBUG:root:Entropy — layer: 4.4859, headwise: [4.444492340087891, 4.52724552154541]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2139
+DEBUG:root:Entropy — layer: 4.4860, headwise: [4.445004463195801, 4.527057647705078]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2135
+DEBUG:root:Entropy — layer: 4.4862, headwise: [4.445500373840332, 4.526872634887695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2131
+DEBUG:root:Entropy — layer: 4.4863, headwise: [4.445981025695801, 4.526691436767578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2127
+DEBUG:root:Entropy — layer: 4.4865, headwise: [4.446447372436523, 4.526513576507568]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2122
+DEBUG:root:Entropy — layer: 4.4866, headwise: [4.446900844573975, 4.52633810043335]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2118
+DEBUG:root:Entropy — layer: 4.4868, headwise: [4.447340965270996, 4.526165008544922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2114
+DEBUG:root:Entropy — layer: 4.4869, headwise: [4.4477691650390625, 4.525994300842285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2110
+DEBUG:root:Entropy — layer: 4.4870, headwise: [4.448185920715332, 4.525825500488281]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2106
+DEBUG:root:Entropy — layer: 4.4871, headwise: [4.448592185974121, 4.525658130645752]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2102
+DEBUG:root:Entropy — layer: 4.4872, headwise: [4.44898796081543, 4.525491714477539]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2099
+DEBUG:root:Entropy — layer: 4.4874, headwise: [4.449375152587891, 4.525326728820801]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2095
+DEBUG:root:Entropy — layer: 4.4875, headwise: [4.449754238128662, 4.525162696838379]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2091
+DEBUG:root:Entropy — layer: 4.4876, headwise: [4.450124740600586, 4.524998664855957]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2087
+DEBUG:root:Entropy — layer: 4.4877, headwise: [4.450489044189453, 4.524834632873535]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2084
+DEBUG:root:Entropy — layer: 4.4878, headwise: [4.4508466720581055, 4.524670600891113]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2080
+DEBUG:root:Entropy — layer: 4.4879, headwise: [4.451198577880859, 4.524505615234375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2077
+DEBUG:root:Entropy — layer: 4.4879, headwise: [4.451545238494873, 4.524340629577637]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2073
+DEBUG:root:Entropy — layer: 4.4880, headwise: [4.451887130737305, 4.524174213409424]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2070
+DEBUG:root:Entropy — layer: 4.4881, headwise: [4.452225208282471, 4.5240068435668945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2067
+DEBUG:root:Entropy — layer: 4.4882, headwise: [4.452559471130371, 4.523838043212891]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2063
+DEBUG:root:Entropy — layer: 4.4883, headwise: [4.452890396118164, 4.523667335510254]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2060
+DEBUG:root:Entropy — layer: 4.4884, headwise: [4.453218936920166, 4.523494720458984]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2057
+DEBUG:root:Entropy — layer: 4.4884, headwise: [4.453544616699219, 4.523320198059082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2054
+DEBUG:root:Entropy — layer: 4.4885, headwise: [4.453868865966797, 4.5231428146362305]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2051
+DEBUG:root:Entropy — layer: 4.4886, headwise: [4.454191207885742, 4.522963047027588]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2048
+DEBUG:root:Entropy — layer: 4.4886, headwise: [4.454512119293213, 4.522780895233154]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2045
+DEBUG:root:Entropy — layer: 4.4887, headwise: [4.454832077026367, 4.522594928741455]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2042
+DEBUG:root:Entropy — layer: 4.4888, headwise: [4.455150604248047, 4.522406578063965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2040
+DEBUG:root:Entropy — layer: 4.4888, headwise: [4.45546817779541, 4.522214412689209]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2037
+DEBUG:root:Entropy — layer: 4.4889, headwise: [4.455784797668457, 4.522019386291504]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2034
+DEBUG:root:Entropy — layer: 4.4890, headwise: [4.4561004638671875, 4.521820068359375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2031
+DEBUG:root:Entropy — layer: 4.4890, headwise: [4.456415176391602, 4.521617412567139]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2029
+DEBUG:root:Entropy — layer: 4.4891, headwise: [4.456728935241699, 4.5214104652404785]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2026
+DEBUG:root:Entropy — layer: 4.4891, headwise: [4.457042217254639, 4.521199703216553]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2024
+DEBUG:root:Entropy — layer: 4.4892, headwise: [4.457353591918945, 4.520984649658203]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2021
+DEBUG:root:Entropy — layer: 4.4892, headwise: [4.4576640129089355, 4.52076530456543]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2019
+DEBUG:root:Entropy — layer: 4.4893, headwise: [4.457973003387451, 4.520542144775391]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2017
+DEBUG:root:Entropy — layer: 4.4893, headwise: [4.458280563354492, 4.5203142166137695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2014
+DEBUG:root:Entropy — layer: 4.4893, headwise: [4.458585739135742, 4.520081520080566]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2012
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.458889007568359, 4.519845008850098]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2010
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.459190368652344, 4.519603252410889]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2007
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.459488868713379, 4.519357204437256]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2005
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.459784507751465, 4.519106388092041]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2003
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.460076332092285, 4.518851280212402]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.2001
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.460365295410156, 4.518590927124023]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1998
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.46065092086792, 4.5183258056640625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1996
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.460931777954102, 4.518056392669678]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1994
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.461208820343018, 4.517782211303711]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1992
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.461481094360352, 4.51750373840332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1990
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.461749076843262, 4.517220973968506]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1988
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.462011337280273, 4.516932964324951]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1986
+DEBUG:root:Entropy — layer: 4.4895, headwise: [4.462269306182861, 4.516641139984131]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1984
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.462521553039551, 4.516345024108887]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1982
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.462767601013184, 4.5160441398620605]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1980
+DEBUG:root:Entropy — layer: 4.4894, headwise: [4.463008403778076, 4.515739440917969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1978
+DEBUG:root:Entropy — layer: 4.4893, headwise: [4.463243007659912, 4.515430450439453]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1976
+DEBUG:root:Entropy — layer: 4.4893, headwise: [4.46347188949585, 4.515117168426514]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1974
+DEBUG:root:Entropy — layer: 4.4892, headwise: [4.4636945724487305, 4.514800071716309]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1972
+DEBUG:root:Entropy — layer: 4.4892, headwise: [4.463910102844238, 4.514479637145996]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1970
+DEBUG:root:Entropy — layer: 4.4891, headwise: [4.464120388031006, 4.514155387878418]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1969
+DEBUG:root:Entropy — layer: 4.4891, headwise: [4.4643235206604, 4.513827323913574]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1967
+DEBUG:root:Entropy — layer: 4.4890, headwise: [4.464520454406738, 4.513495445251465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1965
+DEBUG:root:Entropy — layer: 4.4889, headwise: [4.464710235595703, 4.513160705566406]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1963
+DEBUG:root:Entropy — layer: 4.4889, headwise: [4.4648942947387695, 4.51282262802124]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1961
+DEBUG:root:Entropy — layer: 4.4888, headwise: [4.465071678161621, 4.512481689453125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1959
+DEBUG:root:Entropy — layer: 4.4887, headwise: [4.4652419090271, 4.512137413024902]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1958
+DEBUG:root:Entropy — layer: 4.4886, headwise: [4.4654059410095215, 4.511790752410889]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1956
+DEBUG:root:Entropy — layer: 4.4885, headwise: [4.465563774108887, 4.511440753936768]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1954
+DEBUG:root:Entropy — layer: 4.4884, headwise: [4.465714931488037, 4.511088848114014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1952
+DEBUG:root:Entropy — layer: 4.4883, headwise: [4.465859413146973, 4.5107340812683105]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1951
+DEBUG:root:Entropy — layer: 4.4882, headwise: [4.465997695922852, 4.510376930236816]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1949
+DEBUG:root:Entropy — layer: 4.4881, headwise: [4.466129302978516, 4.510017395019531]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1947
+DEBUG:root:Entropy — layer: 4.4880, headwise: [4.466255187988281, 4.5096564292907715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1945
+DEBUG:root:Entropy — layer: 4.4878, headwise: [4.46637487411499, 4.509293556213379]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1944
+DEBUG:root:Entropy — layer: 4.4877, headwise: [4.466487884521484, 4.508928298950195]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1942
+DEBUG:root:Entropy — layer: 4.4876, headwise: [4.46659517288208, 4.508562088012695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1940
+DEBUG:root:Entropy — layer: 4.4874, headwise: [4.466696739196777, 4.508193492889404]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1939
+DEBUG:root:Entropy — layer: 4.4873, headwise: [4.466792106628418, 4.507823944091797]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1937
+DEBUG:root:Entropy — layer: 4.4872, headwise: [4.46688175201416, 4.507453441619873]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1935
+DEBUG:root:Entropy — layer: 4.4870, headwise: [4.466965675354004, 4.507081508636475]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1934
+DEBUG:root:Entropy — layer: 4.4869, headwise: [4.467043876647949, 4.506708145141602]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1932
+DEBUG:root:Entropy — layer: 4.4867, headwise: [4.467116355895996, 4.5063347816467285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1931
+DEBUG:root:Entropy — layer: 4.4866, headwise: [4.4671831130981445, 4.505960464477539]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1929
+DEBUG:root:Entropy — layer: 4.4864, headwise: [4.467244625091553, 4.505585193634033]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1928
+DEBUG:root:Entropy — layer: 4.4863, headwise: [4.4673004150390625, 4.505208969116211]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1926
+DEBUG:root:Entropy — layer: 4.4861, headwise: [4.467350959777832, 4.504833221435547]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1924
+DEBUG:root:Entropy — layer: 4.4859, headwise: [4.467396259307861, 4.504457473754883]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1923
+DEBUG:root:Entropy — layer: 4.4858, headwise: [4.46743631362915, 4.504080772399902]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1921
+DEBUG:root:Entropy — layer: 4.4856, headwise: [4.467471122741699, 4.503704071044922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1920
+DEBUG:root:Entropy — layer: 4.4854, headwise: [4.467500686645508, 4.503327369689941]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1918
+DEBUG:root:Entropy — layer: 4.4852, headwise: [4.467525959014893, 4.502951145172119]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1917
+DEBUG:root:Entropy — layer: 4.4851, headwise: [4.467545509338379, 4.502574920654297]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1915
+DEBUG:root:Entropy — layer: 4.4849, headwise: [4.467560768127441, 4.502199172973633]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1914
+DEBUG:root:Entropy — layer: 4.4847, headwise: [4.467570781707764, 4.501824378967285]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1912
+DEBUG:root:Entropy — layer: 4.4845, headwise: [4.467576026916504, 4.501449108123779]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1911
+DEBUG:root:Entropy — layer: 4.4843, headwise: [4.467576503753662, 4.50107479095459]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1910
+DEBUG:root:Entropy — layer: 4.4841, headwise: [4.467572212219238, 4.500701427459717]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1908
+DEBUG:root:Entropy — layer: 4.4839, headwise: [4.467563629150391, 4.500328063964844]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1907
+DEBUG:root:Entropy — layer: 4.4838, headwise: [4.467550277709961, 4.499956130981445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1905
+DEBUG:root:Entropy — layer: 4.4836, headwise: [4.467532157897949, 4.4995856285095215]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1904
+DEBUG:root:Entropy — layer: 4.4834, headwise: [4.467510223388672, 4.499215602874756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1902
+DEBUG:root:Entropy — layer: 4.4832, headwise: [4.467483043670654, 4.498846530914307]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1901
+DEBUG:root:Entropy — layer: 4.4830, headwise: [4.467452049255371, 4.498478889465332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1900
+DEBUG:root:Entropy — layer: 4.4828, headwise: [4.467416763305664, 4.498111724853516]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1898
+DEBUG:root:Entropy — layer: 4.4826, headwise: [4.467377185821533, 4.497746467590332]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1897
+DEBUG:root:Entropy — layer: 4.4824, headwise: [4.4673333168029785, 4.497382164001465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1896
+DEBUG:root:Entropy — layer: 4.4822, headwise: [4.46728515625, 4.497019290924072]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1894
+DEBUG:root:Entropy — layer: 4.4819, headwise: [4.467233180999756, 4.496657848358154]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1893
+DEBUG:root:Entropy — layer: 4.4817, headwise: [4.467177391052246, 4.496297359466553]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1892
+DEBUG:root:Entropy — layer: 4.4815, headwise: [4.4671173095703125, 4.495938777923584]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1890
+DEBUG:root:Entropy — layer: 4.4813, headwise: [4.467053413391113, 4.49558162689209]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1889
+DEBUG:root:Entropy — layer: 4.4811, headwise: [4.466985702514648, 4.49522590637207]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1888
+DEBUG:root:Entropy — layer: 4.4809, headwise: [4.466914653778076, 4.494871139526367]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1887
+DEBUG:root:Entropy — layer: 4.4807, headwise: [4.466839790344238, 4.494518756866455]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1885
+DEBUG:root:Entropy — layer: 4.4805, headwise: [4.466760635375977, 4.494167327880859]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1884
+DEBUG:root:Entropy — layer: 4.4802, headwise: [4.466678619384766, 4.4938178062438965]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1883
+DEBUG:root:Entropy — layer: 4.4800, headwise: [4.466592788696289, 4.493469715118408]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1881
+DEBUG:root:Entropy — layer: 4.4798, headwise: [4.466504096984863, 4.493123531341553]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1880
+DEBUG:root:Entropy — layer: 4.4796, headwise: [4.466411113739014, 4.492778301239014]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1879
+DEBUG:root:Entropy — layer: 4.4794, headwise: [4.466315269470215, 4.492435455322266]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1878
+DEBUG:root:Entropy — layer: 4.4792, headwise: [4.466216087341309, 4.492094039916992]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1877
+DEBUG:root:Entropy — layer: 4.4789, headwise: [4.466114044189453, 4.491754055023193]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1875
+DEBUG:root:Entropy — layer: 4.4787, headwise: [4.466008186340332, 4.491415977478027]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1874
+DEBUG:root:Entropy — layer: 4.4785, headwise: [4.465899467468262, 4.491079330444336]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1873
+DEBUG:root:Entropy — layer: 4.4783, headwise: [4.465787887573242, 4.490744590759277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1872
+DEBUG:root:Entropy — layer: 4.4780, headwise: [4.465673446655273, 4.490410804748535]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1871
+DEBUG:root:Entropy — layer: 4.4778, headwise: [4.465555667877197, 4.490079402923584]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1869
+DEBUG:root:Entropy — layer: 4.4776, headwise: [4.465435028076172, 4.489749431610107]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1868
+DEBUG:root:Entropy — layer: 4.4774, headwise: [4.4653120040893555, 4.489421367645264]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1867
+DEBUG:root:Entropy — layer: 4.4771, headwise: [4.46518611907959, 4.4890947341918945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1866
+DEBUG:root:Entropy — layer: 4.4769, headwise: [4.465057373046875, 4.48876953125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1865
+DEBUG:root:Entropy — layer: 4.4767, headwise: [4.464925289154053, 4.488446235656738]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1864
+DEBUG:root:Entropy — layer: 4.4765, headwise: [4.464791774749756, 4.488124847412109]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1863
+DEBUG:root:Entropy — layer: 4.4762, headwise: [4.464654922485352, 4.487804889678955]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1862
+DEBUG:root:Entropy — layer: 4.4760, headwise: [4.464515686035156, 4.487486839294434]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1860
+DEBUG:root:Entropy — layer: 4.4758, headwise: [4.46437406539917, 4.487170219421387]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1859
+DEBUG:root:Entropy — layer: 4.4755, headwise: [4.464230060577393, 4.486855506896973]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1858
+DEBUG:root:Entropy — layer: 4.4753, headwise: [4.464083671569824, 4.486541748046875]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1857
+DEBUG:root:Entropy — layer: 4.4751, headwise: [4.463934898376465, 4.486230373382568]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1856
+DEBUG:root:Entropy — layer: 4.4749, headwise: [4.4637837409973145, 4.485919952392578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1855
+DEBUG:root:Entropy — layer: 4.4746, headwise: [4.463630676269531, 4.485611915588379]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1854
+DEBUG:root:Entropy — layer: 4.4744, headwise: [4.463475227355957, 4.485305309295654]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1853
+DEBUG:root:Entropy — layer: 4.4742, headwise: [4.463317394256592, 4.4850006103515625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1852
+DEBUG:root:Entropy — layer: 4.4739, headwise: [4.463157653808594, 4.484697341918945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1851
+DEBUG:root:Entropy — layer: 4.4737, headwise: [4.462995529174805, 4.484395503997803]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1850
+DEBUG:root:Entropy — layer: 4.4735, headwise: [4.462831974029541, 4.484095573425293]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1849
+DEBUG:root:Entropy — layer: 4.4732, headwise: [4.4626665115356445, 4.483797550201416]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1848
+DEBUG:root:Entropy — layer: 4.4730, headwise: [4.462498664855957, 4.4835004806518555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1847
+DEBUG:root:Entropy — layer: 4.4728, headwise: [4.462328910827637, 4.483205795288086]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1846
+DEBUG:root:Entropy — layer: 4.4725, headwise: [4.462157249450684, 4.482912063598633]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1845
+DEBUG:root:Entropy — layer: 4.4723, headwise: [4.461984157562256, 4.482620716094971]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1844
+DEBUG:root:Entropy — layer: 4.4721, headwise: [4.461809158325195, 4.482330322265625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1843
+DEBUG:root:Entropy — layer: 4.4718, headwise: [4.46163272857666, 4.482041835784912]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1842
+DEBUG:root:Entropy — layer: 4.4716, headwise: [4.461453914642334, 4.481755256652832]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1841
+DEBUG:root:Entropy — layer: 4.4714, headwise: [4.461274147033691, 4.481470108032227]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1840
+DEBUG:root:Entropy — layer: 4.4711, headwise: [4.461092472076416, 4.481186866760254]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1839
+DEBUG:root:Entropy — layer: 4.4709, headwise: [4.460909366607666, 4.480904579162598]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1838
+DEBUG:root:Entropy — layer: 4.4707, headwise: [4.460724830627441, 4.480624675750732]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1837
+DEBUG:root:Entropy — layer: 4.4704, headwise: [4.460538864135742, 4.480345726013184]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1836
+DEBUG:root:Entropy — layer: 4.4702, headwise: [4.460351467132568, 4.480069160461426]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1835
+DEBUG:root:Entropy — layer: 4.4700, headwise: [4.46016263961792, 4.479793548583984]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1834
+DEBUG:root:Entropy — layer: 4.4697, headwise: [4.459972381591797, 4.479519844055176]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1833
+DEBUG:root:Entropy — layer: 4.4695, headwise: [4.459781169891357, 4.479247570037842]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1832
+DEBUG:root:Entropy — layer: 4.4693, headwise: [4.459588527679443, 4.478976726531982]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1832
+DEBUG:root:Entropy — layer: 4.4691, headwise: [4.459394454956055, 4.478707790374756]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1831
+DEBUG:root:Entropy — layer: 4.4688, headwise: [4.459199905395508, 4.478440284729004]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1830
+DEBUG:root:Entropy — layer: 4.4686, headwise: [4.459003448486328, 4.478174209594727]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1829
+DEBUG:root:Entropy — layer: 4.4684, headwise: [4.45880651473999, 4.477910041809082]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1828
+DEBUG:root:Entropy — layer: 4.4681, headwise: [4.458608150482178, 4.477647304534912]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1827
+DEBUG:root:Entropy — layer: 4.4679, headwise: [4.458409309387207, 4.477385997772217]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1826
+DEBUG:root:Entropy — layer: 4.4677, headwise: [4.45820951461792, 4.477126598358154]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1825
+DEBUG:root:Entropy — layer: 4.4674, headwise: [4.458008289337158, 4.476868152618408]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1824
+DEBUG:root:Entropy — layer: 4.4672, headwise: [4.457806587219238, 4.476611614227295]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1824
+DEBUG:root:Entropy — layer: 4.4670, headwise: [4.457603931427002, 4.476356506347656]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1823
+DEBUG:root:Entropy — layer: 4.4668, headwise: [4.457400321960449, 4.476102828979492]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1822
+DEBUG:root:Entropy — layer: 4.4665, headwise: [4.457196235656738, 4.475850582122803]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1821
+DEBUG:root:Entropy — layer: 4.4663, headwise: [4.456991195678711, 4.475600242614746]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1820
+DEBUG:root:Entropy — layer: 4.4661, headwise: [4.456786155700684, 4.475350856781006]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1819
+DEBUG:root:Entropy — layer: 4.4658, headwise: [4.45658016204834, 4.475103378295898]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1819
+DEBUG:root:Entropy — layer: 4.4656, headwise: [4.45637321472168, 4.474856853485107]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1818
+DEBUG:root:Entropy — layer: 4.4654, headwise: [4.4561662673950195, 4.474611759185791]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1817
+DEBUG:root:Entropy — layer: 4.4652, headwise: [4.455958366394043, 4.474368572235107]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1816
+DEBUG:root:Entropy — layer: 4.4649, headwise: [4.455750465393066, 4.47412633895874]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1815
+DEBUG:root:Entropy — layer: 4.4647, headwise: [4.455541610717773, 4.473885536193848]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1815
+DEBUG:root:Entropy — layer: 4.4645, headwise: [4.4553327560424805, 4.473646640777588]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1814
+DEBUG:root:Entropy — layer: 4.4643, headwise: [4.455122947692871, 4.473409175872803]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1813
+DEBUG:root:Entropy — layer: 4.4640, headwise: [4.454913139343262, 4.473172664642334]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1812
+DEBUG:root:Entropy — layer: 4.4638, headwise: [4.454703330993652, 4.47293758392334]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1811
+DEBUG:root:Entropy — layer: 4.4636, headwise: [4.454492568969727, 4.47270393371582]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1811
+DEBUG:root:Entropy — layer: 4.4634, headwise: [4.454282283782959, 4.472471237182617]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1810
+DEBUG:root:Entropy — layer: 4.4632, headwise: [4.454071521759033, 4.472240447998047]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1809
+DEBUG:root:Entropy — layer: 4.4629, headwise: [4.453860759735107, 4.472010612487793]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1808
+DEBUG:root:Entropy — layer: 4.4627, headwise: [4.453649520874023, 4.4717817306518555]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1808
+DEBUG:root:Entropy — layer: 4.4625, headwise: [4.453437805175781, 4.471554756164551]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1807
+DEBUG:root:Entropy — layer: 4.4623, headwise: [4.4532270431518555, 4.4713287353515625]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1806
+DEBUG:root:Entropy — layer: 4.4621, headwise: [4.453015327453613, 4.471103668212891]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1805
+DEBUG:root:Entropy — layer: 4.4618, headwise: [4.452803611755371, 4.470880508422852]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1805
+DEBUG:root:Entropy — layer: 4.4616, headwise: [4.452592372894287, 4.470658302307129]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1804
+DEBUG:root:Entropy — layer: 4.4614, headwise: [4.452381134033203, 4.470437049865723]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1803
+DEBUG:root:Entropy — layer: 4.4612, headwise: [4.452169418334961, 4.470216751098633]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1802
+DEBUG:root:Entropy — layer: 4.4610, headwise: [4.451958179473877, 4.469998359680176]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1802
+DEBUG:root:Entropy — layer: 4.4608, headwise: [4.451746940612793, 4.469780921936035]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1801
+DEBUG:root:Entropy — layer: 4.4605, headwise: [4.451535701751709, 4.469564437866211]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1800
+DEBUG:root:Entropy — layer: 4.4603, headwise: [4.451323986053467, 4.469348907470703]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1800
+DEBUG:root:Entropy — layer: 4.4601, headwise: [4.451113224029541, 4.469134330749512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1799
+DEBUG:root:Entropy — layer: 4.4599, headwise: [4.450902462005615, 4.468921184539795]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1798
+DEBUG:root:Entropy — layer: 4.4597, headwise: [4.4506916999816895, 4.4687089920043945]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1797
+DEBUG:root:Entropy — layer: 4.4595, headwise: [4.450480937957764, 4.468498229980469]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1797
+DEBUG:root:Entropy — layer: 4.4593, headwise: [4.450270652770996, 4.468287944793701]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1796
+DEBUG:root:Entropy — layer: 4.4591, headwise: [4.4500603675842285, 4.468079566955566]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1795
+DEBUG:root:Entropy — layer: 4.4589, headwise: [4.449850559234619, 4.467870712280273]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1795
+DEBUG:root:Entropy — layer: 4.4587, headwise: [4.449640274047852, 4.4676642417907715]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1794
+DEBUG:root:Entropy — layer: 4.4584, headwise: [4.449431419372559, 4.4674577713012695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1793
+DEBUG:root:Entropy — layer: 4.4582, headwise: [4.449222087860107, 4.467252731323242]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1793
+DEBUG:root:Entropy — layer: 4.4580, headwise: [4.449012756347656, 4.467048645019531]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1792
+DEBUG:root:Entropy — layer: 4.4578, headwise: [4.4488043785095215, 4.466845512390137]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1791
+DEBUG:root:Entropy — layer: 4.4576, headwise: [4.448596000671387, 4.466643333435059]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1791
+DEBUG:root:Entropy — layer: 4.4574, headwise: [4.44838809967041, 4.466441631317139]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1790
+DEBUG:root:Entropy — layer: 4.4572, headwise: [4.448180198669434, 4.466240882873535]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1789
+DEBUG:root:Entropy — layer: 4.4570, headwise: [4.447972297668457, 4.466041088104248]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1789
+DEBUG:root:Entropy — layer: 4.4568, headwise: [4.447765350341797, 4.465842247009277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1788
+DEBUG:root:Entropy — layer: 4.4566, headwise: [4.447558403015137, 4.465643882751465]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1787
+DEBUG:root:Entropy — layer: 4.4564, headwise: [4.447352409362793, 4.465446472167969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1787
+DEBUG:root:Entropy — layer: 4.4562, headwise: [4.447146415710449, 4.465249538421631]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1786
+DEBUG:root:Entropy — layer: 4.4560, headwise: [4.4469404220581055, 4.465053558349609]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1786
+DEBUG:root:Entropy — layer: 4.4558, headwise: [4.44673490524292, 4.464858531951904]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1785
+DEBUG:root:Entropy — layer: 4.4556, headwise: [4.446529865264893, 4.464663982391357]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1784
+DEBUG:root:Entropy — layer: 4.4554, headwise: [4.446325302124023, 4.464469909667969]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1784
+DEBUG:root:Entropy — layer: 4.4552, headwise: [4.4461212158203125, 4.464276313781738]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1783
+DEBUG:root:Entropy — layer: 4.4550, headwise: [4.445917129516602, 4.464084148406982]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1782
+DEBUG:root:Entropy — layer: 4.4548, headwise: [4.445713520050049, 4.463891983032227]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1782
+DEBUG:root:Entropy — layer: 4.4546, headwise: [4.445510387420654, 4.463700771331787]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1781
+DEBUG:root:Entropy — layer: 4.4544, headwise: [4.445307731628418, 4.463510513305664]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1781
+DEBUG:root:Entropy — layer: 4.4542, headwise: [4.445104598999023, 4.463319778442383]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1780
+DEBUG:root:Entropy — layer: 4.4540, headwise: [4.4449028968811035, 4.463130950927734]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1779
+DEBUG:root:Entropy — layer: 4.4538, headwise: [4.444701194763184, 4.462941646575928]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1779
+DEBUG:root:Entropy — layer: 4.4536, headwise: [4.444499492645264, 4.4627532958984375]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1778
+DEBUG:root:Entropy — layer: 4.4534, headwise: [4.44429874420166, 4.462564945220947]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1778
+DEBUG:root:Entropy — layer: 4.4532, headwise: [4.444098472595215, 4.462377548217773]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1777
+DEBUG:root:Entropy — layer: 4.4530, headwise: [4.4438982009887695, 4.462190628051758]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1777
+DEBUG:root:Entropy — layer: 4.4529, headwise: [4.443698406219482, 4.4620041847229]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1776
+DEBUG:root:Entropy — layer: 4.4527, headwise: [4.443498611450195, 4.461818218231201]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1775
+DEBUG:root:Entropy — layer: 4.4525, headwise: [4.443299770355225, 4.46163272857666]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1775
+DEBUG:root:Entropy — layer: 4.4523, headwise: [4.443100929260254, 4.461446762084961]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1774
+DEBUG:root:Entropy — layer: 4.4521, headwise: [4.4429030418396, 4.461261749267578]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1774
+DEBUG:root:Entropy — layer: 4.4519, headwise: [4.442705154418945, 4.461077690124512]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1773
+DEBUG:root:Entropy — layer: 4.4517, headwise: [4.442507266998291, 4.460893630981445]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1772
+DEBUG:root:Entropy — layer: 4.4515, headwise: [4.442309856414795, 4.460710048675537]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1772
+DEBUG:root:Entropy — layer: 4.4513, headwise: [4.442113399505615, 4.460526466369629]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1771
+DEBUG:root:Entropy — layer: 4.4511, headwise: [4.4419169425964355, 4.460343360900879]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1771
+DEBUG:root:Entropy — layer: 4.4509, headwise: [4.441720485687256, 4.460160732269287]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1770
+DEBUG:root:Entropy — layer: 4.4508, headwise: [4.441524982452393, 4.459978103637695]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1770
+DEBUG:root:Entropy — layer: 4.4506, headwise: [4.441329479217529, 4.4597954750061035]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1769
+DEBUG:root:Entropy — layer: 4.4504, headwise: [4.441134452819824, 4.459613800048828]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1769
+DEBUG:root:Entropy — layer: 4.4502, headwise: [4.440939903259277, 4.459432125091553]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1768
+DEBUG:root:Entropy — layer: 4.4500, headwise: [4.440744876861572, 4.459250450134277]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1767
+DEBUG:root:Entropy — layer: 4.4498, headwise: [4.440550804138184, 4.45906925201416]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1767
+DEBUG:root:Entropy — layer: 4.4496, headwise: [4.440356731414795, 4.458888053894043]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1766
+DEBUG:root:Entropy — layer: 4.4494, headwise: [4.440163612365723, 4.458707332611084]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1766
+DEBUG:root:Entropy — layer: 4.4492, headwise: [4.439970016479492, 4.458526611328125]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1765
+DEBUG:root:Entropy — layer: 4.4491, headwise: [4.439777374267578, 4.458346366882324]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1765
+DEBUG:root:Entropy — layer: 4.4489, headwise: [4.439584732055664, 4.458165645599365]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1764
+DEBUG:root:Entropy — layer: 4.4487, headwise: [4.43939208984375, 4.457985877990723]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1764
+DEBUG:root:Entropy — layer: 4.4485, headwise: [4.439200401306152, 4.457805633544922]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1763
+DEBUG:root:Entropy — layer: 4.4483, headwise: [4.439008712768555, 4.457625865936279]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1763
+DEBUG:root:Entropy — layer: 4.4481, headwise: [4.438817501068115, 4.457446098327637]
+INFO:root:logits: torch.Size([6, 2, 128, 128])
+INFO:root:Loss: 0.1762
+DEBUG:root:Entropy — layer: 4.4479, headwise: [4.438626289367676, 4.457265853881836]

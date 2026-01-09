@@ -1,0 +1,222 @@
+1. Tokens → vectors (you haven’t implemented this yet)
+
+Right now you have integer token IDs:
+
+encoded_batch = torch.unsqueeze(torch.tensor(encoding), 0)
+# shape: [batch, seq]
+
+
+Neural nets do not operate on integers. You need:
+
+token_id → ℝ^d_model
+
+Embedding layer
+class EmbeddingLayer(nn.Module):
+    def __init__(self, vocab_size, d_model, max_seq_len):
+        super().__init__()
+        self.token_embed = nn.Embedding(vocab_size, d_model)
+        self.pos_embed = nn.Embedding(max_seq_len, d_model)
+
+    def forward(self, token_ids):
+        b, s = token_ids.shape
+        positions = torch.arange(s, device=token_ids.device)
+        x = self.token_embed(token_ids) + self.pos_embed(positions)
+        return x
+
+
+Why this matters
+
+Token embedding gives semantic identity
+
+Positional embedding breaks permutation symmetry
+
+Without positions, attention collapses into a bag-of-words operator
+
+2. Attention: what you already did (and what’s missing)
+
+Your MultiHeadAttention is basically correct. Key points:
+
+Scaling by √d_head
+
+You already noted this:
+
+logits = QKᵀ / √d_head
+
+
+Why it matters
+
+Dot products grow as O(d)
+
+Without scaling → softmax saturates → near-one-hot → vanishing gradients
+
+With scaling → entropy stays usable early in training
+
+Softmax & entropy
+attn_probs = softmax(logits)
+
+
+Interpretation:
+
+Softmax is competition between tokens
+
+Entropy ↓ over training as model learns sharper alignments
+
+Early training: diffuse attention (high entropy)
+
+Later training: sparse routing (low entropy)
+
+You intentionally commented out softmax in the first attention class — that’s fine for probing logits, but a real transformer must softmax.
+
+3. Why multi-head attention exists
+
+Multi-head attention is not about parallelism — it’s about subspace factorization.
+
+Each head:
+
+Has its own Q/K/V projections
+
+Learns a different relational geometry
+
+Low-rank compared to a single big attention
+
+Your reshape logic is correct:
+
+[b, s, n*d] → [b, n, s, d]
+
+
+And recombination:
+
+[b, n, s, d] → [b, s, n*d]
+
+4. Residual connections (this is non-optional)
+
+Every attention block must be wrapped in a residual:
+
+x ← x + Attention(LN(x))
+
+
+Without this:
+
+Depth > 3 becomes unstable
+
+Gradient paths collapse
+
+Attention layers overwrite representations instead of refining them
+
+5. LayerNorm placement (Pre-LN vs Post-LN)
+
+Modern transformers use Pre-LayerNorm:
+
+x = x + self.attn(self.ln1(x))
+x = x + self.mlp(self.ln2(x))
+
+
+Why:
+
+Stable gradients at large depth
+
+Avoids needing warmup tricks
+
+Keeps residual stream well-conditioned
+
+6. Feedforward (MLP) block — currently missing
+
+Attention routes information.
+MLP transforms information.
+
+Standard transformer MLP:
+
+d_model → 4*d_model → d_model
+
+class FeedForward(nn.Module):
+    def __init__(self, d_model, expansion=4):
+        super().__init__()
+        self.net = nn.Sequential(
+            nn.Linear(d_model, expansion * d_model),
+            nn.GELU(),
+            nn.Linear(expansion * d_model, d_model),
+        )
+
+    def forward(self, x):
+        return self.net(x)
+
+
+Why GELU?
+
+Smooth gating
+
+Empirically stabilizes deep transformers
+
+Approximates stochastic neuron firing
+
+7. A real TransformerEncoderLayer
+
+Here is what your class should conceptually look like:
+
+class TransformerEncoderLayer(nn.Module):
+    def __init__(self, d_model, n_heads, d_head):
+        super().__init__()
+
+        self.ln1 = nn.LayerNorm(d_model)
+        self.attn = MultiHeadAttention(
+            input_dim=d_model,
+            n_heads=n_heads,
+            d_head=d_head,
+            causal=True,
+        )
+
+        self.ln2 = nn.LayerNorm(d_model)
+        self.mlp = FeedForward(d_model)
+
+    def forward(self, x):
+        attn_out, attn_probs, logits = self.attn(self.ln1(x))
+        x = x + attn_out
+
+        x = x + self.mlp(self.ln2(x))
+        return x, attn_probs, logits
+
+8. Stacking layers = depth
+
+A transformer is just repeated refinement:
+
+class Transformer(nn.Module):
+    def __init__(self, vocab_size, max_seq_len, d_model, n_layers, n_heads, d_head):
+        super().__init__()
+        self.embed = EmbeddingLayer(vocab_size, d_model, max_seq_len)
+        self.layers = nn.ModuleList(
+            [
+                TransformerEncoderLayer(d_model, n_heads, d_head)
+                for _ in range(n_layers)
+            ]
+        )
+        self.ln_f = nn.LayerNorm(d_model)
+        self.lm_head = nn.Linear(d_model, vocab_size, bias=False)
+
+    def forward(self, token_ids):
+        x = self.embed(token_ids)
+        for layer in self.layers:
+            x, _, _ = layer(x)
+        x = self.ln_f(x)
+        return self.lm_head(x)
+
+9. Mental model (important)
+
+Think of the residual stream as the state of thought.
+
+Attention = Where should I read from?
+
+MLP = How should I transform what I know?
+
+Residuals = Never forget what you already knew
+
+LayerNorm = Keep the signal numerically sane
+
+A transformer is not “attention + MLP” — it’s a stable dynamical system that iteratively sharpens representations.
+
+10. What I’d ask you next (no answer yet)
+
+If we remove the MLP entirely and stack only attention + residuals:
+
+What class of functions can the network still represent, and what fundamentally breaks?
+
+Answering that correctly means you actually understand transformers, not just their code.

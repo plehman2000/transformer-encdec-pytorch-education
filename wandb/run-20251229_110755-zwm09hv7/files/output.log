@@ -1,0 +1,2000 @@
+INFO:root:Loss: 0.8540
+DEBUG:root:Entropy — layer: 4.8159, headwise: [4.820416450500488, 4.811479568481445]
+INFO:root:Loss: 0.8502
+DEBUG:root:Entropy — layer: 4.8168, headwise: [4.821111679077148, 4.812432289123535]
+INFO:root:Loss: 0.8466
+DEBUG:root:Entropy — layer: 4.8175, headwise: [4.821741104125977, 4.813281536102295]
+INFO:root:Loss: 0.8430
+DEBUG:root:Entropy — layer: 4.8182, headwise: [4.822298526763916, 4.8140716552734375]
+INFO:root:Loss: 0.8396
+DEBUG:root:Entropy — layer: 4.8188, headwise: [4.822796821594238, 4.814806938171387]
+INFO:root:Loss: 0.8362
+DEBUG:root:Entropy — layer: 4.8194, headwise: [4.823243141174316, 4.815486431121826]
+INFO:root:Loss: 0.8329
+DEBUG:root:Entropy — layer: 4.8199, headwise: [4.823642730712891, 4.816109657287598]
+INFO:root:Loss: 0.8296
+DEBUG:root:Entropy — layer: 4.8203, headwise: [4.82399845123291, 4.816677093505859]
+INFO:root:Loss: 0.8264
+DEBUG:root:Entropy — layer: 4.8208, headwise: [4.824312210083008, 4.817190170288086]
+INFO:root:Loss: 0.8233
+DEBUG:root:Entropy — layer: 4.8211, headwise: [4.824585914611816, 4.817649841308594]
+INFO:root:Loss: 0.8203
+DEBUG:root:Entropy — layer: 4.8214, headwise: [4.824820041656494, 4.818058967590332]
+INFO:root:Loss: 0.8173
+DEBUG:root:Entropy — layer: 4.8217, headwise: [4.825016021728516, 4.818418502807617]
+INFO:root:Loss: 0.8144
+DEBUG:root:Entropy — layer: 4.8220, headwise: [4.825174808502197, 4.818730354309082]
+INFO:root:Loss: 0.8115
+DEBUG:root:Entropy — layer: 4.8221, headwise: [4.825296401977539, 4.818996429443359]
+INFO:root:Loss: 0.8087
+DEBUG:root:Entropy — layer: 4.8223, headwise: [4.825382709503174, 4.819218635559082]
+INFO:root:Loss: 0.8059
+DEBUG:root:Entropy — layer: 4.8224, headwise: [4.825433731079102, 4.819398403167725]
+INFO:root:Loss: 0.8031
+DEBUG:root:Entropy — layer: 4.8225, headwise: [4.825448989868164, 4.819537162780762]
+INFO:root:Loss: 0.8004
+DEBUG:root:Entropy — layer: 4.8225, headwise: [4.825429439544678, 4.819636344909668]
+INFO:root:Loss: 0.7977
+DEBUG:root:Entropy — layer: 4.8225, headwise: [4.825374603271484, 4.819695472717285]
+INFO:root:Loss: 0.7950
+DEBUG:root:Entropy — layer: 4.8225, headwise: [4.825284004211426, 4.8197174072265625]
+INFO:root:Loss: 0.7924
+DEBUG:root:Entropy — layer: 4.8224, headwise: [4.8251566886901855, 4.8197021484375]
+INFO:root:Loss: 0.7898
+DEBUG:root:Entropy — layer: 4.8223, headwise: [4.824993133544922, 4.819649696350098]
+INFO:root:Loss: 0.7872
+DEBUG:root:Entropy — layer: 4.8222, headwise: [4.824792385101318, 4.8195600509643555]
+INFO:root:Loss: 0.7846
+DEBUG:root:Entropy — layer: 4.8220, headwise: [4.824552536010742, 4.81943416595459]
+INFO:root:Loss: 0.7820
+DEBUG:root:Entropy — layer: 4.8218, headwise: [4.824273586273193, 4.819271087646484]
+INFO:root:Loss: 0.7795
+DEBUG:root:Entropy — layer: 4.8215, headwise: [4.823954105377197, 4.819070816040039]
+INFO:root:Loss: 0.7769
+DEBUG:root:Entropy — layer: 4.8212, headwise: [4.823593616485596, 4.81883430480957]
+INFO:root:Loss: 0.7744
+DEBUG:root:Entropy — layer: 4.8209, headwise: [4.823189735412598, 4.818559646606445]
+INFO:root:Loss: 0.7718
+DEBUG:root:Entropy — layer: 4.8205, headwise: [4.82274055480957, 4.818246841430664]
+INFO:root:Loss: 0.7693
+DEBUG:root:Entropy — layer: 4.8201, headwise: [4.822246551513672, 4.81789493560791]
+INFO:root:Loss: 0.7667
+DEBUG:root:Entropy — layer: 4.8196, headwise: [4.821704387664795, 4.817503452301025]
+INFO:root:Loss: 0.7642
+DEBUG:root:Entropy — layer: 4.8191, headwise: [4.821111679077148, 4.817070960998535]
+INFO:root:Loss: 0.7617
+DEBUG:root:Entropy — layer: 4.8185, headwise: [4.820467472076416, 4.816596031188965]
+INFO:root:Loss: 0.7591
+DEBUG:root:Entropy — layer: 4.8179, headwise: [4.819768905639648, 4.8160786628723145]
+INFO:root:Loss: 0.7565
+DEBUG:root:Entropy — layer: 4.8173, headwise: [4.819014072418213, 4.815515995025635]
+INFO:root:Loss: 0.7539
+DEBUG:root:Entropy — layer: 4.8166, headwise: [4.818200588226318, 4.814907073974609]
+INFO:root:Loss: 0.7513
+DEBUG:root:Entropy — layer: 4.8158, headwise: [4.817325592041016, 4.8142499923706055]
+INFO:root:Loss: 0.7487
+DEBUG:root:Entropy — layer: 4.8150, headwise: [4.816386699676514, 4.81354284286499]
+INFO:root:Loss: 0.7461
+DEBUG:root:Entropy — layer: 4.8141, headwise: [4.815381050109863, 4.812783241271973]
+INFO:root:Loss: 0.7434
+DEBUG:root:Entropy — layer: 4.8131, headwise: [4.81430721282959, 4.811968803405762]
+INFO:root:Loss: 0.7408
+DEBUG:root:Entropy — layer: 4.8121, headwise: [4.813161849975586, 4.811097621917725]
+INFO:root:Loss: 0.7380
+DEBUG:root:Entropy — layer: 4.8111, headwise: [4.811942100524902, 4.810166835784912]
+INFO:root:Loss: 0.7353
+DEBUG:root:Entropy — layer: 4.8099, headwise: [4.810646057128906, 4.809173583984375]
+INFO:root:Loss: 0.7325
+DEBUG:root:Entropy — layer: 4.8087, headwise: [4.809271812438965, 4.808115005493164]
+INFO:root:Loss: 0.7297
+DEBUG:root:Entropy — layer: 4.8074, headwise: [4.807817459106445, 4.806988716125488]
+INFO:root:Loss: 0.7268
+DEBUG:root:Entropy — layer: 4.8060, headwise: [4.80627965927124, 4.805789947509766]
+INFO:root:Loss: 0.7240
+DEBUG:root:Entropy — layer: 4.8046, headwise: [4.804657936096191, 4.80451774597168]
+INFO:root:Loss: 0.7210
+DEBUG:root:Entropy — layer: 4.8031, headwise: [4.802949905395508, 4.803167343139648]
+INFO:root:Loss: 0.7180
+DEBUG:root:Entropy — layer: 4.8014, headwise: [4.801154613494873, 4.801735877990723]
+INFO:root:Loss: 0.7150
+DEBUG:root:Entropy — layer: 4.7997, headwise: [4.799271583557129, 4.800219535827637]
+INFO:root:Loss: 0.7119
+DEBUG:root:Entropy — layer: 4.7980, headwise: [4.797299385070801, 4.798615455627441]
+INFO:root:Loss: 0.7088
+DEBUG:root:Entropy — layer: 4.7961, headwise: [4.795237064361572, 4.796919345855713]
+INFO:root:Loss: 0.7056
+DEBUG:root:Entropy — layer: 4.7941, headwise: [4.793084621429443, 4.795127868652344]
+INFO:root:Loss: 0.7023
+DEBUG:root:Entropy — layer: 4.7920, headwise: [4.7908430099487305, 4.793237209320068]
+INFO:root:Loss: 0.6990
+DEBUG:root:Entropy — layer: 4.7899, headwise: [4.788512706756592, 4.791244029998779]
+INFO:root:Loss: 0.6957
+DEBUG:root:Entropy — layer: 4.7876, headwise: [4.786092758178711, 4.7891435623168945]
+INFO:root:Loss: 0.6922
+DEBUG:root:Entropy — layer: 4.7853, headwise: [4.783585548400879, 4.786932945251465]
+INFO:root:Loss: 0.6887
+DEBUG:root:Entropy — layer: 4.7828, headwise: [4.78099250793457, 4.784608364105225]
+INFO:root:Loss: 0.6851
+DEBUG:root:Entropy — layer: 4.7802, headwise: [4.778315544128418, 4.782167434692383]
+INFO:root:Loss: 0.6815
+DEBUG:root:Entropy — layer: 4.7776, headwise: [4.7755560874938965, 4.779605388641357]
+INFO:root:Loss: 0.6778
+DEBUG:root:Entropy — layer: 4.7748, headwise: [4.7727179527282715, 4.776921272277832]
+INFO:root:Loss: 0.6740
+DEBUG:root:Entropy — layer: 4.7720, headwise: [4.769802570343018, 4.774111747741699]
+INFO:root:Loss: 0.6701
+DEBUG:root:Entropy — layer: 4.7690, headwise: [4.766814231872559, 4.771175384521484]
+INFO:root:Loss: 0.6661
+DEBUG:root:Entropy — layer: 4.7659, headwise: [4.763755798339844, 4.768111705780029]
+INFO:root:Loss: 0.6621
+DEBUG:root:Entropy — layer: 4.7628, headwise: [4.760631561279297, 4.764919281005859]
+INFO:root:Loss: 0.6580
+DEBUG:root:Entropy — layer: 4.7595, headwise: [4.757447242736816, 4.761599063873291]
+INFO:root:Loss: 0.6538
+DEBUG:root:Entropy — layer: 4.7562, headwise: [4.754205226898193, 4.758151531219482]
+INFO:root:Loss: 0.6495
+DEBUG:root:Entropy — layer: 4.7527, headwise: [4.750912666320801, 4.754578113555908]
+INFO:root:Loss: 0.6451
+DEBUG:root:Entropy — layer: 4.7492, headwise: [4.747574806213379, 4.750880718231201]
+INFO:root:Loss: 0.6407
+DEBUG:root:Entropy — layer: 4.7456, headwise: [4.744197368621826, 4.747062683105469]
+INFO:root:Loss: 0.6361
+DEBUG:root:Entropy — layer: 4.7420, headwise: [4.740787982940674, 4.7431254386901855]
+INFO:root:Loss: 0.6315
+DEBUG:root:Entropy — layer: 4.7382, headwise: [4.737353324890137, 4.739075183868408]
+INFO:root:Loss: 0.6268
+DEBUG:root:Entropy — layer: 4.7344, headwise: [4.733900547027588, 4.734914302825928]
+INFO:root:Loss: 0.6219
+DEBUG:root:Entropy — layer: 4.7305, headwise: [4.7304368019104, 4.730648994445801]
+INFO:root:Loss: 0.6170
+DEBUG:root:Entropy — layer: 4.7266, headwise: [4.7269673347473145, 4.726284027099609]
+INFO:root:Loss: 0.6120
+DEBUG:root:Entropy — layer: 4.7227, headwise: [4.7234954833984375, 4.721825122833252]
+INFO:root:Loss: 0.6069
+DEBUG:root:Entropy — layer: 4.7187, headwise: [4.7200236320495605, 4.717278957366943]
+INFO:root:Loss: 0.6017
+DEBUG:root:Entropy — layer: 4.7146, headwise: [4.716552734375, 4.712652206420898]
+INFO:root:Loss: 0.5965
+DEBUG:root:Entropy — layer: 4.7105, headwise: [4.713085174560547, 4.707951545715332]
+INFO:root:Loss: 0.5911
+DEBUG:root:Entropy — layer: 4.7064, headwise: [4.709620475769043, 4.703184604644775]
+INFO:root:Loss: 0.5856
+DEBUG:root:Entropy — layer: 4.7023, headwise: [4.706160545349121, 4.698358535766602]
+INFO:root:Loss: 0.5801
+DEBUG:root:Entropy — layer: 4.6981, headwise: [4.702706813812256, 4.693480968475342]
+INFO:root:Loss: 0.5744
+DEBUG:root:Entropy — layer: 4.6939, headwise: [4.6992621421813965, 4.6885600090026855]
+INFO:root:Loss: 0.5687
+DEBUG:root:Entropy — layer: 4.6897, headwise: [4.695827484130859, 4.683603286743164]
+INFO:root:Loss: 0.5629
+DEBUG:root:Entropy — layer: 4.6855, headwise: [4.69240665435791, 4.678618907928467]
+INFO:root:Loss: 0.5571
+DEBUG:root:Entropy — layer: 4.6813, headwise: [4.688999652862549, 4.673615455627441]
+INFO:root:Loss: 0.5511
+DEBUG:root:Entropy — layer: 4.6771, headwise: [4.68560791015625, 4.668599605560303]
+INFO:root:Loss: 0.5451
+DEBUG:root:Entropy — layer: 4.6729, headwise: [4.682231903076172, 4.663580894470215]
+INFO:root:Loss: 0.5390
+DEBUG:root:Entropy — layer: 4.6687, headwise: [4.678869247436523, 4.658565521240234]
+INFO:root:Loss: 0.5329
+DEBUG:root:Entropy — layer: 4.6645, headwise: [4.675511837005615, 4.653563499450684]
+INFO:root:Loss: 0.5267
+DEBUG:root:Entropy — layer: 4.6604, headwise: [4.6721343994140625, 4.648580551147461]
+INFO:root:Loss: 0.5205
+DEBUG:root:Entropy — layer: 4.6561, headwise: [4.668656826019287, 4.643626689910889]
+INFO:root:Loss: 0.5141
+DEBUG:root:Entropy — layer: 4.6518, headwise: [4.664796829223633, 4.638707637786865]
+INFO:root:Loss: 0.5079
+DEBUG:root:Entropy — layer: 4.6469, headwise: [4.6600446701049805, 4.633831977844238]
+INFO:root:Loss: 0.5015
+DEBUG:root:Entropy — layer: 4.6432, headwise: [4.65743350982666, 4.629007339477539]
+INFO:root:Loss: 0.4952
+DEBUG:root:Entropy — layer: 4.6399, headwise: [4.655580043792725, 4.624240875244141]
+INFO:root:Loss: 0.4890
+DEBUG:root:Entropy — layer: 4.6363, headwise: [4.653148174285889, 4.619540214538574]
+INFO:root:Loss: 0.4827
+DEBUG:root:Entropy — layer: 4.6325, headwise: [4.650114059448242, 4.614912986755371]
+INFO:root:Loss: 0.4765
+DEBUG:root:Entropy — layer: 4.6284, headwise: [4.646442413330078, 4.61036491394043]
+INFO:root:Loss: 0.4704
+DEBUG:root:Entropy — layer: 4.6243, headwise: [4.64277982711792, 4.605902671813965]
+INFO:root:Loss: 0.4642
+DEBUG:root:Entropy — layer: 4.6209, headwise: [4.640310287475586, 4.601529121398926]
+INFO:root:Loss: 0.4581
+DEBUG:root:Entropy — layer: 4.6179, headwise: [4.638598442077637, 4.597237586975098]
+INFO:root:Loss: 0.4521
+DEBUG:root:Entropy — layer: 4.6148, headwise: [4.636581897735596, 4.592990875244141]
+INFO:root:Loss: 0.4449
+DEBUG:root:Entropy — layer: 4.6112, headwise: [4.633790969848633, 4.588621139526367]
+INFO:root:Loss: 0.4321
+DEBUG:root:Entropy — layer: 4.6067, headwise: [4.630542755126953, 4.582920074462891]
+INFO:root:Loss: 0.4205
+DEBUG:root:Entropy — layer: 4.6022, headwise: [4.627676010131836, 4.5767436027526855]
+INFO:root:Loss: 0.4140
+DEBUG:root:Entropy — layer: 4.5994, headwise: [4.625513076782227, 4.573314666748047]
+INFO:root:Loss: 0.4083
+DEBUG:root:Entropy — layer: 4.5972, headwise: [4.623839855194092, 4.570552349090576]
+INFO:root:Loss: 0.4027
+DEBUG:root:Entropy — layer: 4.5951, headwise: [4.622157096862793, 4.567967891693115]
+INFO:root:Loss: 0.3974
+DEBUG:root:Entropy — layer: 4.5928, headwise: [4.6199951171875, 4.565521240234375]
+INFO:root:Loss: 0.3922
+DEBUG:root:Entropy — layer: 4.5903, headwise: [4.617486953735352, 4.563209533691406]
+INFO:root:Loss: 0.3872
+DEBUG:root:Entropy — layer: 4.5881, headwise: [4.615109920501709, 4.561033248901367]
+INFO:root:Loss: 0.3825
+DEBUG:root:Entropy — layer: 4.5860, headwise: [4.61310338973999, 4.558993816375732]
+INFO:root:Loss: 0.3779
+DEBUG:root:Entropy — layer: 4.5843, headwise: [4.611454486846924, 4.557092666625977]
+INFO:root:Loss: 0.3736
+DEBUG:root:Entropy — layer: 4.5827, headwise: [4.610064506530762, 4.555331230163574]
+INFO:root:Loss: 0.3695
+DEBUG:root:Entropy — layer: 4.5812, headwise: [4.608762264251709, 4.553711891174316]
+INFO:root:Loss: 0.3657
+DEBUG:root:Entropy — layer: 4.5798, headwise: [4.607352256774902, 4.552236080169678]
+INFO:root:Loss: 0.3621
+DEBUG:root:Entropy — layer: 4.5783, headwise: [4.605787754058838, 4.550905227661133]
+INFO:root:Loss: 0.3586
+DEBUG:root:Entropy — layer: 4.5770, headwise: [4.604209899902344, 4.549721717834473]
+INFO:root:Loss: 0.3554
+DEBUG:root:Entropy — layer: 4.5757, headwise: [4.602777004241943, 4.548684597015381]
+INFO:root:Loss: 0.3524
+DEBUG:root:Entropy — layer: 4.5747, headwise: [4.601552486419678, 4.547794342041016]
+INFO:root:Loss: 0.3495
+DEBUG:root:Entropy — layer: 4.5738, headwise: [4.60053825378418, 4.547049522399902]
+INFO:root:Loss: 0.3468
+DEBUG:root:Entropy — layer: 4.5731, headwise: [4.599710464477539, 4.546447277069092]
+INFO:root:Loss: 0.3443
+DEBUG:root:Entropy — layer: 4.5725, headwise: [4.5990309715271, 4.545984268188477]
+INFO:root:Loss: 0.3418
+DEBUG:root:Entropy — layer: 4.5721, headwise: [4.598445892333984, 4.545653820037842]
+INFO:root:Loss: 0.3395
+DEBUG:root:Entropy — layer: 4.5717, headwise: [4.597898006439209, 4.545450687408447]
+INFO:root:Loss: 0.3373
+DEBUG:root:Entropy — layer: 4.5714, headwise: [4.597355842590332, 4.545366287231445]
+INFO:root:Loss: 0.3352
+DEBUG:root:Entropy — layer: 4.5711, headwise: [4.596829891204834, 4.545392036437988]
+INFO:root:Loss: 0.3331
+DEBUG:root:Entropy — layer: 4.5709, headwise: [4.5963592529296875, 4.54551887512207]
+INFO:root:Loss: 0.3312
+DEBUG:root:Entropy — layer: 4.5709, headwise: [4.595981121063232, 4.545736789703369]
+INFO:root:Loss: 0.3293
+DEBUG:root:Entropy — layer: 4.5709, headwise: [4.595712661743164, 4.546036243438721]
+INFO:root:Loss: 0.3275
+DEBUG:root:Entropy — layer: 4.5710, headwise: [4.595554351806641, 4.5464067459106445]
+INFO:root:Loss: 0.3257
+DEBUG:root:Entropy — layer: 4.5712, headwise: [4.59549617767334, 4.546838760375977]
+INFO:root:Loss: 0.3241
+DEBUG:root:Entropy — layer: 4.5714, headwise: [4.595523834228516, 4.5473222732543945]
+INFO:root:Loss: 0.3225
+DEBUG:root:Entropy — layer: 4.5717, headwise: [4.59561824798584, 4.547848701477051]
+INFO:root:Loss: 0.3209
+DEBUG:root:Entropy — layer: 4.5721, headwise: [4.595760345458984, 4.548408508300781]
+INFO:root:Loss: 0.3194
+DEBUG:root:Entropy — layer: 4.5725, headwise: [4.595931529998779, 4.548994064331055]
+INFO:root:Loss: 0.3180
+DEBUG:root:Entropy — layer: 4.5729, headwise: [4.596118927001953, 4.549597263336182]
+INFO:root:Loss: 0.3166
+DEBUG:root:Entropy — layer: 4.5733, headwise: [4.596311569213867, 4.550210952758789]
+INFO:root:Loss: 0.3153
+DEBUG:root:Entropy — layer: 4.5737, headwise: [4.596505165100098, 4.550827980041504]
+INFO:root:Loss: 0.3141
+DEBUG:root:Entropy — layer: 4.5741, headwise: [4.596697807312012, 4.551443576812744]
+INFO:root:Loss: 0.3129
+DEBUG:root:Entropy — layer: 4.5745, headwise: [4.596888542175293, 4.552050590515137]
+INFO:root:Loss: 0.3118
+DEBUG:root:Entropy — layer: 4.5749, headwise: [4.597075939178467, 4.552643775939941]
+INFO:root:Loss: 0.3107
+DEBUG:root:Entropy — layer: 4.5752, headwise: [4.597257137298584, 4.553220748901367]
+INFO:root:Loss: 0.3096
+DEBUG:root:Entropy — layer: 4.5756, headwise: [4.597428321838379, 4.553775310516357]
+INFO:root:Loss: 0.3086
+DEBUG:root:Entropy — layer: 4.5759, headwise: [4.597585678100586, 4.554305076599121]
+INFO:root:Loss: 0.3076
+DEBUG:root:Entropy — layer: 4.5763, headwise: [4.597724437713623, 4.554806709289551]
+INFO:root:Loss: 0.3067
+DEBUG:root:Entropy — layer: 4.5766, headwise: [4.59783935546875, 4.555278301239014]
+INFO:root:Loss: 0.3058
+DEBUG:root:Entropy — layer: 4.5768, headwise: [4.597927093505859, 4.555717468261719]
+INFO:root:Loss: 0.3050
+DEBUG:root:Entropy — layer: 4.5771, headwise: [4.59798526763916, 4.55612325668335]
+INFO:root:Loss: 0.3041
+DEBUG:root:Entropy — layer: 4.5773, headwise: [4.59800910949707, 4.556493282318115]
+INFO:root:Loss: 0.3033
+DEBUG:root:Entropy — layer: 4.5774, headwise: [4.597998142242432, 4.556827545166016]
+INFO:root:Loss: 0.3025
+DEBUG:root:Entropy — layer: 4.5775, headwise: [4.597949981689453, 4.557126522064209]
+INFO:root:Loss: 0.3017
+DEBUG:root:Entropy — layer: 4.5776, headwise: [4.597865581512451, 4.5573883056640625]
+INFO:root:Loss: 0.3009
+DEBUG:root:Entropy — layer: 4.5777, headwise: [4.597743511199951, 4.557614803314209]
+INFO:root:Loss: 0.3002
+DEBUG:root:Entropy — layer: 4.5777, headwise: [4.5975847244262695, 4.557806015014648]
+INFO:root:Loss: 0.2994
+DEBUG:root:Entropy — layer: 4.5777, headwise: [4.597390651702881, 4.557962417602539]
+INFO:root:Loss: 0.2987
+DEBUG:root:Entropy — layer: 4.5776, headwise: [4.597162246704102, 4.558084487915039]
+INFO:root:Loss: 0.2979
+DEBUG:root:Entropy — layer: 4.5775, headwise: [4.596901893615723, 4.558175086975098]
+INFO:root:Loss: 0.2972
+DEBUG:root:Entropy — layer: 4.5774, headwise: [4.596611499786377, 4.558234214782715]
+INFO:root:Loss: 0.2965
+DEBUG:root:Entropy — layer: 4.5773, headwise: [4.596292972564697, 4.558263778686523]
+INFO:root:Loss: 0.2958
+DEBUG:root:Entropy — layer: 4.5771, headwise: [4.595948696136475, 4.55826473236084]
+INFO:root:Loss: 0.2950
+DEBUG:root:Entropy — layer: 4.5769, headwise: [4.595582008361816, 4.558239936828613]
+INFO:root:Loss: 0.2943
+DEBUG:root:Entropy — layer: 4.5767, headwise: [4.595192909240723, 4.558189392089844]
+INFO:root:Loss: 0.2936
+DEBUG:root:Entropy — layer: 4.5765, headwise: [4.594786167144775, 4.5581159591674805]
+INFO:root:Loss: 0.2929
+DEBUG:root:Entropy — layer: 4.5762, headwise: [4.594362735748291, 4.558021068572998]
+INFO:root:Loss: 0.2922
+DEBUG:root:Entropy — layer: 4.5759, headwise: [4.5939249992370605, 4.557906150817871]
+INFO:root:Loss: 0.2915
+DEBUG:root:Entropy — layer: 4.5756, headwise: [4.593474388122559, 4.557773113250732]
+INFO:root:Loss: 0.2908
+DEBUG:root:Entropy — layer: 4.5753, headwise: [4.593012809753418, 4.557622909545898]
+INFO:root:Loss: 0.2901
+DEBUG:root:Entropy — layer: 4.5750, headwise: [4.592540740966797, 4.55745792388916]
+INFO:root:Loss: 0.2894
+DEBUG:root:Entropy — layer: 4.5747, headwise: [4.592060089111328, 4.557279586791992]
+INFO:root:Loss: 0.2887
+DEBUG:root:Entropy — layer: 4.5743, headwise: [4.591571807861328, 4.557088375091553]
+INFO:root:Loss: 0.2880
+DEBUG:root:Entropy — layer: 4.5740, headwise: [4.591076374053955, 4.556886672973633]
+INFO:root:Loss: 0.2874
+DEBUG:root:Entropy — layer: 4.5736, headwise: [4.590574741363525, 4.556674957275391]
+INFO:root:Loss: 0.2867
+DEBUG:root:Entropy — layer: 4.5733, headwise: [4.590066909790039, 4.556454658508301]
+INFO:root:Loss: 0.2860
+DEBUG:root:Entropy — layer: 4.5729, headwise: [4.5895538330078125, 4.55622673034668]
+INFO:root:Loss: 0.2853
+DEBUG:root:Entropy — layer: 4.5725, headwise: [4.589035987854004, 4.5559916496276855]
+INFO:root:Loss: 0.2847
+DEBUG:root:Entropy — layer: 4.5721, headwise: [4.588513374328613, 4.555750846862793]
+INFO:root:Loss: 0.2840
+DEBUG:root:Entropy — layer: 4.5717, headwise: [4.587987422943115, 4.555505275726318]
+INFO:root:Loss: 0.2833
+DEBUG:root:Entropy — layer: 4.5714, headwise: [4.587458610534668, 4.555254936218262]
+INFO:root:Loss: 0.2827
+DEBUG:root:Entropy — layer: 4.5710, headwise: [4.58692741394043, 4.555000305175781]
+INFO:root:Loss: 0.2820
+DEBUG:root:Entropy — layer: 4.5706, headwise: [4.586394786834717, 4.554741859436035]
+INFO:root:Loss: 0.2813
+DEBUG:root:Entropy — layer: 4.5702, headwise: [4.585862159729004, 4.554481029510498]
+INFO:root:Loss: 0.2807
+DEBUG:root:Entropy — layer: 4.5698, headwise: [4.585329055786133, 4.554216384887695]
+INFO:root:Loss: 0.2800
+DEBUG:root:Entropy — layer: 4.5694, headwise: [4.584798336029053, 4.553949356079102]
+INFO:root:Loss: 0.2794
+DEBUG:root:Entropy — layer: 4.5690, headwise: [4.584270000457764, 4.553679943084717]
+INFO:root:Loss: 0.2787
+DEBUG:root:Entropy — layer: 4.5686, headwise: [4.583744049072266, 4.553407669067383]
+INFO:root:Loss: 0.2781
+DEBUG:root:Entropy — layer: 4.5682, headwise: [4.58322286605835, 4.553133487701416]
+INFO:root:Loss: 0.2774
+DEBUG:root:Entropy — layer: 4.5678, headwise: [4.582705497741699, 4.5528564453125]
+INFO:root:Loss: 0.2768
+DEBUG:root:Entropy — layer: 4.5674, headwise: [4.582193374633789, 4.552577018737793]
+INFO:root:Loss: 0.2762
+DEBUG:root:Entropy — layer: 4.5670, headwise: [4.581686973571777, 4.552295207977295]
+INFO:root:Loss: 0.2755
+DEBUG:root:Entropy — layer: 4.5666, headwise: [4.581186294555664, 4.552011013031006]
+INFO:root:Loss: 0.2749
+DEBUG:root:Entropy — layer: 4.5662, headwise: [4.580691814422607, 4.551723957061768]
+INFO:root:Loss: 0.2743
+DEBUG:root:Entropy — layer: 4.5658, headwise: [4.580204486846924, 4.551434516906738]
+INFO:root:Loss: 0.2737
+DEBUG:root:Entropy — layer: 4.5654, headwise: [4.579724311828613, 4.551141738891602]
+INFO:root:Loss: 0.2730
+DEBUG:root:Entropy — layer: 4.5650, headwise: [4.579250812530518, 4.550846099853516]
+INFO:root:Loss: 0.2724
+DEBUG:root:Entropy — layer: 4.5647, headwise: [4.578785419464111, 4.5505475997924805]
+INFO:root:Loss: 0.2718
+DEBUG:root:Entropy — layer: 4.5643, headwise: [4.578328609466553, 4.550246238708496]
+INFO:root:Loss: 0.2712
+DEBUG:root:Entropy — layer: 4.5639, headwise: [4.577879905700684, 4.549941539764404]
+INFO:root:Loss: 0.2706
+DEBUG:root:Entropy — layer: 4.5635, headwise: [4.57744026184082, 4.549633979797363]
+INFO:root:Loss: 0.2700
+DEBUG:root:Entropy — layer: 4.5632, headwise: [4.577009677886963, 4.549322605133057]
+INFO:root:Loss: 0.2694
+DEBUG:root:Entropy — layer: 4.5628, headwise: [4.576589107513428, 4.549008369445801]
+INFO:root:Loss: 0.2688
+DEBUG:root:Entropy — layer: 4.5624, headwise: [4.576178550720215, 4.5486907958984375]
+INFO:root:Loss: 0.2682
+DEBUG:root:Entropy — layer: 4.5621, headwise: [4.575779914855957, 4.548370361328125]
+INFO:root:Loss: 0.2676
+DEBUG:root:Entropy — layer: 4.5617, headwise: [4.57539176940918, 4.548046112060547]
+INFO:root:Loss: 0.2670
+DEBUG:root:Entropy — layer: 4.5614, headwise: [4.575016021728516, 4.547719478607178]
+INFO:root:Loss: 0.2665
+DEBUG:root:Entropy — layer: 4.5610, headwise: [4.574653625488281, 4.547389507293701]
+INFO:root:Loss: 0.2659
+DEBUG:root:Entropy — layer: 4.5607, headwise: [4.574305057525635, 4.547057151794434]
+INFO:root:Loss: 0.2653
+DEBUG:root:Entropy — layer: 4.5603, headwise: [4.573969841003418, 4.546721935272217]
+INFO:root:Loss: 0.2647
+DEBUG:root:Entropy — layer: 4.5600, headwise: [4.573650360107422, 4.546384334564209]
+INFO:root:Loss: 0.2642
+DEBUG:root:Entropy — layer: 4.5597, headwise: [4.57334566116333, 4.546043872833252]
+INFO:root:Loss: 0.2636
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.573057174682617, 4.54570198059082]
+INFO:root:Loss: 0.2631
+DEBUG:root:Entropy — layer: 4.5591, headwise: [4.572785377502441, 4.545358180999756]
+INFO:root:Loss: 0.2625
+DEBUG:root:Entropy — layer: 4.5588, headwise: [4.572530746459961, 4.545012474060059]
+INFO:root:Loss: 0.2619
+DEBUG:root:Entropy — layer: 4.5585, headwise: [4.572293281555176, 4.544665336608887]
+INFO:root:Loss: 0.2614
+DEBUG:root:Entropy — layer: 4.5582, headwise: [4.572073936462402, 4.54431676864624]
+INFO:root:Loss: 0.2609
+DEBUG:root:Entropy — layer: 4.5579, headwise: [4.571871757507324, 4.543967247009277]
+INFO:root:Loss: 0.2603
+DEBUG:root:Entropy — layer: 4.5577, headwise: [4.571687698364258, 4.543617248535156]
+INFO:root:Loss: 0.2598
+DEBUG:root:Entropy — layer: 4.5574, headwise: [4.571521282196045, 4.543266773223877]
+INFO:root:Loss: 0.2592
+DEBUG:root:Entropy — layer: 4.5571, headwise: [4.571372985839844, 4.5429158210754395]
+INFO:root:Loss: 0.2587
+DEBUG:root:Entropy — layer: 4.5569, headwise: [4.571242332458496, 4.542564868927002]
+INFO:root:Loss: 0.2582
+DEBUG:root:Entropy — layer: 4.5567, headwise: [4.571128845214844, 4.542214393615723]
+INFO:root:Loss: 0.2577
+DEBUG:root:Entropy — layer: 4.5564, headwise: [4.571032524108887, 4.54186487197876]
+INFO:root:Loss: 0.2571
+DEBUG:root:Entropy — layer: 4.5562, headwise: [4.570952892303467, 4.541515827178955]
+INFO:root:Loss: 0.2566
+DEBUG:root:Entropy — layer: 4.5560, headwise: [4.570888519287109, 4.541168212890625]
+INFO:root:Loss: 0.2561
+DEBUG:root:Entropy — layer: 4.5558, headwise: [4.570840358734131, 4.540821075439453]
+INFO:root:Loss: 0.2556
+DEBUG:root:Entropy — layer: 4.5556, headwise: [4.570807456970215, 4.540475845336914]
+INFO:root:Loss: 0.2551
+DEBUG:root:Entropy — layer: 4.5555, headwise: [4.57078742980957, 4.540132522583008]
+INFO:root:Loss: 0.2546
+DEBUG:root:Entropy — layer: 4.5553, headwise: [4.570781230926514, 4.539790630340576]
+INFO:root:Loss: 0.2541
+DEBUG:root:Entropy — layer: 4.5551, headwise: [4.570788383483887, 4.5394511222839355]
+INFO:root:Loss: 0.2536
+DEBUG:root:Entropy — layer: 4.5550, headwise: [4.570806503295898, 4.539113521575928]
+INFO:root:Loss: 0.2531
+DEBUG:root:Entropy — layer: 4.5548, headwise: [4.570837020874023, 4.538778781890869]
+INFO:root:Loss: 0.2526
+DEBUG:root:Entropy — layer: 4.5547, headwise: [4.5708770751953125, 4.538446426391602]
+INFO:root:Loss: 0.2521
+DEBUG:root:Entropy — layer: 4.5545, headwise: [4.570926666259766, 4.538116455078125]
+INFO:root:Loss: 0.2516
+DEBUG:root:Entropy — layer: 4.5544, headwise: [4.570985317230225, 4.537789344787598]
+INFO:root:Loss: 0.2511
+DEBUG:root:Entropy — layer: 4.5543, headwise: [4.571052074432373, 4.5374650955200195]
+INFO:root:Loss: 0.2506
+DEBUG:root:Entropy — layer: 4.5541, headwise: [4.5711259841918945, 4.537143707275391]
+INFO:root:Loss: 0.2501
+DEBUG:root:Entropy — layer: 4.5540, headwise: [4.571206092834473, 4.536826133728027]
+INFO:root:Loss: 0.2496
+DEBUG:root:Entropy — layer: 4.5539, headwise: [4.571290969848633, 4.536510467529297]
+INFO:root:Loss: 0.2492
+DEBUG:root:Entropy — layer: 4.5538, headwise: [4.571381568908691, 4.536198616027832]
+INFO:root:Loss: 0.2487
+DEBUG:root:Entropy — layer: 4.5537, headwise: [4.571475505828857, 4.535889625549316]
+INFO:root:Loss: 0.2482
+DEBUG:root:Entropy — layer: 4.5536, headwise: [4.571573257446289, 4.53558349609375]
+INFO:root:Loss: 0.2477
+DEBUG:root:Entropy — layer: 4.5535, headwise: [4.571673393249512, 4.535281181335449]
+INFO:root:Loss: 0.2473
+DEBUG:root:Entropy — layer: 4.5534, headwise: [4.571774482727051, 4.534981727600098]
+INFO:root:Loss: 0.2468
+DEBUG:root:Entropy — layer: 4.5533, headwise: [4.571877479553223, 4.534685134887695]
+INFO:root:Loss: 0.2463
+DEBUG:root:Entropy — layer: 4.5532, headwise: [4.5719804763793945, 4.534392356872559]
+INFO:root:Loss: 0.2459
+DEBUG:root:Entropy — layer: 4.5531, headwise: [4.572083473205566, 4.534101486206055]
+INFO:root:Loss: 0.2454
+DEBUG:root:Entropy — layer: 4.5530, headwise: [4.572185516357422, 4.533814430236816]
+INFO:root:Loss: 0.2450
+DEBUG:root:Entropy — layer: 4.5529, headwise: [4.572286605834961, 4.533529281616211]
+INFO:root:Loss: 0.2445
+DEBUG:root:Entropy — layer: 4.5528, headwise: [4.572385787963867, 4.533247947692871]
+INFO:root:Loss: 0.2441
+DEBUG:root:Entropy — layer: 4.5527, headwise: [4.572482585906982, 4.532968997955322]
+INFO:root:Loss: 0.2436
+DEBUG:root:Entropy — layer: 4.5526, headwise: [4.572577476501465, 4.532692909240723]
+INFO:root:Loss: 0.2432
+DEBUG:root:Entropy — layer: 4.5525, headwise: [4.57266902923584, 4.532418727874756]
+INFO:root:Loss: 0.2427
+DEBUG:root:Entropy — layer: 4.5525, headwise: [4.572757244110107, 4.532147407531738]
+INFO:root:Loss: 0.2423
+DEBUG:root:Entropy — layer: 4.5524, headwise: [4.572841644287109, 4.531878471374512]
+INFO:root:Loss: 0.2418
+DEBUG:root:Entropy — layer: 4.5523, headwise: [4.572923183441162, 4.531611919403076]
+INFO:root:Loss: 0.2414
+DEBUG:root:Entropy — layer: 4.5522, headwise: [4.573000907897949, 4.531347274780273]
+INFO:root:Loss: 0.2410
+DEBUG:root:Entropy — layer: 4.5521, headwise: [4.5730743408203125, 4.5310845375061035]
+INFO:root:Loss: 0.2405
+DEBUG:root:Entropy — layer: 4.5520, headwise: [4.57314395904541, 4.530823707580566]
+INFO:root:Loss: 0.2401
+DEBUG:root:Entropy — layer: 4.5519, headwise: [4.573209762573242, 4.530564785003662]
+INFO:root:Loss: 0.2397
+DEBUG:root:Entropy — layer: 4.5518, headwise: [4.573270797729492, 4.530307769775391]
+INFO:root:Loss: 0.2392
+DEBUG:root:Entropy — layer: 4.5517, headwise: [4.573328018188477, 4.530052185058594]
+INFO:root:Loss: 0.2388
+DEBUG:root:Entropy — layer: 4.5516, headwise: [4.573381423950195, 4.529797554016113]
+INFO:root:Loss: 0.2384
+DEBUG:root:Entropy — layer: 4.5515, headwise: [4.573431015014648, 4.529544353485107]
+INFO:root:Loss: 0.2380
+DEBUG:root:Entropy — layer: 4.5514, headwise: [4.573476791381836, 4.529292583465576]
+INFO:root:Loss: 0.2376
+DEBUG:root:Entropy — layer: 4.5513, headwise: [4.573518753051758, 4.5290422439575195]
+INFO:root:Loss: 0.2371
+DEBUG:root:Entropy — layer: 4.5512, headwise: [4.5735578536987305, 4.528792381286621]
+INFO:root:Loss: 0.2367
+DEBUG:root:Entropy — layer: 4.5511, headwise: [4.5735931396484375, 4.528543472290039]
+INFO:root:Loss: 0.2363
+DEBUG:root:Entropy — layer: 4.5510, headwise: [4.573625564575195, 4.528295516967773]
+INFO:root:Loss: 0.2359
+DEBUG:root:Entropy — layer: 4.5509, headwise: [4.573655128479004, 4.528048515319824]
+INFO:root:Loss: 0.2355
+DEBUG:root:Entropy — layer: 4.5507, headwise: [4.573681831359863, 4.527801513671875]
+INFO:root:Loss: 0.2351
+DEBUG:root:Entropy — layer: 4.5506, headwise: [4.573705673217773, 4.527555465698242]
+INFO:root:Loss: 0.2347
+DEBUG:root:Entropy — layer: 4.5505, headwise: [4.573728561401367, 4.527309894561768]
+INFO:root:Loss: 0.2343
+DEBUG:root:Entropy — layer: 4.5504, headwise: [4.573748588562012, 4.527064323425293]
+INFO:root:Loss: 0.2339
+DEBUG:root:Entropy — layer: 4.5503, headwise: [4.573767185211182, 4.526819229125977]
+INFO:root:Loss: 0.2335
+DEBUG:root:Entropy — layer: 4.5502, headwise: [4.573784828186035, 4.526574611663818]
+INFO:root:Loss: 0.2331
+DEBUG:root:Entropy — layer: 4.5501, headwise: [4.573800563812256, 4.526330471038818]
+INFO:root:Loss: 0.2327
+DEBUG:root:Entropy — layer: 4.5500, headwise: [4.573816299438477, 4.52608585357666]
+INFO:root:Loss: 0.2323
+DEBUG:root:Entropy — layer: 4.5498, headwise: [4.573830604553223, 4.52584171295166]
+INFO:root:Loss: 0.2319
+DEBUG:root:Entropy — layer: 4.5497, headwise: [4.573844909667969, 4.525597095489502]
+INFO:root:Loss: 0.2315
+DEBUG:root:Entropy — layer: 4.5496, headwise: [4.573859691619873, 4.525352478027344]
+INFO:root:Loss: 0.2311
+DEBUG:root:Entropy — layer: 4.5495, headwise: [4.573874473571777, 4.525108337402344]
+INFO:root:Loss: 0.2307
+DEBUG:root:Entropy — layer: 4.5494, headwise: [4.57388973236084, 4.524864196777344]
+INFO:root:Loss: 0.2304
+DEBUG:root:Entropy — layer: 4.5493, headwise: [4.573904991149902, 4.5246195793151855]
+INFO:root:Loss: 0.2300
+DEBUG:root:Entropy — layer: 4.5491, headwise: [4.573921203613281, 4.524374961853027]
+INFO:root:Loss: 0.2296
+DEBUG:root:Entropy — layer: 4.5490, headwise: [4.573937892913818, 4.524129867553711]
+INFO:root:Loss: 0.2292
+DEBUG:root:Entropy — layer: 4.5489, headwise: [4.573956489562988, 4.523885250091553]
+INFO:root:Loss: 0.2288
+DEBUG:root:Entropy — layer: 4.5488, headwise: [4.573975563049316, 4.5236406326293945]
+INFO:root:Loss: 0.2284
+DEBUG:root:Entropy — layer: 4.5487, headwise: [4.573996543884277, 4.523395538330078]
+INFO:root:Loss: 0.2280
+DEBUG:root:Entropy — layer: 4.5486, headwise: [4.574018478393555, 4.5231499671936035]
+INFO:root:Loss: 0.2276
+DEBUG:root:Entropy — layer: 4.5485, headwise: [4.574042320251465, 4.522904396057129]
+INFO:root:Loss: 0.2272
+DEBUG:root:Entropy — layer: 4.5484, headwise: [4.57406759262085, 4.522658824920654]
+INFO:root:Loss: 0.2269
+DEBUG:root:Entropy — layer: 4.5483, headwise: [4.574094295501709, 4.52241325378418]
+INFO:root:Loss: 0.2265
+DEBUG:root:Entropy — layer: 4.5481, headwise: [4.574123382568359, 4.522167205810547]
+INFO:root:Loss: 0.2261
+DEBUG:root:Entropy — layer: 4.5480, headwise: [4.574153423309326, 4.521921157836914]
+INFO:root:Loss: 0.2257
+DEBUG:root:Entropy — layer: 4.5479, headwise: [4.574185371398926, 4.521674633026123]
+INFO:root:Loss: 0.2253
+DEBUG:root:Entropy — layer: 4.5478, headwise: [4.57421875, 4.521428108215332]
+INFO:root:Loss: 0.2249
+DEBUG:root:Entropy — layer: 4.5477, headwise: [4.574254512786865, 4.521181583404541]
+INFO:root:Loss: 0.2245
+DEBUG:root:Entropy — layer: 4.5476, headwise: [4.574291706085205, 4.520934581756592]
+INFO:root:Loss: 0.2241
+DEBUG:root:Entropy — layer: 4.5475, headwise: [4.5743303298950195, 4.520687103271484]
+INFO:root:Loss: 0.2237
+DEBUG:root:Entropy — layer: 4.5474, headwise: [4.574370384216309, 4.520440578460693]
+INFO:root:Loss: 0.2233
+DEBUG:root:Entropy — layer: 4.5473, headwise: [4.5744123458862305, 4.520192623138428]
+INFO:root:Loss: 0.2229
+DEBUG:root:Entropy — layer: 4.5472, headwise: [4.574455261230469, 4.519944667816162]
+INFO:root:Loss: 0.2225
+DEBUG:root:Entropy — layer: 4.5471, headwise: [4.57450008392334, 4.519697189331055]
+INFO:root:Loss: 0.2221
+DEBUG:root:Entropy — layer: 4.5470, headwise: [4.574544906616211, 4.519449234008789]
+INFO:root:Loss: 0.2217
+DEBUG:root:Entropy — layer: 4.5469, headwise: [4.574592590332031, 4.519200325012207]
+INFO:root:Loss: 0.2213
+DEBUG:root:Entropy — layer: 4.5468, headwise: [4.574640274047852, 4.518951416015625]
+INFO:root:Loss: 0.2209
+DEBUG:root:Entropy — layer: 4.5467, headwise: [4.574688911437988, 4.518702983856201]
+INFO:root:Loss: 0.2205
+DEBUG:root:Entropy — layer: 4.5466, headwise: [4.574738502502441, 4.518453598022461]
+INFO:root:Loss: 0.2201
+DEBUG:root:Entropy — layer: 4.5465, headwise: [4.574789047241211, 4.518204689025879]
+INFO:root:Loss: 0.2197
+DEBUG:root:Entropy — layer: 4.5464, headwise: [4.5748395919799805, 4.517954349517822]
+INFO:root:Loss: 0.2193
+DEBUG:root:Entropy — layer: 4.5463, headwise: [4.574890613555908, 4.517704010009766]
+INFO:root:Loss: 0.2189
+DEBUG:root:Entropy — layer: 4.5462, headwise: [4.574941635131836, 4.517453670501709]
+INFO:root:Loss: 0.2185
+DEBUG:root:Entropy — layer: 4.5461, headwise: [4.574992656707764, 4.517202377319336]
+INFO:root:Loss: 0.2180
+DEBUG:root:Entropy — layer: 4.5460, headwise: [4.57504415512085, 4.516951560974121]
+INFO:root:Loss: 0.2176
+DEBUG:root:Entropy — layer: 4.5459, headwise: [4.575095176696777, 4.51669979095459]
+INFO:root:Loss: 0.2172
+DEBUG:root:Entropy — layer: 4.5458, headwise: [4.5751447677612305, 4.516448020935059]
+INFO:root:Loss: 0.2168
+DEBUG:root:Entropy — layer: 4.5457, headwise: [4.575194835662842, 4.516195297241211]
+INFO:root:Loss: 0.2164
+DEBUG:root:Entropy — layer: 4.5456, headwise: [4.57524299621582, 4.515942573547363]
+INFO:root:Loss: 0.2160
+DEBUG:root:Entropy — layer: 4.5455, headwise: [4.575290679931641, 4.515689373016357]
+INFO:root:Loss: 0.2155
+DEBUG:root:Entropy — layer: 4.5454, headwise: [4.5753374099731445, 4.515435695648193]
+INFO:root:Loss: 0.2151
+DEBUG:root:Entropy — layer: 4.5453, headwise: [4.575382709503174, 4.515182018280029]
+INFO:root:Loss: 0.2147
+DEBUG:root:Entropy — layer: 4.5452, headwise: [4.57542610168457, 4.514927864074707]
+INFO:root:Loss: 0.2143
+DEBUG:root:Entropy — layer: 4.5451, headwise: [4.575468063354492, 4.514672756195068]
+INFO:root:Loss: 0.2139
+DEBUG:root:Entropy — layer: 4.5450, headwise: [4.575507640838623, 4.51441764831543]
+INFO:root:Loss: 0.2134
+DEBUG:root:Entropy — layer: 4.5449, headwise: [4.575545787811279, 4.514162540435791]
+INFO:root:Loss: 0.2130
+DEBUG:root:Entropy — layer: 4.5447, headwise: [4.575581073760986, 4.513906955718994]
+INFO:root:Loss: 0.2126
+DEBUG:root:Entropy — layer: 4.5446, headwise: [4.5756144523620605, 4.513650894165039]
+INFO:root:Loss: 0.2121
+DEBUG:root:Entropy — layer: 4.5445, headwise: [4.5756449699401855, 4.513395309448242]
+INFO:root:Loss: 0.2117
+DEBUG:root:Entropy — layer: 4.5444, headwise: [4.5756731033325195, 4.513139724731445]
+INFO:root:Loss: 0.2113
+DEBUG:root:Entropy — layer: 4.5443, headwise: [4.575698375701904, 4.51288366317749]
+INFO:root:Loss: 0.2109
+DEBUG:root:Entropy — layer: 4.5442, headwise: [4.57572078704834, 4.512627601623535]
+INFO:root:Loss: 0.2104
+DEBUG:root:Entropy — layer: 4.5441, headwise: [4.575740814208984, 4.5123724937438965]
+INFO:root:Loss: 0.2100
+DEBUG:root:Entropy — layer: 4.5439, headwise: [4.575757026672363, 4.5121169090271]
+INFO:root:Loss: 0.2096
+DEBUG:root:Entropy — layer: 4.5438, headwise: [4.575770378112793, 4.511861801147461]
+INFO:root:Loss: 0.2091
+DEBUG:root:Entropy — layer: 4.5437, headwise: [4.575780391693115, 4.511607646942139]
+INFO:root:Loss: 0.2087
+DEBUG:root:Entropy — layer: 4.5436, headwise: [4.575787544250488, 4.511353492736816]
+INFO:root:Loss: 0.2083
+DEBUG:root:Entropy — layer: 4.5434, headwise: [4.575791835784912, 4.511099815368652]
+INFO:root:Loss: 0.2078
+DEBUG:root:Entropy — layer: 4.5433, headwise: [4.57579231262207, 4.510847091674805]
+INFO:root:Loss: 0.2074
+DEBUG:root:Entropy — layer: 4.5432, headwise: [4.575789451599121, 4.51059627532959]
+INFO:root:Loss: 0.2070
+DEBUG:root:Entropy — layer: 4.5431, headwise: [4.575783729553223, 4.510345458984375]
+INFO:root:Loss: 0.2065
+DEBUG:root:Entropy — layer: 4.5429, headwise: [4.575774669647217, 4.510095596313477]
+INFO:root:Loss: 0.2061
+DEBUG:root:Entropy — layer: 4.5428, headwise: [4.575761795043945, 4.509848117828369]
+INFO:root:Loss: 0.2057
+DEBUG:root:Entropy — layer: 4.5427, headwise: [4.575746536254883, 4.509601593017578]
+INFO:root:Loss: 0.2053
+DEBUG:root:Entropy — layer: 4.5425, headwise: [4.575727939605713, 4.509356498718262]
+INFO:root:Loss: 0.2048
+DEBUG:root:Entropy — layer: 4.5424, headwise: [4.575706481933594, 4.509113311767578]
+INFO:root:Loss: 0.2044
+DEBUG:root:Entropy — layer: 4.5423, headwise: [4.575681686401367, 4.508872032165527]
+INFO:root:Loss: 0.2040
+DEBUG:root:Entropy — layer: 4.5421, headwise: [4.57565450668335, 4.508632659912109]
+INFO:root:Loss: 0.2036
+DEBUG:root:Entropy — layer: 4.5420, headwise: [4.575623512268066, 4.508395671844482]
+INFO:root:Loss: 0.2031
+DEBUG:root:Entropy — layer: 4.5419, headwise: [4.57559061050415, 4.508161544799805]
+INFO:root:Loss: 0.2027
+DEBUG:root:Entropy — layer: 4.5417, headwise: [4.575554847717285, 4.507928848266602]
+INFO:root:Loss: 0.2023
+DEBUG:root:Entropy — layer: 4.5416, headwise: [4.575516700744629, 4.507699489593506]
+INFO:root:Loss: 0.2019
+DEBUG:root:Entropy — layer: 4.5415, headwise: [4.575475692749023, 4.507472991943359]
+INFO:root:Loss: 0.2015
+DEBUG:root:Entropy — layer: 4.5413, headwise: [4.575432777404785, 4.507249355316162]
+INFO:root:Loss: 0.2011
+DEBUG:root:Entropy — layer: 4.5412, headwise: [4.575387477874756, 4.507029056549072]
+INFO:root:Loss: 0.2007
+DEBUG:root:Entropy — layer: 4.5411, headwise: [4.575340270996094, 4.50681209564209]
+INFO:root:Loss: 0.2003
+DEBUG:root:Entropy — layer: 4.5409, headwise: [4.575291156768799, 4.506598472595215]
+INFO:root:Loss: 0.1999
+DEBUG:root:Entropy — layer: 4.5408, headwise: [4.575240135192871, 4.5063886642456055]
+INFO:root:Loss: 0.1995
+DEBUG:root:Entropy — layer: 4.5407, headwise: [4.5751872062683105, 4.506181716918945]
+INFO:root:Loss: 0.1991
+DEBUG:root:Entropy — layer: 4.5406, headwise: [4.575132369995117, 4.505979537963867]
+INFO:root:Loss: 0.1987
+DEBUG:root:Entropy — layer: 4.5404, headwise: [4.575076580047607, 4.505781173706055]
+INFO:root:Loss: 0.1983
+DEBUG:root:Entropy — layer: 4.5403, headwise: [4.575018882751465, 4.505587100982666]
+INFO:root:Loss: 0.1979
+DEBUG:root:Entropy — layer: 4.5402, headwise: [4.574960708618164, 4.505397319793701]
+INFO:root:Loss: 0.1975
+DEBUG:root:Entropy — layer: 4.5401, headwise: [4.5749006271362305, 4.505212783813477]
+INFO:root:Loss: 0.1972
+DEBUG:root:Entropy — layer: 4.5399, headwise: [4.5748395919799805, 4.505031585693359]
+INFO:root:Loss: 0.1968
+DEBUG:root:Entropy — layer: 4.5398, headwise: [4.574777126312256, 4.504856109619141]
+INFO:root:Loss: 0.1964
+DEBUG:root:Entropy — layer: 4.5397, headwise: [4.574714660644531, 4.504685401916504]
+INFO:root:Loss: 0.1961
+DEBUG:root:Entropy — layer: 4.5396, headwise: [4.574650764465332, 4.504519462585449]
+INFO:root:Loss: 0.1957
+DEBUG:root:Entropy — layer: 4.5395, headwise: [4.574585914611816, 4.504359245300293]
+INFO:root:Loss: 0.1953
+DEBUG:root:Entropy — layer: 4.5394, headwise: [4.574520587921143, 4.504203796386719]
+INFO:root:Loss: 0.1950
+DEBUG:root:Entropy — layer: 4.5393, headwise: [4.574454307556152, 4.504054069519043]
+INFO:root:Loss: 0.1946
+DEBUG:root:Entropy — layer: 4.5391, headwise: [4.574387550354004, 4.503909587860107]
+INFO:root:Loss: 0.1943
+DEBUG:root:Entropy — layer: 4.5390, headwise: [4.574320316314697, 4.50377082824707]
+INFO:root:Loss: 0.1940
+DEBUG:root:Entropy — layer: 4.5389, headwise: [4.574252605438232, 4.50363826751709]
+INFO:root:Loss: 0.1936
+DEBUG:root:Entropy — layer: 4.5388, headwise: [4.574183940887451, 4.503511428833008]
+INFO:root:Loss: 0.1933
+DEBUG:root:Entropy — layer: 4.5388, headwise: [4.57411527633667, 4.503389835357666]
+INFO:root:Loss: 0.1930
+DEBUG:root:Entropy — layer: 4.5387, headwise: [4.574045181274414, 4.503274917602539]
+INFO:root:Loss: 0.1926
+DEBUG:root:Entropy — layer: 4.5386, headwise: [4.573975563049316, 4.503166198730469]
+INFO:root:Loss: 0.1923
+DEBUG:root:Entropy — layer: 4.5385, headwise: [4.573904991149902, 4.503064155578613]
+INFO:root:Loss: 0.1920
+DEBUG:root:Entropy — layer: 4.5384, headwise: [4.573833465576172, 4.502967834472656]
+INFO:root:Loss: 0.1917
+DEBUG:root:Entropy — layer: 4.5383, headwise: [4.573761940002441, 4.502877712249756]
+INFO:root:Loss: 0.1914
+DEBUG:root:Entropy — layer: 4.5382, headwise: [4.5736894607543945, 4.50279426574707]
+INFO:root:Loss: 0.1911
+DEBUG:root:Entropy — layer: 4.5382, headwise: [4.573616027832031, 4.5027174949646]
+INFO:root:Loss: 0.1908
+DEBUG:root:Entropy — layer: 4.5381, headwise: [4.573541641235352, 4.5026469230651855]
+INFO:root:Loss: 0.1905
+DEBUG:root:Entropy — layer: 4.5380, headwise: [4.573467254638672, 4.502582550048828]
+INFO:root:Loss: 0.1902
+DEBUG:root:Entropy — layer: 4.5380, headwise: [4.573391437530518, 4.502525329589844]
+INFO:root:Loss: 0.1899
+DEBUG:root:Entropy — layer: 4.5379, headwise: [4.573314666748047, 4.502474784851074]
+INFO:root:Loss: 0.1896
+DEBUG:root:Entropy — layer: 4.5378, headwise: [4.573237419128418, 4.502429962158203]
+INFO:root:Loss: 0.1893
+DEBUG:root:Entropy — layer: 4.5378, headwise: [4.573158264160156, 4.502391815185547]
+INFO:root:Loss: 0.1890
+DEBUG:root:Entropy — layer: 4.5377, headwise: [4.573078632354736, 4.502360820770264]
+INFO:root:Loss: 0.1888
+DEBUG:root:Entropy — layer: 4.5377, headwise: [4.572997570037842, 4.502336025238037]
+INFO:root:Loss: 0.1885
+DEBUG:root:Entropy — layer: 4.5376, headwise: [4.572915077209473, 4.502317428588867]
+INFO:root:Loss: 0.1882
+DEBUG:root:Entropy — layer: 4.5376, headwise: [4.572831153869629, 4.502305507659912]
+INFO:root:Loss: 0.1879
+DEBUG:root:Entropy — layer: 4.5375, headwise: [4.572745323181152, 4.502299785614014]
+INFO:root:Loss: 0.1877
+DEBUG:root:Entropy — layer: 4.5375, headwise: [4.572658061981201, 4.502300262451172]
+INFO:root:Loss: 0.1874
+DEBUG:root:Entropy — layer: 4.5374, headwise: [4.572568893432617, 4.502306938171387]
+INFO:root:Loss: 0.1871
+DEBUG:root:Entropy — layer: 4.5374, headwise: [4.572478294372559, 4.5023193359375]
+INFO:root:Loss: 0.1869
+DEBUG:root:Entropy — layer: 4.5374, headwise: [4.572385311126709, 4.502338409423828]
+INFO:root:Loss: 0.1866
+DEBUG:root:Entropy — layer: 4.5373, headwise: [4.572290420532227, 4.5023627281188965]
+INFO:root:Loss: 0.1863
+DEBUG:root:Entropy — layer: 4.5373, headwise: [4.572193145751953, 4.5023932456970215]
+INFO:root:Loss: 0.1861
+DEBUG:root:Entropy — layer: 4.5373, headwise: [4.572093963623047, 4.502429008483887]
+INFO:root:Loss: 0.1858
+DEBUG:root:Entropy — layer: 4.5372, headwise: [4.571991920471191, 4.502470016479492]
+INFO:root:Loss: 0.1856
+DEBUG:root:Entropy — layer: 4.5372, headwise: [4.571887969970703, 4.502517223358154]
+INFO:root:Loss: 0.1853
+DEBUG:root:Entropy — layer: 4.5372, headwise: [4.571781158447266, 4.50256872177124]
+INFO:root:Loss: 0.1851
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.571671962738037, 4.502625465393066]
+INFO:root:Loss: 0.1848
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.571559906005859, 4.502686977386475]
+INFO:root:Loss: 0.1845
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.571444988250732, 4.502753257751465]
+INFO:root:Loss: 0.1843
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.571327209472656, 4.502823829650879]
+INFO:root:Loss: 0.1840
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.571206569671631, 4.502898216247559]
+INFO:root:Loss: 0.1838
+DEBUG:root:Entropy — layer: 4.5370, headwise: [4.571083068847656, 4.50297737121582]
+INFO:root:Loss: 0.1835
+DEBUG:root:Entropy — layer: 4.5370, headwise: [4.570956230163574, 4.503059387207031]
+INFO:root:Loss: 0.1833
+DEBUG:root:Entropy — layer: 4.5370, headwise: [4.570826530456543, 4.503146171569824]
+INFO:root:Loss: 0.1830
+DEBUG:root:Entropy — layer: 4.5370, headwise: [4.570693016052246, 4.503235340118408]
+INFO:root:Loss: 0.1828
+DEBUG:root:Entropy — layer: 4.5369, headwise: [4.570556640625, 4.503328323364258]
+INFO:root:Loss: 0.1825
+DEBUG:root:Entropy — layer: 4.5369, headwise: [4.5704169273376465, 4.503423690795898]
+INFO:root:Loss: 0.1823
+DEBUG:root:Entropy — layer: 4.5369, headwise: [4.570273399353027, 4.503521919250488]
+INFO:root:Loss: 0.1820
+DEBUG:root:Entropy — layer: 4.5369, headwise: [4.570126533508301, 4.503622055053711]
+INFO:root:Loss: 0.1818
+DEBUG:root:Entropy — layer: 4.5368, headwise: [4.569975852966309, 4.503724575042725]
+INFO:root:Loss: 0.1815
+DEBUG:root:Entropy — layer: 4.5368, headwise: [4.569821834564209, 4.503829479217529]
+INFO:root:Loss: 0.1813
+DEBUG:root:Entropy — layer: 4.5368, headwise: [4.569664001464844, 4.503934860229492]
+INFO:root:Loss: 0.1810
+DEBUG:root:Entropy — layer: 4.5368, headwise: [4.569502830505371, 4.504042625427246]
+INFO:root:Loss: 0.1808
+DEBUG:root:Entropy — layer: 4.5367, headwise: [4.569336891174316, 4.504151344299316]
+INFO:root:Loss: 0.1805
+DEBUG:root:Entropy — layer: 4.5367, headwise: [4.5691680908203125, 4.504260540008545]
+INFO:root:Loss: 0.1803
+DEBUG:root:Entropy — layer: 4.5367, headwise: [4.568994998931885, 4.50437068939209]
+INFO:root:Loss: 0.1800
+DEBUG:root:Entropy — layer: 4.5366, headwise: [4.568818092346191, 4.504480838775635]
+INFO:root:Loss: 0.1798
+DEBUG:root:Entropy — layer: 4.5366, headwise: [4.568636894226074, 4.504591464996338]
+INFO:root:Loss: 0.1795
+DEBUG:root:Entropy — layer: 4.5366, headwise: [4.568451404571533, 4.504701614379883]
+INFO:root:Loss: 0.1793
+DEBUG:root:Entropy — layer: 4.5365, headwise: [4.568261623382568, 4.504811763763428]
+INFO:root:Loss: 0.1790
+DEBUG:root:Entropy — layer: 4.5365, headwise: [4.568068504333496, 4.5049214363098145]
+INFO:root:Loss: 0.1787
+DEBUG:root:Entropy — layer: 4.5364, headwise: [4.567870140075684, 4.505029678344727]
+INFO:root:Loss: 0.1785
+DEBUG:root:Entropy — layer: 4.5364, headwise: [4.567667007446289, 4.5051374435424805]
+INFO:root:Loss: 0.1782
+DEBUG:root:Entropy — layer: 4.5364, headwise: [4.567460536956787, 4.505244255065918]
+INFO:root:Loss: 0.1780
+DEBUG:root:Entropy — layer: 4.5363, headwise: [4.567249298095703, 4.505349159240723]
+INFO:root:Loss: 0.1777
+DEBUG:root:Entropy — layer: 4.5362, headwise: [4.567033290863037, 4.505453109741211]
+INFO:root:Loss: 0.1775
+DEBUG:root:Entropy — layer: 4.5362, headwise: [4.566812515258789, 4.505555152893066]
+INFO:root:Loss: 0.1772
+DEBUG:root:Entropy — layer: 4.5361, headwise: [4.566586971282959, 4.505655288696289]
+INFO:root:Loss: 0.1770
+DEBUG:root:Entropy — layer: 4.5361, headwise: [4.566356658935547, 4.505753517150879]
+INFO:root:Loss: 0.1767
+DEBUG:root:Entropy — layer: 4.5360, headwise: [4.566121578216553, 4.505849838256836]
+INFO:root:Loss: 0.1765
+DEBUG:root:Entropy — layer: 4.5359, headwise: [4.565881729125977, 4.505943298339844]
+INFO:root:Loss: 0.1762
+DEBUG:root:Entropy — layer: 4.5358, headwise: [4.56563663482666, 4.506035804748535]
+INFO:root:Loss: 0.1759
+DEBUG:root:Entropy — layer: 4.5358, headwise: [4.565386772155762, 4.506125450134277]
+INFO:root:Loss: 0.1757
+DEBUG:root:Entropy — layer: 4.5357, headwise: [4.565131187438965, 4.50621223449707]
+INFO:root:Loss: 0.1754
+DEBUG:root:Entropy — layer: 4.5356, headwise: [4.564870834350586, 4.506298065185547]
+INFO:root:Loss: 0.1752
+DEBUG:root:Entropy — layer: 4.5355, headwise: [4.564605236053467, 4.506380081176758]
+INFO:root:Loss: 0.1749
+DEBUG:root:Entropy — layer: 4.5354, headwise: [4.564333915710449, 4.506461143493652]
+INFO:root:Loss: 0.1746
+DEBUG:root:Entropy — layer: 4.5353, headwise: [4.564057350158691, 4.506538391113281]
+INFO:root:Loss: 0.1744
+DEBUG:root:Entropy — layer: 4.5352, headwise: [4.563775062561035, 4.506614685058594]
+INFO:root:Loss: 0.1741
+DEBUG:root:Entropy — layer: 4.5351, headwise: [4.563487529754639, 4.506688117980957]
+INFO:root:Loss: 0.1739
+DEBUG:root:Entropy — layer: 4.5350, headwise: [4.563194274902344, 4.5067596435546875]
+INFO:root:Loss: 0.1736
+DEBUG:root:Entropy — layer: 4.5349, headwise: [4.562895774841309, 4.506828308105469]
+INFO:root:Loss: 0.1733
+DEBUG:root:Entropy — layer: 4.5347, headwise: [4.562591552734375, 4.506896018981934]
+INFO:root:Loss: 0.1731
+DEBUG:root:Entropy — layer: 4.5346, headwise: [4.562280654907227, 4.506960868835449]
+INFO:root:Loss: 0.1728
+DEBUG:root:Entropy — layer: 4.5345, headwise: [4.561964988708496, 4.50702428817749]
+INFO:root:Loss: 0.1726
+DEBUG:root:Entropy — layer: 4.5344, headwise: [4.561643123626709, 4.507085800170898]
+INFO:root:Loss: 0.1723
+DEBUG:root:Entropy — layer: 4.5342, headwise: [4.561315536499023, 4.507145881652832]
+INFO:root:Loss: 0.1720
+DEBUG:root:Entropy — layer: 4.5341, headwise: [4.560981750488281, 4.507204055786133]
+INFO:root:Loss: 0.1718
+DEBUG:root:Entropy — layer: 4.5340, headwise: [4.560642719268799, 4.507260799407959]
+INFO:root:Loss: 0.1715
+DEBUG:root:Entropy — layer: 4.5338, headwise: [4.56029748916626, 4.507316589355469]
+INFO:root:Loss: 0.1712
+DEBUG:root:Entropy — layer: 4.5337, headwise: [4.559946060180664, 4.507370948791504]
+INFO:root:Loss: 0.1710
+DEBUG:root:Entropy — layer: 4.5335, headwise: [4.559589385986328, 4.507424354553223]
+INFO:root:Loss: 0.1707
+DEBUG:root:Entropy — layer: 4.5334, headwise: [4.5592265129089355, 4.507476329803467]
+INFO:root:Loss: 0.1704
+DEBUG:root:Entropy — layer: 4.5332, headwise: [4.5588579177856445, 4.507527828216553]
+INFO:root:Loss: 0.1702
+DEBUG:root:Entropy — layer: 4.5330, headwise: [4.558483123779297, 4.507577896118164]
+INFO:root:Loss: 0.1699
+DEBUG:root:Entropy — layer: 4.5329, headwise: [4.558102607727051, 4.507628440856934]
+INFO:root:Loss: 0.1696
+DEBUG:root:Entropy — layer: 4.5327, headwise: [4.557716369628906, 4.507678031921387]
+INFO:root:Loss: 0.1694
+DEBUG:root:Entropy — layer: 4.5325, headwise: [4.557324409484863, 4.507726192474365]
+INFO:root:Loss: 0.1691
+DEBUG:root:Entropy — layer: 4.5324, headwise: [4.556926727294922, 4.507774353027344]
+INFO:root:Loss: 0.1688
+DEBUG:root:Entropy — layer: 4.5322, headwise: [4.55652379989624, 4.5078229904174805]
+INFO:root:Loss: 0.1686
+DEBUG:root:Entropy — layer: 4.5320, headwise: [4.55611515045166, 4.507871150970459]
+INFO:root:Loss: 0.1683
+DEBUG:root:Entropy — layer: 4.5318, headwise: [4.555700302124023, 4.5079193115234375]
+INFO:root:Loss: 0.1680
+DEBUG:root:Entropy — layer: 4.5316, headwise: [4.555280685424805, 4.507966995239258]
+INFO:root:Loss: 0.1678
+DEBUG:root:Entropy — layer: 4.5314, headwise: [4.554855823516846, 4.508014678955078]
+INFO:root:Loss: 0.1675
+DEBUG:root:Entropy — layer: 4.5312, headwise: [4.554425239562988, 4.508062362670898]
+INFO:root:Loss: 0.1672
+DEBUG:root:Entropy — layer: 4.5311, headwise: [4.553990364074707, 4.508110523223877]
+INFO:root:Loss: 0.1669
+DEBUG:root:Entropy — layer: 4.5309, headwise: [4.553549766540527, 4.508159160614014]
+INFO:root:Loss: 0.1667
+DEBUG:root:Entropy — layer: 4.5307, headwise: [4.553104400634766, 4.508207321166992]
+INFO:root:Loss: 0.1664
+DEBUG:root:Entropy — layer: 4.5305, headwise: [4.552654266357422, 4.508256912231445]
+INFO:root:Loss: 0.1661
+DEBUG:root:Entropy — layer: 4.5303, headwise: [4.552199840545654, 4.508306503295898]
+INFO:root:Loss: 0.1658
+DEBUG:root:Entropy — layer: 4.5300, headwise: [4.551740646362305, 4.508356094360352]
+INFO:root:Loss: 0.1656
+DEBUG:root:Entropy — layer: 4.5298, headwise: [4.551277160644531, 4.508405685424805]
+INFO:root:Loss: 0.1653
+DEBUG:root:Entropy — layer: 4.5296, headwise: [4.550808906555176, 4.508456230163574]
+INFO:root:Loss: 0.1650
+DEBUG:root:Entropy — layer: 4.5294, headwise: [4.550337314605713, 4.50850772857666]
+INFO:root:Loss: 0.1647
+DEBUG:root:Entropy — layer: 4.5292, headwise: [4.549861431121826, 4.508559226989746]
+INFO:root:Loss: 0.1645
+DEBUG:root:Entropy — layer: 4.5290, headwise: [4.54938268661499, 4.508610725402832]
+INFO:root:Loss: 0.1642
+DEBUG:root:Entropy — layer: 4.5288, headwise: [4.548900127410889, 4.508663654327393]
+INFO:root:Loss: 0.1639
+DEBUG:root:Entropy — layer: 4.5286, headwise: [4.54841423034668, 4.508716583251953]
+INFO:root:Loss: 0.1636
+DEBUG:root:Entropy — layer: 4.5283, headwise: [4.5479254722595215, 4.508769989013672]
+INFO:root:Loss: 0.1633
+DEBUG:root:Entropy — layer: 4.5281, headwise: [4.547433853149414, 4.508824825286865]
+INFO:root:Loss: 0.1631
+DEBUG:root:Entropy — layer: 4.5279, headwise: [4.546939849853516, 4.508879661560059]
+INFO:root:Loss: 0.1628
+DEBUG:root:Entropy — layer: 4.5277, headwise: [4.546443462371826, 4.50893497467041]
+INFO:root:Loss: 0.1625
+DEBUG:root:Entropy — layer: 4.5275, headwise: [4.545945167541504, 4.50899076461792]
+INFO:root:Loss: 0.1622
+DEBUG:root:Entropy — layer: 4.5272, headwise: [4.545445442199707, 4.509047508239746]
+INFO:root:Loss: 0.1619
+DEBUG:root:Entropy — layer: 4.5270, headwise: [4.544942855834961, 4.5091047286987305]
+INFO:root:Loss: 0.1617
+DEBUG:root:Entropy — layer: 4.5268, headwise: [4.544440269470215, 4.509162425994873]
+INFO:root:Loss: 0.1614
+DEBUG:root:Entropy — layer: 4.5266, headwise: [4.543936729431152, 4.509221076965332]
+INFO:root:Loss: 0.1611
+DEBUG:root:Entropy — layer: 4.5264, headwise: [4.543432235717773, 4.509280204772949]
+INFO:root:Loss: 0.1608
+DEBUG:root:Entropy — layer: 4.5261, headwise: [4.5429277420043945, 4.509339332580566]
+INFO:root:Loss: 0.1605
+DEBUG:root:Entropy — layer: 4.5259, headwise: [4.542422771453857, 4.5093994140625]
+INFO:root:Loss: 0.1602
+DEBUG:root:Entropy — layer: 4.5257, headwise: [4.54191780090332, 4.509459972381592]
+INFO:root:Loss: 0.1600
+DEBUG:root:Entropy — layer: 4.5255, headwise: [4.541414260864258, 4.509521484375]
+INFO:root:Loss: 0.1597
+DEBUG:root:Entropy — layer: 4.5252, headwise: [4.540911674499512, 4.509583473205566]
+INFO:root:Loss: 0.1594
+DEBUG:root:Entropy — layer: 4.5250, headwise: [4.540410041809082, 4.509645462036133]
+INFO:root:Loss: 0.1591
+DEBUG:root:Entropy — layer: 4.5248, headwise: [4.539910316467285, 4.509708404541016]
+INFO:root:Loss: 0.1588
+DEBUG:root:Entropy — layer: 4.5246, headwise: [4.539412498474121, 4.509771823883057]
+INFO:root:Loss: 0.1585
+DEBUG:root:Entropy — layer: 4.5244, headwise: [4.538917541503906, 4.509836196899414]
+INFO:root:Loss: 0.1583
+DEBUG:root:Entropy — layer: 4.5242, headwise: [4.538424968719482, 4.5099005699157715]
+INFO:root:Loss: 0.1580
+DEBUG:root:Entropy — layer: 4.5240, headwise: [4.537935733795166, 4.509965419769287]
+INFO:root:Loss: 0.1577
+DEBUG:root:Entropy — layer: 4.5237, headwise: [4.537449836730957, 4.510031223297119]
+INFO:root:Loss: 0.1574
+DEBUG:root:Entropy — layer: 4.5235, headwise: [4.5369672775268555, 4.510097026824951]
+INFO:root:Loss: 0.1571
+DEBUG:root:Entropy — layer: 4.5233, headwise: [4.536489963531494, 4.5101637840271]
+INFO:root:Loss: 0.1568
+DEBUG:root:Entropy — layer: 4.5231, headwise: [4.536016464233398, 4.510230541229248]
+INFO:root:Loss: 0.1566
+DEBUG:root:Entropy — layer: 4.5229, headwise: [4.535548210144043, 4.510298728942871]
+INFO:root:Loss: 0.1563
+DEBUG:root:Entropy — layer: 4.5227, headwise: [4.535085678100586, 4.510366439819336]
+INFO:root:Loss: 0.1560
+DEBUG:root:Entropy — layer: 4.5225, headwise: [4.534628868103027, 4.510434627532959]
+INFO:root:Loss: 0.1557
+DEBUG:root:Entropy — layer: 4.5223, headwise: [4.534177303314209, 4.510503768920898]
+INFO:root:Loss: 0.1554
+DEBUG:root:Entropy — layer: 4.5222, headwise: [4.533732891082764, 4.510573387145996]
+INFO:root:Loss: 0.1552
+DEBUG:root:Entropy — layer: 4.5220, headwise: [4.533294677734375, 4.5106425285339355]
+INFO:root:Loss: 0.1549
+DEBUG:root:Entropy — layer: 4.5218, headwise: [4.532864570617676, 4.51071310043335]
+INFO:root:Loss: 0.1546
+DEBUG:root:Entropy — layer: 4.5216, headwise: [4.532441139221191, 4.510783672332764]
+INFO:root:Loss: 0.1543
+DEBUG:root:Entropy — layer: 4.5214, headwise: [4.5320258140563965, 4.510854721069336]
+INFO:root:Loss: 0.1540
+DEBUG:root:Entropy — layer: 4.5213, headwise: [4.531618595123291, 4.510926246643066]
+INFO:root:Loss: 0.1538
+DEBUG:root:Entropy — layer: 4.5211, headwise: [4.531219482421875, 4.510997772216797]
+INFO:root:Loss: 0.1535
+DEBUG:root:Entropy — layer: 4.5209, headwise: [4.530829429626465, 4.5110697746276855]
+INFO:root:Loss: 0.1532
+DEBUG:root:Entropy — layer: 4.5208, headwise: [4.530447959899902, 4.511142253875732]
+INFO:root:Loss: 0.1529
+DEBUG:root:Entropy — layer: 4.5206, headwise: [4.530076026916504, 4.5112152099609375]
+INFO:root:Loss: 0.1527
+DEBUG:root:Entropy — layer: 4.5205, headwise: [4.5297136306762695, 4.511288642883301]
+INFO:root:Loss: 0.1524
+DEBUG:root:Entropy — layer: 4.5204, headwise: [4.529360771179199, 4.511361598968506]
+INFO:root:Loss: 0.1521
+DEBUG:root:Entropy — layer: 4.5202, headwise: [4.529017925262451, 4.511435508728027]
+INFO:root:Loss: 0.1518
+DEBUG:root:Entropy — layer: 4.5201, headwise: [4.528685092926025, 4.511509895324707]
+INFO:root:Loss: 0.1516
+DEBUG:root:Entropy — layer: 4.5200, headwise: [4.528363227844238, 4.511584281921387]
+INFO:root:Loss: 0.1513
+DEBUG:root:Entropy — layer: 4.5199, headwise: [4.528051376342773, 4.511658668518066]
+INFO:root:Loss: 0.1510
+DEBUG:root:Entropy — layer: 4.5197, headwise: [4.527750015258789, 4.511733531951904]
+INFO:root:Loss: 0.1508
+DEBUG:root:Entropy — layer: 4.5196, headwise: [4.527460098266602, 4.5118088722229]
+INFO:root:Loss: 0.1505
+DEBUG:root:Entropy — layer: 4.5195, headwise: [4.527181148529053, 4.5118842124938965]
+INFO:root:Loss: 0.1502
+DEBUG:root:Entropy — layer: 4.5194, headwise: [4.526912689208984, 4.511960029602051]
+INFO:root:Loss: 0.1500
+DEBUG:root:Entropy — layer: 4.5193, headwise: [4.526655197143555, 4.512035369873047]
+INFO:root:Loss: 0.1497
+DEBUG:root:Entropy — layer: 4.5193, headwise: [4.526410102844238, 4.512111663818359]
+INFO:root:Loss: 0.1495
+DEBUG:root:Entropy — layer: 4.5192, headwise: [4.526175498962402, 4.512187480926514]
+INFO:root:Loss: 0.1492
+DEBUG:root:Entropy — layer: 4.5191, headwise: [4.525952339172363, 4.512263774871826]
+INFO:root:Loss: 0.1489
+DEBUG:root:Entropy — layer: 4.5190, headwise: [4.525740623474121, 4.512340068817139]
+INFO:root:Loss: 0.1487
+DEBUG:root:Entropy — layer: 4.5190, headwise: [4.525540351867676, 4.512416839599609]
+INFO:root:Loss: 0.1484
+DEBUG:root:Entropy — layer: 4.5189, headwise: [4.525351524353027, 4.512493133544922]
+INFO:root:Loss: 0.1482
+DEBUG:root:Entropy — layer: 4.5189, headwise: [4.525174140930176, 4.512569427490234]
+INFO:root:Loss: 0.1479
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.525007724761963, 4.512646198272705]
+INFO:root:Loss: 0.1477
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.524852752685547, 4.512722969055176]
+INFO:root:Loss: 0.1474
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.524709224700928, 4.512799263000488]
+INFO:root:Loss: 0.1472
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524576187133789, 4.512876033782959]
+INFO:root:Loss: 0.1469
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.5244550704956055, 4.51295280456543]
+INFO:root:Loss: 0.1467
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524344444274902, 4.513029098510742]
+INFO:root:Loss: 0.1465
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524245262145996, 4.513105392456055]
+INFO:root:Loss: 0.1462
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524156093597412, 4.513181686401367]
+INFO:root:Loss: 0.1460
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524077892303467, 4.5132575035095215]
+INFO:root:Loss: 0.1457
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.524010181427002, 4.513333320617676]
+INFO:root:Loss: 0.1455
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.523952484130859, 4.513408660888672]
+INFO:root:Loss: 0.1453
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.5239057540893555, 4.513484477996826]
+INFO:root:Loss: 0.1450
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.523868560791016, 4.513559341430664]
+INFO:root:Loss: 0.1448
+DEBUG:root:Entropy — layer: 4.5187, headwise: [4.52384090423584, 4.51363468170166]
+INFO:root:Loss: 0.1446
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.523823261260986, 4.51370906829834]
+INFO:root:Loss: 0.1444
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.523815155029297, 4.5137834548950195]
+INFO:root:Loss: 0.1441
+DEBUG:root:Entropy — layer: 4.5188, headwise: [4.5238165855407715, 4.513856887817383]
+INFO:root:Loss: 0.1439
+DEBUG:root:Entropy — layer: 4.5189, headwise: [4.523827075958252, 4.513930320739746]
+INFO:root:Loss: 0.1437
+DEBUG:root:Entropy — layer: 4.5189, headwise: [4.523846626281738, 4.514003276824951]
+INFO:root:Loss: 0.1435
+DEBUG:root:Entropy — layer: 4.5190, headwise: [4.523874759674072, 4.514075756072998]
+INFO:root:Loss: 0.1432
+DEBUG:root:Entropy — layer: 4.5190, headwise: [4.523911476135254, 4.514147758483887]
+INFO:root:Loss: 0.1430
+DEBUG:root:Entropy — layer: 4.5191, headwise: [4.523956298828125, 4.514219284057617]
+INFO:root:Loss: 0.1428
+DEBUG:root:Entropy — layer: 4.5191, headwise: [4.524009704589844, 4.514289855957031]
+INFO:root:Loss: 0.1426
+DEBUG:root:Entropy — layer: 4.5192, headwise: [4.524071216583252, 4.514360427856445]
+INFO:root:Loss: 0.1424
+DEBUG:root:Entropy — layer: 4.5193, headwise: [4.524140357971191, 4.514430046081543]
+INFO:root:Loss: 0.1422
+DEBUG:root:Entropy — layer: 4.5194, headwise: [4.52421760559082, 4.514499187469482]
+INFO:root:Loss: 0.1420
+DEBUG:root:Entropy — layer: 4.5194, headwise: [4.524301528930664, 4.5145673751831055]
+INFO:root:Loss: 0.1418
+DEBUG:root:Entropy — layer: 4.5195, headwise: [4.524393081665039, 4.5146355628967285]
+INFO:root:Loss: 0.1416
+DEBUG:root:Entropy — layer: 4.5196, headwise: [4.524491310119629, 4.514701843261719]
+INFO:root:Loss: 0.1413
+DEBUG:root:Entropy — layer: 4.5197, headwise: [4.524596691131592, 4.514768600463867]
+INFO:root:Loss: 0.1411
+DEBUG:root:Entropy — layer: 4.5198, headwise: [4.524709224700928, 4.514834403991699]
+INFO:root:Loss: 0.1409
+DEBUG:root:Entropy — layer: 4.5199, headwise: [4.52482795715332, 4.514898777008057]
+INFO:root:Loss: 0.1407
+DEBUG:root:Entropy — layer: 4.5200, headwise: [4.524951934814453, 4.514962673187256]
+INFO:root:Loss: 0.1405
+DEBUG:root:Entropy — layer: 4.5201, headwise: [4.525083541870117, 4.515025615692139]
+INFO:root:Loss: 0.1403
+DEBUG:root:Entropy — layer: 4.5202, headwise: [4.5252203941345215, 4.515088081359863]
+INFO:root:Loss: 0.1402
+DEBUG:root:Entropy — layer: 4.5203, headwise: [4.525362968444824, 4.515149116516113]
+INFO:root:Loss: 0.1400
+DEBUG:root:Entropy — layer: 4.5204, headwise: [4.525510787963867, 4.515209197998047]
+INFO:root:Loss: 0.1398
+DEBUG:root:Entropy — layer: 4.5205, headwise: [4.525664329528809, 4.5152692794799805]
+INFO:root:Loss: 0.1396
+DEBUG:root:Entropy — layer: 4.5206, headwise: [4.525823593139648, 4.515327453613281]
+INFO:root:Loss: 0.1394
+DEBUG:root:Entropy — layer: 4.5207, headwise: [4.525987148284912, 4.515384674072266]
+INFO:root:Loss: 0.1392
+DEBUG:root:Entropy — layer: 4.5208, headwise: [4.526155948638916, 4.515441417694092]
+INFO:root:Loss: 0.1390
+DEBUG:root:Entropy — layer: 4.5209, headwise: [4.52632999420166, 4.515497207641602]
+INFO:root:Loss: 0.1388
+DEBUG:root:Entropy — layer: 4.5210, headwise: [4.52650785446167, 4.515551567077637]
+INFO:root:Loss: 0.1386
+DEBUG:root:Entropy — layer: 4.5211, headwise: [4.526690483093262, 4.5156049728393555]
+INFO:root:Loss: 0.1385
+DEBUG:root:Entropy — layer: 4.5213, headwise: [4.526877403259277, 4.515657424926758]
+INFO:root:Loss: 0.1383
+DEBUG:root:Entropy — layer: 4.5214, headwise: [4.527068138122559, 4.515708923339844]
+INFO:root:Loss: 0.1381
+DEBUG:root:Entropy — layer: 4.5215, headwise: [4.527263641357422, 4.515759468078613]
+INFO:root:Loss: 0.1379
+DEBUG:root:Entropy — layer: 4.5216, headwise: [4.527462482452393, 4.515808582305908]
+INFO:root:Loss: 0.1378
+DEBUG:root:Entropy — layer: 4.5218, headwise: [4.527665138244629, 4.515856742858887]
+INFO:root:Loss: 0.1376
+DEBUG:root:Entropy — layer: 4.5219, headwise: [4.527872085571289, 4.515903472900391]
+INFO:root:Loss: 0.1374
+DEBUG:root:Entropy — layer: 4.5220, headwise: [4.52808141708374, 4.515949249267578]
+INFO:root:Loss: 0.1372
+DEBUG:root:Entropy — layer: 4.5221, headwise: [4.528295040130615, 4.515994071960449]
+INFO:root:Loss: 0.1371
+DEBUG:root:Entropy — layer: 4.5223, headwise: [4.528511047363281, 4.516037940979004]
+INFO:root:Loss: 0.1369
+DEBUG:root:Entropy — layer: 4.5224, headwise: [4.528731346130371, 4.516079902648926]
+INFO:root:Loss: 0.1367
+DEBUG:root:Entropy — layer: 4.5225, headwise: [4.528954029083252, 4.516120910644531]
+INFO:root:Loss: 0.1365
+DEBUG:root:Entropy — layer: 4.5227, headwise: [4.529179573059082, 4.51616096496582]
+INFO:root:Loss: 0.1364
+DEBUG:root:Entropy — layer: 4.5228, headwise: [4.529407501220703, 4.516200065612793]
+INFO:root:Loss: 0.1362
+DEBUG:root:Entropy — layer: 4.5229, headwise: [4.529638767242432, 4.516237258911133]
+INFO:root:Loss: 0.1360
+DEBUG:root:Entropy — layer: 4.5231, headwise: [4.529872417449951, 4.516273498535156]
+INFO:root:Loss: 0.1359
+DEBUG:root:Entropy — layer: 4.5232, headwise: [4.53010892868042, 4.516308784484863]
+INFO:root:Loss: 0.1357
+DEBUG:root:Entropy — layer: 4.5233, headwise: [4.5303473472595215, 4.516343116760254]
+INFO:root:Loss: 0.1356
+DEBUG:root:Entropy — layer: 4.5235, headwise: [4.530588150024414, 4.516375541687012]
+INFO:root:Loss: 0.1354
+DEBUG:root:Entropy — layer: 4.5236, headwise: [4.5308308601379395, 4.516407012939453]
+INFO:root:Loss: 0.1352
+DEBUG:root:Entropy — layer: 4.5238, headwise: [4.531075954437256, 4.51643705368042]
+INFO:root:Loss: 0.1351
+DEBUG:root:Entropy — layer: 4.5239, headwise: [4.531322479248047, 4.51646614074707]
+INFO:root:Loss: 0.1349
+DEBUG:root:Entropy — layer: 4.5240, headwise: [4.531571865081787, 4.516493797302246]
+INFO:root:Loss: 0.1348
+DEBUG:root:Entropy — layer: 4.5242, headwise: [4.531822681427002, 4.516520023345947]
+INFO:root:Loss: 0.1346
+DEBUG:root:Entropy — layer: 4.5243, headwise: [4.532074928283691, 4.516545295715332]
+INFO:root:Loss: 0.1344
+DEBUG:root:Entropy — layer: 4.5244, headwise: [4.532329559326172, 4.516568660736084]
+INFO:root:Loss: 0.1343
+DEBUG:root:Entropy — layer: 4.5246, headwise: [4.532585144042969, 4.516591548919678]
+INFO:root:Loss: 0.1341
+DEBUG:root:Entropy — layer: 4.5247, headwise: [4.532842636108398, 4.516612529754639]
+INFO:root:Loss: 0.1340
+DEBUG:root:Entropy — layer: 4.5249, headwise: [4.5331010818481445, 4.516632556915283]
+INFO:root:Loss: 0.1338
+DEBUG:root:Entropy — layer: 4.5250, headwise: [4.533360481262207, 4.516650676727295]
+INFO:root:Loss: 0.1337
+DEBUG:root:Entropy — layer: 4.5251, headwise: [4.533621788024902, 4.51666784286499]
+INFO:root:Loss: 0.1335
+DEBUG:root:Entropy — layer: 4.5253, headwise: [4.533884048461914, 4.516683578491211]
+INFO:root:Loss: 0.1334
+DEBUG:root:Entropy — layer: 4.5254, headwise: [4.5341477394104, 4.516697883605957]
+INFO:root:Loss: 0.1332
+DEBUG:root:Entropy — layer: 4.5256, headwise: [4.534411907196045, 4.5167107582092285]
+INFO:root:Loss: 0.1330
+DEBUG:root:Entropy — layer: 4.5257, headwise: [4.534677505493164, 4.516722679138184]
+INFO:root:Loss: 0.1329
+DEBUG:root:Entropy — layer: 4.5258, headwise: [4.534943580627441, 4.516732692718506]
+INFO:root:Loss: 0.1327
+DEBUG:root:Entropy — layer: 4.5260, headwise: [4.535210609436035, 4.516741752624512]
+INFO:root:Loss: 0.1326
+DEBUG:root:Entropy — layer: 4.5261, headwise: [4.535478591918945, 4.516748905181885]
+INFO:root:Loss: 0.1324
+DEBUG:root:Entropy — layer: 4.5263, headwise: [4.535747051239014, 4.516755104064941]
+INFO:root:Loss: 0.1323
+DEBUG:root:Entropy — layer: 4.5264, headwise: [4.53601598739624, 4.516759395599365]
+INFO:root:Loss: 0.1321
+DEBUG:root:Entropy — layer: 4.5265, headwise: [4.536285400390625, 4.516762733459473]
+INFO:root:Loss: 0.1320
+DEBUG:root:Entropy — layer: 4.5267, headwise: [4.536555767059326, 4.516764163970947]
+INFO:root:Loss: 0.1318
+DEBUG:root:Entropy — layer: 4.5268, headwise: [4.536826133728027, 4.516764163970947]
+INFO:root:Loss: 0.1317
+DEBUG:root:Entropy — layer: 4.5269, headwise: [4.537096977233887, 4.516762733459473]
+INFO:root:Loss: 0.1316
+DEBUG:root:Entropy — layer: 4.5271, headwise: [4.537367820739746, 4.516759872436523]
+INFO:root:Loss: 0.1314
+DEBUG:root:Entropy — layer: 4.5272, headwise: [4.537639617919922, 4.5167555809021]
+INFO:root:Loss: 0.1313
+DEBUG:root:Entropy — layer: 4.5273, headwise: [4.537910461425781, 4.516749382019043]
+INFO:root:Loss: 0.1311
+DEBUG:root:Entropy — layer: 4.5275, headwise: [4.538182258605957, 4.51674222946167]
+INFO:root:Loss: 0.1310
+DEBUG:root:Entropy — layer: 4.5276, headwise: [4.538453578948975, 4.516733169555664]
+INFO:root:Loss: 0.1308
+DEBUG:root:Entropy — layer: 4.5277, headwise: [4.53872537612915, 4.516722679138184]
+INFO:root:Loss: 0.1307
+DEBUG:root:Entropy — layer: 4.5279, headwise: [4.538997173309326, 4.5167107582092285]
+INFO:root:Loss: 0.1305
+DEBUG:root:Entropy — layer: 4.5280, headwise: [4.539268493652344, 4.516696929931641]
+INFO:root:Loss: 0.1304
+DEBUG:root:Entropy — layer: 4.5281, headwise: [4.5395402908325195, 4.516681671142578]
+INFO:root:Loss: 0.1302
+DEBUG:root:Entropy — layer: 4.5282, headwise: [4.539811134338379, 4.516665458679199]
+INFO:root:Loss: 0.1301
+DEBUG:root:Entropy — layer: 4.5284, headwise: [4.540081977844238, 4.516646385192871]
+INFO:root:Loss: 0.1299
+DEBUG:root:Entropy — layer: 4.5285, headwise: [4.5403523445129395, 4.516626358032227]
+INFO:root:Loss: 0.1298
+DEBUG:root:Entropy — layer: 4.5286, headwise: [4.540622234344482, 4.516604900360107]
+INFO:root:Loss: 0.1296
+DEBUG:root:Entropy — layer: 4.5287, headwise: [4.540892124176025, 4.5165815353393555]
+INFO:root:Loss: 0.1295
+DEBUG:root:Entropy — layer: 4.5289, headwise: [4.54116153717041, 4.516556739807129]
+INFO:root:Loss: 0.1293
+DEBUG:root:Entropy — layer: 4.5290, headwise: [4.541430473327637, 4.5165300369262695]
+INFO:root:Loss: 0.1292
+DEBUG:root:Entropy — layer: 4.5291, headwise: [4.541698455810547, 4.5165019035339355]
+INFO:root:Loss: 0.1290
+DEBUG:root:Entropy — layer: 4.5292, headwise: [4.541966438293457, 4.516471862792969]
+INFO:root:Loss: 0.1289
+DEBUG:root:Entropy — layer: 4.5293, headwise: [4.542232990264893, 4.516440391540527]
+INFO:root:Loss: 0.1287
+DEBUG:root:Entropy — layer: 4.5295, headwise: [4.542499542236328, 4.516407012939453]
+INFO:root:Loss: 0.1286
+DEBUG:root:Entropy — layer: 4.5296, headwise: [4.5427656173706055, 4.5163726806640625]
+INFO:root:Loss: 0.1285
+DEBUG:root:Entropy — layer: 4.5297, headwise: [4.54302978515625, 4.516335964202881]
+INFO:root:Loss: 0.1283
+DEBUG:root:Entropy — layer: 4.5298, headwise: [4.5432939529418945, 4.516297817230225]
+INFO:root:Loss: 0.1282
+DEBUG:root:Entropy — layer: 4.5299, headwise: [4.543557643890381, 4.5162577629089355]
+INFO:root:Loss: 0.1280
+DEBUG:root:Entropy — layer: 4.5300, headwise: [4.543819904327393, 4.516216278076172]
+INFO:root:Loss: 0.1279
+DEBUG:root:Entropy — layer: 4.5301, headwise: [4.544081687927246, 4.516173362731934]
+INFO:root:Loss: 0.1277
+DEBUG:root:Entropy — layer: 4.5302, headwise: [4.544342041015625, 4.5161285400390625]
+INFO:root:Loss: 0.1276
+DEBUG:root:Entropy — layer: 4.5303, headwise: [4.544602394104004, 4.516081809997559]
+INFO:root:Loss: 0.1274
+DEBUG:root:Entropy — layer: 4.5304, headwise: [4.54486083984375, 4.516034126281738]
+INFO:root:Loss: 0.1273
+DEBUG:root:Entropy — layer: 4.5306, headwise: [4.545118808746338, 4.515984535217285]
+INFO:root:Loss: 0.1271
+DEBUG:root:Entropy — layer: 4.5307, headwise: [4.545375347137451, 4.515933036804199]
+INFO:root:Loss: 0.1270
+DEBUG:root:Entropy — layer: 4.5308, headwise: [4.545631408691406, 4.5158796310424805]
+INFO:root:Loss: 0.1268
+DEBUG:root:Entropy — layer: 4.5309, headwise: [4.5458855628967285, 4.515825271606445]
+INFO:root:Loss: 0.1267
+DEBUG:root:Entropy — layer: 4.5310, headwise: [4.546138763427734, 4.5157694816589355]
+INFO:root:Loss: 0.1265
+DEBUG:root:Entropy — layer: 4.5311, headwise: [4.546391487121582, 4.515711784362793]
+INFO:root:Loss: 0.1264
+DEBUG:root:Entropy — layer: 4.5311, headwise: [4.546642303466797, 4.515652656555176]
+INFO:root:Loss: 0.1262
+DEBUG:root:Entropy — layer: 4.5312, headwise: [4.546892166137695, 4.515592098236084]
+INFO:root:Loss: 0.1261
+DEBUG:root:Entropy — layer: 4.5313, headwise: [4.547141075134277, 4.515530109405518]
+INFO:root:Loss: 0.1259
+DEBUG:root:Entropy — layer: 4.5314, headwise: [4.547388076782227, 4.515466213226318]
+INFO:root:Loss: 0.1258
+DEBUG:root:Entropy — layer: 4.5315, headwise: [4.547634124755859, 4.5154008865356445]
+INFO:root:Loss: 0.1256
+DEBUG:root:Entropy — layer: 4.5316, headwise: [4.547879695892334, 4.515334606170654]
+INFO:root:Loss: 0.1255
+DEBUG:root:Entropy — layer: 4.5317, headwise: [4.548123359680176, 4.515266418457031]
+INFO:root:Loss: 0.1253
+DEBUG:root:Entropy — layer: 4.5318, headwise: [4.548365592956543, 4.515197277069092]
+INFO:root:Loss: 0.1252
+DEBUG:root:Entropy — layer: 4.5319, headwise: [4.5486063957214355, 4.515127182006836]
+INFO:root:Loss: 0.1250
+DEBUG:root:Entropy — layer: 4.5320, headwise: [4.5488457679748535, 4.5150556564331055]
+INFO:root:Loss: 0.1249
+DEBUG:root:Entropy — layer: 4.5320, headwise: [4.549083709716797, 4.514982223510742]
+INFO:root:Loss: 0.1247
+DEBUG:root:Entropy — layer: 4.5321, headwise: [4.549320220947266, 4.5149078369140625]
+INFO:root:Loss: 0.1246
+DEBUG:root:Entropy — layer: 4.5322, headwise: [4.549556255340576, 4.514832496643066]
+INFO:root:Loss: 0.1244
+DEBUG:root:Entropy — layer: 4.5323, headwise: [4.549789905548096, 4.514756202697754]
+INFO:root:Loss: 0.1243
+DEBUG:root:Entropy — layer: 4.5324, headwise: [4.550022602081299, 4.514678478240967]
+INFO:root:Loss: 0.1241
+DEBUG:root:Entropy — layer: 4.5324, headwise: [4.550253868103027, 4.514599800109863]
+INFO:root:Loss: 0.1240
+DEBUG:root:Entropy — layer: 4.5325, headwise: [4.550483226776123, 4.514520168304443]
+INFO:root:Loss: 0.1238
+DEBUG:root:Entropy — layer: 4.5326, headwise: [4.550711631774902, 4.514440059661865]
+INFO:root:Loss: 0.1237
+DEBUG:root:Entropy — layer: 4.5326, headwise: [4.550937652587891, 4.5143585205078125]
+INFO:root:Loss: 0.1235
+DEBUG:root:Entropy — layer: 4.5327, headwise: [4.551163196563721, 4.514276504516602]
+INFO:root:Loss: 0.1234
+DEBUG:root:Entropy — layer: 4.5328, headwise: [4.551386833190918, 4.514194011688232]
+INFO:root:Loss: 0.1232
+DEBUG:root:Entropy — layer: 4.5329, headwise: [4.551608562469482, 4.514110565185547]
+INFO:root:Loss: 0.1231
+DEBUG:root:Entropy — layer: 4.5329, headwise: [4.5518293380737305, 4.514026641845703]
+INFO:root:Loss: 0.1229
+DEBUG:root:Entropy — layer: 4.5330, headwise: [4.552048206329346, 4.513941764831543]
+INFO:root:Loss: 0.1228
+DEBUG:root:Entropy — layer: 4.5331, headwise: [4.552265167236328, 4.513856887817383]
+INFO:root:Loss: 0.1226
+DEBUG:root:Entropy — layer: 4.5331, headwise: [4.552481651306152, 4.513772010803223]
+INFO:root:Loss: 0.1225
+DEBUG:root:Entropy — layer: 4.5332, headwise: [4.552696228027344, 4.513686656951904]
+INFO:root:Loss: 0.1223
+DEBUG:root:Entropy — layer: 4.5333, headwise: [4.552908897399902, 4.5136003494262695]
+INFO:root:Loss: 0.1222
+DEBUG:root:Entropy — layer: 4.5333, headwise: [4.553119659423828, 4.513514518737793]
+INFO:root:Loss: 0.1220
+DEBUG:root:Entropy — layer: 4.5334, headwise: [4.5533294677734375, 4.513428688049316]
+INFO:root:Loss: 0.1219
+DEBUG:root:Entropy — layer: 4.5334, headwise: [4.553537368774414, 4.51334285736084]
+INFO:root:Loss: 0.1217
+DEBUG:root:Entropy — layer: 4.5335, headwise: [4.553743839263916, 4.5132575035095215]
+INFO:root:Loss: 0.1216
+DEBUG:root:Entropy — layer: 4.5336, headwise: [4.553948402404785, 4.513171672821045]
+INFO:root:Loss: 0.1215
+DEBUG:root:Entropy — layer: 4.5336, headwise: [4.55415153503418, 4.513086318969727]
+INFO:root:Loss: 0.1213
+DEBUG:root:Entropy — layer: 4.5337, headwise: [4.5543532371521, 4.513001918792725]
+INFO:root:Loss: 0.1212
+DEBUG:root:Entropy — layer: 4.5337, headwise: [4.554553031921387, 4.512917518615723]
+INFO:root:Loss: 0.1210
+DEBUG:root:Entropy — layer: 4.5338, headwise: [4.554751873016357, 4.512834072113037]
+INFO:root:Loss: 0.1209
+DEBUG:root:Entropy — layer: 4.5338, headwise: [4.554948329925537, 4.512750625610352]
+INFO:root:Loss: 0.1207
+DEBUG:root:Entropy — layer: 4.5339, headwise: [4.555143356323242, 4.512668609619141]
+INFO:root:Loss: 0.1206
+DEBUG:root:Entropy — layer: 4.5340, headwise: [4.555336952209473, 4.512587547302246]
+INFO:root:Loss: 0.1204
+DEBUG:root:Entropy — layer: 4.5340, headwise: [4.55552864074707, 4.512507438659668]
+INFO:root:Loss: 0.1203
+DEBUG:root:Entropy — layer: 4.5341, headwise: [4.555718898773193, 4.512427806854248]
+INFO:root:Loss: 0.1202
+DEBUG:root:Entropy — layer: 4.5341, headwise: [4.555907249450684, 4.512350082397461]
+INFO:root:Loss: 0.1200
+DEBUG:root:Entropy — layer: 4.5342, headwise: [4.556094646453857, 4.512273788452148]
+INFO:root:Loss: 0.1199
+DEBUG:root:Entropy — layer: 4.5342, headwise: [4.55627965927124, 4.512198448181152]
+INFO:root:Loss: 0.1197
+DEBUG:root:Entropy — layer: 4.5343, headwise: [4.556463241577148, 4.512124538421631]
+INFO:root:Loss: 0.1196
+DEBUG:root:Entropy — layer: 4.5343, headwise: [4.556645393371582, 4.512052536010742]
+INFO:root:Loss: 0.1195
+DEBUG:root:Entropy — layer: 4.5344, headwise: [4.556825637817383, 4.511981964111328]
+INFO:root:Loss: 0.1193
+DEBUG:root:Entropy — layer: 4.5345, headwise: [4.557003974914551, 4.511914253234863]
+INFO:root:Loss: 0.1192
+DEBUG:root:Entropy — layer: 4.5345, headwise: [4.557181358337402, 4.511847496032715]
+INFO:root:Loss: 0.1190
+DEBUG:root:Entropy — layer: 4.5346, headwise: [4.557356834411621, 4.511783123016357]
+INFO:root:Loss: 0.1189
+DEBUG:root:Entropy — layer: 4.5346, headwise: [4.557530403137207, 4.511720657348633]
+INFO:root:Loss: 0.1188
+DEBUG:root:Entropy — layer: 4.5347, headwise: [4.557702541351318, 4.511660575866699]
+INFO:root:Loss: 0.1186
+DEBUG:root:Entropy — layer: 4.5347, headwise: [4.557872772216797, 4.511603355407715]
+INFO:root:Loss: 0.1185
+DEBUG:root:Entropy — layer: 4.5348, headwise: [4.558041572570801, 4.511548042297363]
+INFO:root:Loss: 0.1184
+DEBUG:root:Entropy — layer: 4.5349, headwise: [4.558208465576172, 4.511495590209961]
+INFO:root:Loss: 0.1182
+DEBUG:root:Entropy — layer: 4.5349, headwise: [4.558374404907227, 4.511445999145508]
+INFO:root:Loss: 0.1181
+DEBUG:root:Entropy — layer: 4.5350, headwise: [4.558538436889648, 4.5113983154296875]
+INFO:root:Loss: 0.1180
+DEBUG:root:Entropy — layer: 4.5350, headwise: [4.5587005615234375, 4.511354446411133]
+INFO:root:Loss: 0.1179
+DEBUG:root:Entropy — layer: 4.5351, headwise: [4.558860778808594, 4.511313438415527]
+INFO:root:Loss: 0.1177
+DEBUG:root:Entropy — layer: 4.5351, headwise: [4.559020042419434, 4.511275291442871]
+INFO:root:Loss: 0.1176
+DEBUG:root:Entropy — layer: 4.5352, headwise: [4.559177398681641, 4.511240005493164]
+INFO:root:Loss: 0.1175
+DEBUG:root:Entropy — layer: 4.5353, headwise: [4.559332847595215, 4.511208534240723]
+INFO:root:Loss: 0.1173
+DEBUG:root:Entropy — layer: 4.5353, headwise: [4.559487342834473, 4.511180400848389]
+INFO:root:Loss: 0.1172
+DEBUG:root:Entropy — layer: 4.5354, headwise: [4.5596394538879395, 4.511155128479004]
+INFO:root:Loss: 0.1171
+DEBUG:root:Entropy — layer: 4.5355, headwise: [4.55979061126709, 4.511133670806885]
+INFO:root:Loss: 0.1170
+DEBUG:root:Entropy — layer: 4.5355, headwise: [4.559939384460449, 4.511116027832031]
+INFO:root:Loss: 0.1169
+DEBUG:root:Entropy — layer: 4.5356, headwise: [4.560087203979492, 4.511101722717285]
+INFO:root:Loss: 0.1167
+DEBUG:root:Entropy — layer: 4.5357, headwise: [4.560233116149902, 4.5110907554626465]
+INFO:root:Loss: 0.1166
+DEBUG:root:Entropy — layer: 4.5357, headwise: [4.56037712097168, 4.51108455657959]
+INFO:root:Loss: 0.1165
+DEBUG:root:Entropy — layer: 4.5358, headwise: [4.560520172119141, 4.511081695556641]
+INFO:root:Loss: 0.1164
+DEBUG:root:Entropy — layer: 4.5359, headwise: [4.560661315917969, 4.511082649230957]
+INFO:root:Loss: 0.1163
+DEBUG:root:Entropy — layer: 4.5359, headwise: [4.560800552368164, 4.511087417602539]
+INFO:root:Loss: 0.1161
+DEBUG:root:Entropy — layer: 4.5360, headwise: [4.560938835144043, 4.511096477508545]
+INFO:root:Loss: 0.1160
+DEBUG:root:Entropy — layer: 4.5361, headwise: [4.561075210571289, 4.511109352111816]
+INFO:root:Loss: 0.1159
+DEBUG:root:Entropy — layer: 4.5362, headwise: [4.561209678649902, 4.511126518249512]
+INFO:root:Loss: 0.1158
+DEBUG:root:Entropy — layer: 4.5362, headwise: [4.561343193054199, 4.511147975921631]
+INFO:root:Loss: 0.1157
+DEBUG:root:Entropy — layer: 4.5363, headwise: [4.561474800109863, 4.511173248291016]
+INFO:root:Loss: 0.1156
+DEBUG:root:Entropy — layer: 4.5364, headwise: [4.5616044998168945, 4.511203289031982]
+INFO:root:Loss: 0.1155
+DEBUG:root:Entropy — layer: 4.5365, headwise: [4.561733245849609, 4.511237144470215]
+INFO:root:Loss: 0.1153
+DEBUG:root:Entropy — layer: 4.5366, headwise: [4.561860084533691, 4.511275768280029]
+INFO:root:Loss: 0.1152
+DEBUG:root:Entropy — layer: 4.5367, headwise: [4.561985492706299, 4.511318683624268]
+INFO:root:Loss: 0.1151
+DEBUG:root:Entropy — layer: 4.5367, headwise: [4.56210994720459, 4.5113654136657715]
+INFO:root:Loss: 0.1150
+DEBUG:root:Entropy — layer: 4.5368, headwise: [4.56223201751709, 4.511416912078857]
+INFO:root:Loss: 0.1149
+DEBUG:root:Entropy — layer: 4.5369, headwise: [4.562352657318115, 4.511472702026367]
+INFO:root:Loss: 0.1148
+DEBUG:root:Entropy — layer: 4.5370, headwise: [4.562472343444824, 4.511532783508301]
+INFO:root:Loss: 0.1147
+DEBUG:root:Entropy — layer: 4.5371, headwise: [4.5625901222229, 4.511597156524658]
+INFO:root:Loss: 0.1146
+DEBUG:root:Entropy — layer: 4.5372, headwise: [4.562705993652344, 4.511666297912598]
+INFO:root:Loss: 0.1145
+DEBUG:root:Entropy — layer: 4.5373, headwise: [4.562821388244629, 4.511739253997803]
+INFO:root:Loss: 0.1144
+DEBUG:root:Entropy — layer: 4.5374, headwise: [4.562934398651123, 4.51181697845459]
+INFO:root:Loss: 0.1143
+DEBUG:root:Entropy — layer: 4.5375, headwise: [4.563046455383301, 4.511898994445801]
+INFO:root:Loss: 0.1142
+DEBUG:root:Entropy — layer: 4.5376, headwise: [4.5631561279296875, 4.5119853019714355]
+INFO:root:Loss: 0.1141
+DEBUG:root:Entropy — layer: 4.5377, headwise: [4.563265800476074, 4.512075424194336]
+INFO:root:Loss: 0.1140
+DEBUG:root:Entropy — layer: 4.5378, headwise: [4.563372611999512, 4.512170314788818]
+INFO:root:Loss: 0.1139
+DEBUG:root:Entropy — layer: 4.5379, headwise: [4.563478469848633, 4.512269973754883]
+INFO:root:Loss: 0.1138
+DEBUG:root:Entropy — layer: 4.5380, headwise: [4.5635833740234375, 4.512373447418213]
+INFO:root:Loss: 0.1137
+DEBUG:root:Entropy — layer: 4.5381, headwise: [4.563686370849609, 4.512481212615967]
+INFO:root:Loss: 0.1136
+DEBUG:root:Entropy — layer: 4.5382, headwise: [4.563788414001465, 4.5125932693481445]
+INFO:root:Loss: 0.1135
+DEBUG:root:Entropy — layer: 4.5383, headwise: [4.563888072967529, 4.512709617614746]
+INFO:root:Loss: 0.1134
+DEBUG:root:Entropy — layer: 4.5384, headwise: [4.5639872550964355, 4.512829780578613]
+INFO:root:Loss: 0.1133
+DEBUG:root:Entropy — layer: 4.5385, headwise: [4.564084529876709, 4.512954235076904]
+INFO:root:Loss: 0.1132
+DEBUG:root:Entropy — layer: 4.5386, headwise: [4.564180374145508, 4.513082504272461]
+INFO:root:Loss: 0.1131
+DEBUG:root:Entropy — layer: 4.5387, headwise: [4.56427526473999, 4.5132155418396]
+INFO:root:Loss: 0.1130
+DEBUG:root:Entropy — layer: 4.5389, headwise: [4.564368724822998, 4.5133514404296875]
+INFO:root:Loss: 0.1129
+DEBUG:root:Entropy — layer: 4.5390, headwise: [4.564460754394531, 4.513492584228516]
+INFO:root:Loss: 0.1128
+DEBUG:root:Entropy — layer: 4.5391, headwise: [4.56455135345459, 4.513636589050293]
+INFO:root:Loss: 0.1127
+DEBUG:root:Entropy — layer: 4.5392, headwise: [4.564640045166016, 4.513785362243652]
+INFO:root:Loss: 0.1126
+DEBUG:root:Entropy — layer: 4.5393, headwise: [4.564728260040283, 4.513937473297119]
+INFO:root:Loss: 0.1125
+DEBUG:root:Entropy — layer: 4.5395, headwise: [4.564814567565918, 4.514093399047852]
+INFO:root:Loss: 0.1124
+DEBUG:root:Entropy — layer: 4.5396, headwise: [4.564899921417236, 4.51425313949585]
+INFO:root:Loss: 0.1123
+DEBUG:root:Entropy — layer: 4.5397, headwise: [4.56498384475708, 4.514416694641113]
+INFO:root:Loss: 0.1122
+DEBUG:root:Entropy — layer: 4.5398, headwise: [4.565066337585449, 4.514583587646484]
+INFO:root:Loss: 0.1121
+DEBUG:root:Entropy — layer: 4.5400, headwise: [4.565147399902344, 4.514754295349121]
+INFO:root:Loss: 0.1120
+DEBUG:root:Entropy — layer: 4.5401, headwise: [4.565227508544922, 4.514928340911865]
+INFO:root:Loss: 0.1119
+DEBUG:root:Entropy — layer: 4.5402, headwise: [4.565305709838867, 4.515105724334717]
+INFO:root:Loss: 0.1119
+DEBUG:root:Entropy — layer: 4.5403, headwise: [4.565383434295654, 4.515286922454834]
+INFO:root:Loss: 0.1118
+DEBUG:root:Entropy — layer: 4.5405, headwise: [4.565459251403809, 4.515471458435059]
+INFO:root:Loss: 0.1117
+DEBUG:root:Entropy — layer: 4.5406, headwise: [4.5655341148376465, 4.515658855438232]
+INFO:root:Loss: 0.1116
+DEBUG:root:Entropy — layer: 4.5407, headwise: [4.565608024597168, 4.515850067138672]
+INFO:root:Loss: 0.1115
+DEBUG:root:Entropy — layer: 4.5409, headwise: [4.565679550170898, 4.516044616699219]
+INFO:root:Loss: 0.1114
+DEBUG:root:Entropy — layer: 4.5410, headwise: [4.565751075744629, 4.516241550445557]
+INFO:root:Loss: 0.1113
+DEBUG:root:Entropy — layer: 4.5411, headwise: [4.565820693969727, 4.51644229888916]
+INFO:root:Loss: 0.1112
+DEBUG:root:Entropy — layer: 4.5413, headwise: [4.56588888168335, 4.516645431518555]
+INFO:root:Loss: 0.1111
+DEBUG:root:Entropy — layer: 4.5414, headwise: [4.565956115722656, 4.516851902008057]
+INFO:root:Loss: 0.1111
+DEBUG:root:Entropy — layer: 4.5415, headwise: [4.5660223960876465, 4.517061233520508]
+INFO:root:Loss: 0.1110
+DEBUG:root:Entropy — layer: 4.5417, headwise: [4.566086769104004, 4.517273426055908]
+INFO:root:Loss: 0.1109
+DEBUG:root:Entropy — layer: 4.5418, headwise: [4.566150665283203, 4.517488479614258]
+INFO:root:Loss: 0.1108
+DEBUG:root:Entropy — layer: 4.5420, headwise: [4.5662126541137695, 4.517706871032715]
+INFO:root:Loss: 0.1107
+DEBUG:root:Entropy — layer: 4.5421, headwise: [4.5662736892700195, 4.517927169799805]
+INFO:root:Loss: 0.1106
+DEBUG:root:Entropy — layer: 4.5422, headwise: [4.566333770751953, 4.518150329589844]
+INFO:root:Loss: 0.1105
+DEBUG:root:Entropy — layer: 4.5424, headwise: [4.566391944885254, 4.518375873565674]
+INFO:root:Loss: 0.1104
+DEBUG:root:Entropy — layer: 4.5425, headwise: [4.5664496421813965, 4.518604278564453]
+INFO:root:Loss: 0.1104
+DEBUG:root:Entropy — layer: 4.5427, headwise: [4.5665059089660645, 4.518835067749023]
+INFO:root:Loss: 0.1103
+DEBUG:root:Entropy — layer: 4.5428, headwise: [4.566560745239258, 4.519068717956543]
+INFO:root:Loss: 0.1102
+DEBUG:root:Entropy — layer: 4.5430, headwise: [4.566614627838135, 4.519304275512695]
+INFO:root:Loss: 0.1101
+DEBUG:root:Entropy — layer: 4.5431, headwise: [4.566666603088379, 4.519542694091797]
+INFO:root:Loss: 0.1100
+DEBUG:root:Entropy — layer: 4.5433, headwise: [4.566718101501465, 4.519782543182373]
+INFO:root:Loss: 0.1099
+DEBUG:root:Entropy — layer: 4.5434, headwise: [4.566768646240234, 4.520025253295898]
+INFO:root:Loss: 0.1099
+DEBUG:root:Entropy — layer: 4.5435, headwise: [4.566817283630371, 4.520270347595215]
+INFO:root:Loss: 0.1098
+DEBUG:root:Entropy — layer: 4.5437, headwise: [4.566864967346191, 4.520516872406006]
+INFO:root:Loss: 0.1097
+DEBUG:root:Entropy — layer: 4.5438, headwise: [4.566911697387695, 4.52076530456543]
+INFO:root:Loss: 0.1096
+DEBUG:root:Entropy — layer: 4.5440, headwise: [4.566956996917725, 4.521017074584961]
+INFO:root:Loss: 0.1095
+DEBUG:root:Entropy — layer: 4.5441, headwise: [4.567000865936279, 4.521270275115967]
+INFO:root:Loss: 0.1094
+DEBUG:root:Entropy — layer: 4.5443, headwise: [4.567043781280518, 4.5215253829956055]
+INFO:root:Loss: 0.1093
+DEBUG:root:Entropy — layer: 4.5444, headwise: [4.567085266113281, 4.521781921386719]
+INFO:root:Loss: 0.1093
+DEBUG:root:Entropy — layer: 4.5446, headwise: [4.5671257972717285, 4.522040843963623]
+INFO:root:Loss: 0.1092
+DEBUG:root:Entropy — layer: 4.5447, headwise: [4.567165374755859, 4.52230167388916]
+INFO:root:Loss: 0.1091
+DEBUG:root:Entropy — layer: 4.5449, headwise: [4.567203044891357, 4.522563934326172]
+INFO:root:Loss: 0.1090
+DEBUG:root:Entropy — layer: 4.5450, headwise: [4.567239761352539, 4.522828102111816]
+INFO:root:Loss: 0.1089
+DEBUG:root:Entropy — layer: 4.5452, headwise: [4.567275524139404, 4.5230937004089355]
+INFO:root:Loss: 0.1088
+DEBUG:root:Entropy — layer: 4.5453, headwise: [4.567310333251953, 4.5233612060546875]
+INFO:root:Loss: 0.1088
+DEBUG:root:Entropy — layer: 4.5455, headwise: [4.567343235015869, 4.523630142211914]
+INFO:root:Loss: 0.1087
+DEBUG:root:Entropy — layer: 4.5456, headwise: [4.567375183105469, 4.523900985717773]
+INFO:root:Loss: 0.1086
+DEBUG:root:Entropy — layer: 4.5458, headwise: [4.567405700683594, 4.524172782897949]
+INFO:root:Loss: 0.1085
+DEBUG:root:Entropy — layer: 4.5459, headwise: [4.567435264587402, 4.524446487426758]
+INFO:root:Loss: 0.1084
+DEBUG:root:Entropy — layer: 4.5461, headwise: [4.5674638748168945, 4.524722099304199]
+INFO:root:Loss: 0.1083
+DEBUG:root:Entropy — layer: 4.5462, headwise: [4.567490577697754, 4.524998664855957]
+INFO:root:Loss: 0.1083
+DEBUG:root:Entropy — layer: 4.5464, headwise: [4.567516326904297, 4.525276184082031]
+INFO:root:Loss: 0.1082
+DEBUG:root:Entropy — layer: 4.5465, headwise: [4.567541122436523, 4.525555610656738]
+INFO:root:Loss: 0.1081
+DEBUG:root:Entropy — layer: 4.5467, headwise: [4.567564487457275, 4.525835990905762]
+INFO:root:Loss: 0.1080
+DEBUG:root:Entropy — layer: 4.5469, headwise: [4.567586421966553, 4.526118278503418]
+INFO:root:Loss: 0.1079
+DEBUG:root:Entropy — layer: 4.5470, headwise: [4.567607402801514, 4.526401042938232]
+INFO:root:Loss: 0.1078
+DEBUG:root:Entropy — layer: 4.5472, headwise: [4.567626953125, 4.5266852378845215]
+INFO:root:Loss: 0.1078
+DEBUG:root:Entropy — layer: 4.5473, headwise: [4.567645072937012, 4.526970863342285]
+INFO:root:Loss: 0.1077
+DEBUG:root:Entropy — layer: 4.5475, headwise: [4.567662239074707, 4.527257442474365]
+INFO:root:Loss: 0.1076
+DEBUG:root:Entropy — layer: 4.5476, headwise: [4.567677974700928, 4.527544975280762]
+INFO:root:Loss: 0.1075
+DEBUG:root:Entropy — layer: 4.5478, headwise: [4.567692756652832, 4.527833938598633]
+INFO:root:Loss: 0.1074
+DEBUG:root:Entropy — layer: 4.5479, headwise: [4.567706108093262, 4.52812385559082]
+INFO:root:Loss: 0.1074
+DEBUG:root:Entropy — layer: 4.5481, headwise: [4.567718029022217, 4.528414726257324]
+INFO:root:Loss: 0.1073
+DEBUG:root:Entropy — layer: 4.5482, headwise: [4.567728042602539, 4.5287065505981445]
+INFO:root:Loss: 0.1072
+DEBUG:root:Entropy — layer: 4.5484, headwise: [4.567737579345703, 4.528999328613281]
+INFO:root:Loss: 0.1071
+DEBUG:root:Entropy — layer: 4.5485, headwise: [4.567745685577393, 4.529293060302734]
+INFO:root:Loss: 0.1070
+DEBUG:root:Entropy — layer: 4.5487, headwise: [4.567752361297607, 4.529587745666504]
+INFO:root:Loss: 0.1069
+DEBUG:root:Entropy — layer: 4.5488, headwise: [4.567757606506348, 4.52988338470459]
+INFO:root:Loss: 0.1069
+DEBUG:root:Entropy — layer: 4.5490, headwise: [4.5677618980407715, 4.530179977416992]
+INFO:root:Loss: 0.1068
+DEBUG:root:Entropy — layer: 4.5491, headwise: [4.5677642822265625, 4.530477523803711]
+INFO:root:Loss: 0.1067
+DEBUG:root:Entropy — layer: 4.5493, headwise: [4.567765712738037, 4.53077507019043]
+INFO:root:Loss: 0.1066
+DEBUG:root:Entropy — layer: 4.5494, headwise: [4.567765712738037, 4.531074523925781]
+INFO:root:Loss: 0.1065
+DEBUG:root:Entropy — layer: 4.5496, headwise: [4.5677642822265625, 4.531373977661133]
+INFO:root:Loss: 0.1064
+DEBUG:root:Entropy — layer: 4.5497, headwise: [4.5677618980407715, 4.531674385070801]
+INFO:root:Loss: 0.1064
+DEBUG:root:Entropy — layer: 4.5499, headwise: [4.567757606506348, 4.531975269317627]
+INFO:root:Loss: 0.1063
+DEBUG:root:Entropy — layer: 4.5500, headwise: [4.567751884460449, 4.5322771072387695]
+INFO:root:Loss: 0.1062
+DEBUG:root:Entropy — layer: 4.5502, headwise: [4.567745208740234, 4.53257942199707]
+INFO:root:Loss: 0.1061
+DEBUG:root:Entropy — layer: 4.5503, headwise: [4.567737102508545, 4.532882213592529]
+INFO:root:Loss: 0.1060
+DEBUG:root:Entropy — layer: 4.5505, headwise: [4.567727088928223, 4.533185958862305]
+INFO:root:Loss: 0.1059
+DEBUG:root:Entropy — layer: 4.5506, headwise: [4.567715644836426, 4.5334906578063965]
+INFO:root:Loss: 0.1059
+DEBUG:root:Entropy — layer: 4.5507, headwise: [4.5677032470703125, 4.533795356750488]
+INFO:root:Loss: 0.1058
+DEBUG:root:Entropy — layer: 4.5509, headwise: [4.567688941955566, 4.534100532531738]
+INFO:root:Loss: 0.1057
+DEBUG:root:Entropy — layer: 4.5510, headwise: [4.567673683166504, 4.534406661987305]
+INFO:root:Loss: 0.1056
+DEBUG:root:Entropy — layer: 4.5512, headwise: [4.567656517028809, 4.534712791442871]
+INFO:root:Loss: 0.1055
+DEBUG:root:Entropy — layer: 4.5513, headwise: [4.567637920379639, 4.535019874572754]
+INFO:root:Loss: 0.1054
+DEBUG:root:Entropy — layer: 4.5515, headwise: [4.567617893218994, 4.535327434539795]
+INFO:root:Loss: 0.1053
+DEBUG:root:Entropy — layer: 4.5516, headwise: [4.567596435546875, 4.535634994506836]
+INFO:root:Loss: 0.1053
+DEBUG:root:Entropy — layer: 4.5518, headwise: [4.567573070526123, 4.535943508148193]
+INFO:root:Loss: 0.1052
+DEBUG:root:Entropy — layer: 4.5519, headwise: [4.5675482749938965, 4.536252021789551]
+INFO:root:Loss: 0.1051
+DEBUG:root:Entropy — layer: 4.5520, headwise: [4.567522048950195, 4.536561489105225]
+INFO:root:Loss: 0.1050
+DEBUG:root:Entropy — layer: 4.5522, headwise: [4.5674943923950195, 4.536870956420898]
+INFO:root:Loss: 0.1049
+DEBUG:root:Entropy — layer: 4.5523, headwise: [4.567464828491211, 4.5371809005737305]
+INFO:root:Loss: 0.1048
+DEBUG:root:Entropy — layer: 4.5525, headwise: [4.567434310913086, 4.537490367889404]
+INFO:root:Loss: 0.1047
+DEBUG:root:Entropy — layer: 4.5526, headwise: [4.567400932312012, 4.537801265716553]
+INFO:root:Loss: 0.1047
+DEBUG:root:Entropy — layer: 4.5527, headwise: [4.567367076873779, 4.538111686706543]
+INFO:root:Loss: 0.1046
+DEBUG:root:Entropy — layer: 4.5529, headwise: [4.567331314086914, 4.53842306137085]
+INFO:root:Loss: 0.1045
+DEBUG:root:Entropy — layer: 4.5530, headwise: [4.567293643951416, 4.538733959197998]
+INFO:root:Loss: 0.1044
+DEBUG:root:Entropy — layer: 4.5531, headwise: [4.567254066467285, 4.539045810699463]
+INFO:root:Loss: 0.1043
+DEBUG:root:Entropy — layer: 4.5533, headwise: [4.56721305847168, 4.539357662200928]
+INFO:root:Loss: 0.1042
+DEBUG:root:Entropy — layer: 4.5534, headwise: [4.567170143127441, 4.539669990539551]
+INFO:root:Loss: 0.1041
+DEBUG:root:Entropy — layer: 4.5536, headwise: [4.5671257972717285, 4.539981842041016]
+INFO:root:Loss: 0.1041
+DEBUG:root:Entropy — layer: 4.5537, headwise: [4.567079544067383, 4.5402936935424805]
+INFO:root:Loss: 0.1040
+DEBUG:root:Entropy — layer: 4.5538, headwise: [4.567031383514404, 4.54060697555542]
+INFO:root:Loss: 0.1039
+DEBUG:root:Entropy — layer: 4.5540, headwise: [4.566981315612793, 4.540919303894043]
+INFO:root:Loss: 0.1038
+DEBUG:root:Entropy — layer: 4.5541, headwise: [4.566929817199707, 4.541232109069824]
+INFO:root:Loss: 0.1037
+DEBUG:root:Entropy — layer: 4.5542, headwise: [4.566876411437988, 4.5415449142456055]
+INFO:root:Loss: 0.1036
+DEBUG:root:Entropy — layer: 4.5543, headwise: [4.5668206214904785, 4.541857719421387]
+INFO:root:Loss: 0.1035
+DEBUG:root:Entropy — layer: 4.5545, headwise: [4.566762924194336, 4.542171478271484]
+INFO:root:Loss: 0.1034
+DEBUG:root:Entropy — layer: 4.5546, headwise: [4.566703796386719, 4.542484283447266]
+INFO:root:Loss: 0.1033
+DEBUG:root:Entropy — layer: 4.5547, headwise: [4.5666422843933105, 4.542797088623047]
+INFO:root:Loss: 0.1032
+DEBUG:root:Entropy — layer: 4.5548, headwise: [4.566579341888428, 4.5431108474731445]
+INFO:root:Loss: 0.1032
+DEBUG:root:Entropy — layer: 4.5550, headwise: [4.566514015197754, 4.543423652648926]
+INFO:root:Loss: 0.1031
+DEBUG:root:Entropy — layer: 4.5551, headwise: [4.566446304321289, 4.543736934661865]
+INFO:root:Loss: 0.1030
+DEBUG:root:Entropy — layer: 4.5552, headwise: [4.56637716293335, 4.5440497398376465]
+INFO:root:Loss: 0.1029
+DEBUG:root:Entropy — layer: 4.5553, headwise: [4.566306114196777, 4.544363021850586]
+INFO:root:Loss: 0.1028
+DEBUG:root:Entropy — layer: 4.5555, headwise: [4.566232204437256, 4.544675827026367]
+INFO:root:Loss: 0.1027
+DEBUG:root:Entropy — layer: 4.5556, headwise: [4.566156387329102, 4.544989109039307]
+INFO:root:Loss: 0.1026
+DEBUG:root:Entropy — layer: 4.5557, headwise: [4.566078186035156, 4.54530143737793]
+INFO:root:Loss: 0.1025
+DEBUG:root:Entropy — layer: 4.5558, headwise: [4.565998554229736, 4.545614242553711]
+INFO:root:Loss: 0.1024
+DEBUG:root:Entropy — layer: 4.5559, headwise: [4.565915584564209, 4.545927047729492]
+INFO:root:Loss: 0.1023
+DEBUG:root:Entropy — layer: 4.5560, headwise: [4.565831661224365, 4.546239852905273]
+INFO:root:Loss: 0.1022
+DEBUG:root:Entropy — layer: 4.5561, headwise: [4.565744400024414, 4.546551704406738]
+INFO:root:Loss: 0.1021
+DEBUG:root:Entropy — layer: 4.5563, headwise: [4.56565523147583, 4.546863555908203]
+INFO:root:Loss: 0.1020
+DEBUG:root:Entropy — layer: 4.5564, headwise: [4.565563201904297, 4.547175884246826]
+INFO:root:Loss: 0.1019
+DEBUG:root:Entropy — layer: 4.5565, headwise: [4.565469264984131, 4.547487258911133]
+INFO:root:Loss: 0.1018
+DEBUG:root:Entropy — layer: 4.5566, headwise: [4.565372467041016, 4.547799110412598]
+INFO:root:Loss: 0.1017
+DEBUG:root:Entropy — layer: 4.5567, headwise: [4.565273761749268, 4.548110008239746]
+INFO:root:Loss: 0.1016
+DEBUG:root:Entropy — layer: 4.5568, headwise: [4.56517219543457, 4.5484209060668945]
+INFO:root:Loss: 0.1015
+DEBUG:root:Entropy — layer: 4.5569, headwise: [4.565068244934082, 4.548730850219727]
+INFO:root:Loss: 0.1014
+DEBUG:root:Entropy — layer: 4.5570, headwise: [4.5649614334106445, 4.549041748046875]
+INFO:root:Loss: 0.1013
+DEBUG:root:Entropy — layer: 4.5571, headwise: [4.564851760864258, 4.549351692199707]
+INFO:root:Loss: 0.1012
+DEBUG:root:Entropy — layer: 4.5572, headwise: [4.564739227294922, 4.549660682678223]
+INFO:root:Loss: 0.1011
+DEBUG:root:Entropy — layer: 4.5573, headwise: [4.564624786376953, 4.5499701499938965]
+INFO:root:Loss: 0.1010
+DEBUG:root:Entropy — layer: 4.5574, headwise: [4.564507484436035, 4.550278663635254]
+INFO:root:Loss: 0.1009
+DEBUG:root:Entropy — layer: 4.5575, headwise: [4.564387321472168, 4.5505876541137695]
+INFO:root:Loss: 0.1008
+DEBUG:root:Entropy — layer: 4.5576, headwise: [4.564263820648193, 4.5508952140808105]
+INFO:root:Loss: 0.1007
+DEBUG:root:Entropy — layer: 4.5577, headwise: [4.5641374588012695, 4.551202774047852]
+INFO:root:Loss: 0.1006
+DEBUG:root:Entropy — layer: 4.5578, headwise: [4.5640082359313965, 4.551509857177734]
+INFO:root:Loss: 0.1005
+DEBUG:root:Entropy — layer: 4.5578, headwise: [4.563876152038574, 4.551815986633301]
+INFO:root:Loss: 0.1004
+DEBUG:root:Entropy — layer: 4.5579, headwise: [4.563741207122803, 4.552121639251709]
+INFO:root:Loss: 0.1003
+DEBUG:root:Entropy — layer: 4.5580, headwise: [4.563602924346924, 4.552427291870117]
+INFO:root:Loss: 0.1002
+DEBUG:root:Entropy — layer: 4.5581, headwise: [4.5634613037109375, 4.552731990814209]
+INFO:root:Loss: 0.1001
+DEBUG:root:Entropy — layer: 4.5582, headwise: [4.56331729888916, 4.553036689758301]
+INFO:root:Loss: 0.1000
+DEBUG:root:Entropy — layer: 4.5583, headwise: [4.563169002532959, 4.553339958190918]
+INFO:root:Loss: 0.0998
+DEBUG:root:Entropy — layer: 4.5583, headwise: [4.563017845153809, 4.553643226623535]
+INFO:root:Loss: 0.0997
+DEBUG:root:Entropy — layer: 4.5584, headwise: [4.562863349914551, 4.553945541381836]
+INFO:root:Loss: 0.0996
+DEBUG:root:Entropy — layer: 4.5585, headwise: [4.5627055168151855, 4.55424690246582]
+INFO:root:Loss: 0.0995
+DEBUG:root:Entropy — layer: 4.5585, headwise: [4.562544345855713, 4.5545477867126465]
+INFO:root:Loss: 0.0994
+DEBUG:root:Entropy — layer: 4.5586, headwise: [4.562379360198975, 4.5548481941223145]
+INFO:root:Loss: 0.0993
+DEBUG:root:Entropy — layer: 4.5587, headwise: [4.562211036682129, 4.555147647857666]
+INFO:root:Loss: 0.0991
+DEBUG:root:Entropy — layer: 4.5587, headwise: [4.562038421630859, 4.555446147918701]
+INFO:root:Loss: 0.0990
+DEBUG:root:Entropy — layer: 4.5588, headwise: [4.561862468719482, 4.555744171142578]
+INFO:root:Loss: 0.0989
+DEBUG:root:Entropy — layer: 4.5589, headwise: [4.561683177947998, 4.556041240692139]
+INFO:root:Loss: 0.0988
+DEBUG:root:Entropy — layer: 4.5589, headwise: [4.56149959564209, 4.556337356567383]
+INFO:root:Loss: 0.0986
+DEBUG:root:Entropy — layer: 4.5590, headwise: [4.561312675476074, 4.5566325187683105]
+INFO:root:Loss: 0.0985
+DEBUG:root:Entropy — layer: 4.5590, headwise: [4.561120986938477, 4.556926727294922]
+INFO:root:Loss: 0.0984
+DEBUG:root:Entropy — layer: 4.5591, headwise: [4.560925483703613, 4.557219982147217]
+INFO:root:Loss: 0.0983
+DEBUG:root:Entropy — layer: 4.5591, headwise: [4.560726642608643, 4.557512283325195]
+INFO:root:Loss: 0.0981
+DEBUG:root:Entropy — layer: 4.5592, headwise: [4.56052303314209, 4.557803153991699]
+INFO:root:Loss: 0.0980
+DEBUG:root:Entropy — layer: 4.5592, headwise: [4.560315132141113, 4.558094024658203]
+INFO:root:Loss: 0.0979
+DEBUG:root:Entropy — layer: 4.5592, headwise: [4.560103416442871, 4.558382987976074]
+INFO:root:Loss: 0.0977
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.559886932373047, 4.558670997619629]
+INFO:root:Loss: 0.0976
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.559666633605957, 4.558957576751709]
+INFO:root:Loss: 0.0974
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.559441089630127, 4.559243202209473]
+INFO:root:Loss: 0.0973
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.559211254119873, 4.55952787399292]
+INFO:root:Loss: 0.0972
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.558977127075195, 4.559811115264893]
+INFO:root:Loss: 0.0970
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.558738708496094, 4.560092926025391]
+INFO:root:Loss: 0.0969
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.558494567871094, 4.560373306274414]
+INFO:root:Loss: 0.0967
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.558246612548828, 4.560652732849121]
+INFO:root:Loss: 0.0966
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.557992935180664, 4.560930252075195]
+INFO:root:Loss: 0.0964
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.557734966278076, 4.561206340789795]
+INFO:root:Loss: 0.0962
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.557471752166748, 4.56148099899292]
+INFO:root:Loss: 0.0961
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.55720329284668, 4.56175422668457]
+INFO:root:Loss: 0.0959
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.556930065155029, 4.562026023864746]
+INFO:root:Loss: 0.0958
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.556651592254639, 4.562295913696289]
+INFO:root:Loss: 0.0956
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.556367874145508, 4.562563896179199]
+INFO:root:Loss: 0.0954
+DEBUG:root:Entropy — layer: 4.5595, headwise: [4.556078910827637, 4.562829971313477]
+INFO:root:Loss: 0.0953
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.555784702301025, 4.563094615936279]
+INFO:root:Loss: 0.0951
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.555484771728516, 4.563357353210449]
+INFO:root:Loss: 0.0949
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.555179595947266, 4.5636186599731445]
+INFO:root:Loss: 0.0947
+DEBUG:root:Entropy — layer: 4.5594, headwise: [4.554868698120117, 4.563877105712891]
+INFO:root:Loss: 0.0945
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.554553031921387, 4.564133644104004]
+INFO:root:Loss: 0.0943
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.5542311668396, 4.564388751983643]
+INFO:root:Loss: 0.0942
+DEBUG:root:Entropy — layer: 4.5593, headwise: [4.553903579711914, 4.56464147567749]
+INFO:root:Loss: 0.0940
+DEBUG:root:Entropy — layer: 4.5592, headwise: [4.553570747375488, 4.564891815185547]
+INFO:root:Loss: 0.0938
+DEBUG:root:Entropy — layer: 4.5592, headwise: [4.553232192993164, 4.5651397705078125]
+INFO:root:Loss: 0.0936
+DEBUG:root:Entropy — layer: 4.5591, headwise: [4.552887916564941, 4.565385818481445]
+INFO:root:Loss: 0.0934
+DEBUG:root:Entropy — layer: 4.5591, headwise: [4.552537441253662, 4.565629005432129]
+INFO:root:Loss: 0.0932
+DEBUG:root:Entropy — layer: 4.5590, headwise: [4.552181720733643, 4.5658698081970215]
+INFO:root:Loss: 0.0930
+DEBUG:root:Entropy — layer: 4.5590, headwise: [4.551819801330566, 4.566108226776123]
+INFO:root:Loss: 0.0927
+DEBUG:root:Entropy — layer: 4.5589, headwise: [4.55145263671875, 4.566344261169434]
+INFO:root:Loss: 0.0925
+DEBUG:root:Entropy — layer: 4.5588, headwise: [4.551079750061035, 4.566576957702637]
+INFO:root:Loss: 0.0923
+DEBUG:root:Entropy — layer: 4.5588, headwise: [4.550701141357422, 4.566807746887207]
+INFO:root:Loss: 0.0921
+DEBUG:root:Entropy — layer: 4.5587, headwise: [4.550315856933594, 4.567034721374512]
+INFO:root:Loss: 0.0918
+DEBUG:root:Entropy — layer: 4.5586, headwise: [4.549926280975342, 4.567259788513184]
+INFO:root:Loss: 0.0916
+DEBUG:root:Entropy — layer: 4.5585, headwise: [4.549530029296875, 4.56748104095459]
+INFO:root:Loss: 0.0914
+DEBUG:root:Entropy — layer: 4.5584, headwise: [4.549128532409668, 4.567699432373047]
+INFO:root:Loss: 0.0911
+DEBUG:root:Entropy — layer: 4.5583, headwise: [4.548721790313721, 4.567914962768555]
+INFO:root:Loss: 0.0909
+DEBUG:root:Entropy — layer: 4.5582, headwise: [4.548309326171875, 4.568126678466797]
+INFO:root:Loss: 0.0907
+DEBUG:root:Entropy — layer: 4.5581, headwise: [4.547891616821289, 4.56833553314209]
+INFO:root:Loss: 0.0904
+DEBUG:root:Entropy — layer: 4.5580, headwise: [4.547468185424805, 4.568541049957275]
+INFO:root:Loss: 0.0901
+DEBUG:root:Entropy — layer: 4.5579, headwise: [4.5470404624938965, 4.568742752075195]
+INFO:root:Loss: 0.0899
+DEBUG:root:Entropy — layer: 4.5578, headwise: [4.54660701751709, 4.568941116333008]
+INFO:root:Loss: 0.0896
+DEBUG:root:Entropy — layer: 4.5577, headwise: [4.546168804168701, 4.5691351890563965]
+INFO:root:Loss: 0.0894
+DEBUG:root:Entropy — layer: 4.5575, headwise: [4.5457258224487305, 4.569326400756836]
+INFO:root:Loss: 0.0891
+DEBUG:root:Entropy — layer: 4.5574, headwise: [4.5452775955200195, 4.569512844085693]
+INFO:root:Loss: 0.0888
+DEBUG:root:Entropy — layer: 4.5573, headwise: [4.544826030731201, 4.569695949554443]
+INFO:root:Loss: 0.0885
+DEBUG:root:Entropy — layer: 4.5571, headwise: [4.544369220733643, 4.569874286651611]
+INFO:root:Loss: 0.0883
+DEBUG:root:Entropy — layer: 4.5570, headwise: [4.543908596038818, 4.570049285888672]
+INFO:root:Loss: 0.0880
+DEBUG:root:Entropy — layer: 4.5568, headwise: [4.543444633483887, 4.570219993591309]
+INFO:root:Loss: 0.0877
+DEBUG:root:Entropy — layer: 4.5567, headwise: [4.542976379394531, 4.570385456085205]
+INFO:root:Loss: 0.0874
+DEBUG:root:Entropy — layer: 4.5565, headwise: [4.542505264282227, 4.570547103881836]
+INFO:root:Loss: 0.0871
+DEBUG:root:Entropy — layer: 4.5564, headwise: [4.542031288146973, 4.570703983306885]
+INFO:root:Loss: 0.0868
+DEBUG:root:Entropy — layer: 4.5562, headwise: [4.5415544509887695, 4.570856094360352]
+INFO:root:Loss: 0.0865
+DEBUG:root:Entropy — layer: 4.5560, headwise: [4.541074752807617, 4.5710039138793945]
+INFO:root:Loss: 0.0862
+DEBUG:root:Entropy — layer: 4.5559, headwise: [4.54059362411499, 4.5711469650268555]
+INFO:root:Loss: 0.0859
+DEBUG:root:Entropy — layer: 4.5557, headwise: [4.5401105880737305, 4.571284770965576]
+INFO:root:Loss: 0.0856
+DEBUG:root:Entropy — layer: 4.5555, headwise: [4.539626121520996, 4.571417331695557]
+INFO:root:Loss: 0.0853
+DEBUG:root:Entropy — layer: 4.5553, headwise: [4.539140701293945, 4.571545600891113]
+INFO:root:Loss: 0.0849
+DEBUG:root:Entropy — layer: 4.5552, headwise: [4.538654327392578, 4.5716681480407715]
+INFO:root:Loss: 0.0846
+DEBUG:root:Entropy — layer: 4.5550, headwise: [4.538168907165527, 4.571785926818848]
+INFO:root:Loss: 0.0843
+DEBUG:root:Entropy — layer: 4.5548, headwise: [4.537683486938477, 4.571897506713867]
+INFO:root:Loss: 0.0840
+DEBUG:root:Entropy — layer: 4.5546, headwise: [4.537198543548584, 4.572004795074463]
+INFO:root:Loss: 0.0837
+DEBUG:root:Entropy — layer: 4.5544, headwise: [4.536715507507324, 4.572105884552002]
+INFO:root:Loss: 0.0833
+DEBUG:root:Entropy — layer: 4.5542, headwise: [4.536233901977539, 4.572201728820801]
+INFO:root:Loss: 0.0830
+DEBUG:root:Entropy — layer: 4.5540, headwise: [4.535755157470703, 4.572292327880859]
+INFO:root:Loss: 0.0827
+DEBUG:root:Entropy — layer: 4.5538, headwise: [4.535279273986816, 4.5723772048950195]
+INFO:root:Loss: 0.0824
+DEBUG:root:Entropy — layer: 4.5536, headwise: [4.534806728363037, 4.572455883026123]
+INFO:root:Loss: 0.0820
+DEBUG:root:Entropy — layer: 4.5534, headwise: [4.534337997436523, 4.5725297927856445]

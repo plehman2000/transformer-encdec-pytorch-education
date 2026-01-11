@@ -10,5 +10,5 @@ Educational Transformer implementation built from scratch in PyTorch.
 
 Built as a learning resource to understand Transformer internals without abstractions (other than PyTorch).
 
----
-_Written without AI assistance._
+_I know talk is cheap in the age of AI, and it's not really possible to prove to you that I wrote this without AI, but I did_
+

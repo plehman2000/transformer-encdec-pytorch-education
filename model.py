@@ -88,6 +88,17 @@ def get_padding_mask(input_ids, pad_token_id):
     padding_mask = torch.where(padding_locs, -1e9, 0.0)
     return padding_mask
 
+def get_cross_attn_padding_mask(dec_seq_length, enc_seq_length, encoder_ids, pad_token_id):
+    batch_size, _ = encoder_ids.shape
+    padding_locs = encoder_ids == pad_token_id  # True where padding
+    padding_locs = padding_locs.unsqueeze(1).unsqueeze(2)  # get proper # of dimensions
+    padding_locs = padding_locs.expand(
+        batch_size, 1, dec_seq_length, enc_seq_length
+    )
+
+    padding_mask = torch.where(padding_locs, -1e9, 0.0).float()
+    return padding_mask
+
 
 class TransformerDecoderLayer(torch.nn.Module):
     def __init__(
@@ -208,7 +219,6 @@ class TransformerDecoderLayer(torch.nn.Module):
             ),
             "b s n d -> b n s d",
         )
-
         cross_attn, _, _ = self.cross_attention(
             decoder_hidden_state_Q,
             input_hidden_state_K,
@@ -276,7 +286,14 @@ class TransformerDecoder(torch.nn.Module):
 
         decoder_padding_mask = get_padding_mask(target_ids, self.pad_token_id)
 
-        encoder_padding_mask = get_padding_mask(input_ids, self.pad_token_id)
+        encoder_padding_mask = get_cross_attn_padding_mask(
+        dec_seq_length=output_seq_length,
+        enc_seq_length=input_ids.shape[1],
+        encoder_ids=input_ids,
+        pad_token_id=self.pad_token_id,
+        )
+
+
 
         for block in self.decoder_blocks:
             x = block(

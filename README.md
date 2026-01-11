@@ -1,9 +1,14 @@
-﻿# transformer-encdec-pytorch-education
+﻿# Transformer Encoder-Decoder (PyTorch Educational)
 
-A Simple Pre-Norm  Transformer Implementation
-- Complete Encoder-Decoder Architecture
-- Naive Positional Embedding
-- Example sequence task, training loop and generation function
+Educational Transformer implementation built from scratch in PyTorch.
 
+## Features
 
-_I know talk is cheap in the age of AI, and it's not really possible to prove to you that I wrote this without AI, but I did_
+- Pre-norm encoder-decoder architecture
+- Multi-head attention with sinusoidal positional embeddings
+- Training loop and autoregressive generation example
+
+Built as a learning resource to understand Transformer internals without abstractions (other than PyTorch).
+
+---
+_Written without AI assistance._

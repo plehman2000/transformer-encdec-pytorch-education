@@ -47,7 +47,7 @@ target_seq = torch.randn(3, 100, 100, device=device)  # (batch, seq_len, dim)
 
 
 model = TransformerEncoder(
-    n_blocks=1,
+    n_blocks=2,
     d_model=100,
     n_heads=10,
     d_head=10,
@@ -62,7 +62,7 @@ optim = torch.optim.AdamW(model.parameters(), lr=1e-3)
 
 for _ in range(iterations):
     optim.zero_grad()
-    output, input = model(batch_padded)
+    output = model(batch_padded)
     loss = criterion(output, target_seq)
     loss.backward()
     optim.step()
